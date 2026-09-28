@@ -1,0 +1,70 @@
+{
+  "status": "passed",
+  "issues": [],
+  "figures": [
+    {
+      "figure": "01_terrain_routes",
+      "width_mm": 179.99999491373697,
+      "height_mm": 144.99999949137367,
+      "min_font_pt": 7.0,
+      "collision_fail": 0,
+      "collision_warn": 0,
+      "pdf_sha256": "37c609b8dd9092ffb31e31e3f3afcbb2f069ab3a3e42a0c4055dbfc1fd5384a5"
+    },
+    {
+      "figure": "02_safe_payload",
+      "width_mm": 179.99999491373697,
+      "height_mm": 149.99999576144748,
+      "min_font_pt": 7.0,
+      "collision_fail": 0,
+      "collision_warn": 0,
+      "pdf_sha256": "c5d6fe580d7feca5aaaa19263c565744647fd4ce61dcd00445d029bf76f0de7c"
+    },
+    {
+      "figure": "03_q2_tradeoff",
+      "width_mm": 179.99999491373697,
+      "height_mm": 110.00000406901042,
+      "min_font_pt": 7.0,
+      "collision_fail": 0,
+      "collision_warn": 0,
+      "pdf_sha256": "85e488dfc9a607ef6ec0e8212fbcacdf609b44d2d64083d7944783d6b5d81102"
+    },
+    {
+      "figure": "04_q2_resources",
+      "width_mm": 179.99999491373697,
+      "height_mm": 134.99999618530273,
+      "min_font_pt": 7.0,
+      "collision_fail": 0,
+      "collision_warn": 0,
+      "pdf_sha256": "281f8a3dabecf095ba007d5adfa5a69880d22c237983bcffb60c815feb69ad54"
+    },
+    {
+      "figure": "05_q3_resources",
+      "width_mm": 179.99999491373697,
+      "height_mm": 174.99999864366316,
+      "min_font_pt": 7.0,
+      "collision_fail": 0,
+      "collision_warn": 0,
+      "pdf_sha256": "d90b66cf1c52b2db6774031b720f448239c45da70d630526729797f4193adc92"
+    },
+    {
+      "figure": "06_communication",
+      "width_mm": 179.99999491373697,
+      "height_mm": 174.99999864366316,
+      "min_font_pt": 7.0,
+      "collision_fail": 0,
+      "collision_warn": 0,
+      "pdf_sha256": "875e101d58647e26be86a3fca7172b9d718a4b4042e80fa2b4e8acc052e9086d"
+    },
+    {
+      "figure": "07_q4_resources",
+      "width_mm": 179.99999491373697,
+      "height_mm": 115.00000033908421,
+      "min_font_pt": 7.0,
+      "collision_fail": 0,
+      "collision_warn": 0,
+      "pdf_sha256": "9bc373d172a49b771bed06325a75741e27216dbeb9394ae764046748b469c9c5"
+    }
+  ],
+  "scope": "Source data coverage and saved rendered-audit records; visual review remains separately documented"
+}

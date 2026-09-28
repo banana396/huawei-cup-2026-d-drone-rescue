@@ -1,0 +1,402 @@
+[
+  {
+    "mission": "Q3-013",
+    "phase": "巡航",
+    "start_s": 5141.708554122367,
+    "end_s": 5141.708554175473,
+    "recorded_mode": "中继",
+    "recorded_relay": "R-001",
+    "probe_time_s": 5141.708554135644,
+    "direct_margin_db": 7.446218368548216,
+    "direct_clearance_m": 1.7940354196893509,
+    "actual_mode": "直连",
+    "high_precision_margin_db": "7.44621836854843753357298080590625360772130265906469080259220867983956",
+    "high_precision_clearance_m": "1.7940354196904278502235059355218241109816878878726861649074670205028",
+    "witness_pixel": [
+      751,
+      712
+    ],
+    "actual_mode_high_precision": "直连",
+    "mismatch_confirmed": true,
+    "excel_rows": [
+      [
+        128,
+        [
+          "Q3-013",
+          "巡航",
+          5139.926603788763,
+          5141.708554175473,
+          "中继",
+          "R-001",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "mission": "Q3-013",
+    "phase": "巡航",
+    "start_s": 5141.708554122367,
+    "end_s": 5141.708554175473,
+    "recorded_mode": "中继",
+    "recorded_relay": "R-001",
+    "probe_time_s": 5141.70855414892,
+    "direct_margin_db": 7.446218368262464,
+    "direct_clearance_m": 1.7940354185950298,
+    "actual_mode": "直连",
+    "high_precision_margin_db": "7.44621836826271124673218314647054196897831314635520294728396575087008",
+    "high_precision_clearance_m": "1.7940354185960390984633930169944944730679061798568998378667535867200",
+    "witness_pixel": [
+      751,
+      712
+    ],
+    "actual_mode_high_precision": "直连",
+    "mismatch_confirmed": true,
+    "excel_rows": [
+      [
+        128,
+        [
+          "Q3-013",
+          "巡航",
+          5139.926603788763,
+          5141.708554175473,
+          "中继",
+          "R-001",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "mission": "Q3-013",
+    "phase": "巡航",
+    "start_s": 5141.708554122367,
+    "end_s": 5141.708554175473,
+    "recorded_mode": "中继",
+    "recorded_relay": "R-001",
+    "probe_time_s": 5141.708554162196,
+    "direct_margin_db": 7.446218367976712,
+    "direct_clearance_m": 1.7940354175006519,
+    "actual_mode": "直连",
+    "high_precision_margin_db": "7.44621836797696538558222112186427568602061199105326868482763135984257",
+    "high_precision_clearance_m": "1.7940354175015753732341575059983848160968978751901444433595584388752",
+    "witness_pixel": [
+      751,
+      712
+    ],
+    "actual_mode_high_precision": "直连",
+    "mismatch_confirmed": true,
+    "excel_rows": [
+      [
+        128,
+        [
+          "Q3-013",
+          "巡航",
+          5139.926603788763,
+          5141.708554175473,
+          "中继",
+          "R-001",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "mission": "Q3-013",
+    "phase": "巡航",
+    "start_s": 5173.21188158969,
+    "end_s": 5173.211881659805,
+    "recorded_mode": "中继",
+    "recorded_relay": "R-001",
+    "probe_time_s": 5173.211881607219,
+    "direct_margin_db": 6.786521118055603,
+    "direct_clearance_m": 5.0526893552851675,
+    "actual_mode": "直连",
+    "high_precision_margin_db": "6.78652111805562519982280266863443785132512283158466976377199011231014",
+    "high_precision_clearance_m": "5.0526893552801120255030214519756887958757186605329319468063410611808",
+    "witness_pixel": [
+      752,
+      710
+    ],
+    "actual_mode_high_precision": "直连",
+    "mismatch_confirmed": true,
+    "excel_rows": [
+      [
+        130,
+        [
+          "Q3-013",
+          "巡航",
+          5173.21188158969,
+          5342.6046334659295,
+          "中继",
+          "R-001",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "mission": "Q3-013",
+    "phase": "巡航",
+    "start_s": 5173.21188158969,
+    "end_s": 5173.211881659805,
+    "recorded_mode": "中继",
+    "recorded_relay": "R-001",
+    "probe_time_s": 5173.211881624748,
+    "direct_margin_db": 6.786521117698584,
+    "direct_clearance_m": 5.052689347197315,
+    "actual_mode": "直连",
+    "high_precision_margin_db": "6.78652111769863227542854397943049458363187490497102046372328485655622",
+    "high_precision_clearance_m": "5.0526893472216894371890419552746809302766565584045267218937635569323",
+    "witness_pixel": [
+      752,
+      710
+    ],
+    "actual_mode_high_precision": "直连",
+    "mismatch_confirmed": true,
+    "excel_rows": [
+      [
+        130,
+        [
+          "Q3-013",
+          "巡航",
+          5173.21188158969,
+          5342.6046334659295,
+          "中继",
+          "R-001",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "mission": "Q3-007",
+    "phase": "巡航",
+    "start_s": 2416.815700494073,
+    "end_s": 2416.8157005652392,
+    "recorded_mode": "直连",
+    "recorded_relay": null,
+    "probe_time_s": 2416.8157005474477,
+    "direct_margin_db": -0.8467905268547611,
+    "direct_clearance_m": -1.6085834886325756e-09,
+    "actual_mode": "需中继",
+    "high_precision_margin_db": "-0.84679052685454158271568205053786443044380782586007392180798633287669",
+    "high_precision_clearance_m": "-1.6080899028179102329462256058267020948842546756619717254468E-9",
+    "witness_pixel": [
+      746,
+      705
+    ],
+    "actual_mode_high_precision": "需中继",
+    "mismatch_confirmed": true,
+    "excel_rows": [
+      [
+        63,
+        [
+          "Q3-007",
+          "巡航",
+          2053.850189548625,
+          2416.8157005652392,
+          "直连",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "mission": "Q3-007",
+    "phase": "巡航",
+    "start_s": 3322.1970468378513,
+    "end_s": 3322.1970469090174,
+    "recorded_mode": "直连",
+    "recorded_relay": null,
+    "probe_time_s": 3322.197046855643,
+    "direct_margin_db": -0.8467905268547611,
+    "direct_clearance_m": -1.6085834886325756e-09,
+    "actual_mode": "需中继",
+    "high_precision_margin_db": "-0.84679052685454606553111573372063104055865230077786748118197615153665",
+    "high_precision_clearance_m": "-1.6081168523016468116198150283011204020572429649352810572021E-9",
+    "witness_pixel": [
+      746,
+      705
+    ],
+    "actual_mode_high_precision": "需中继",
+    "mismatch_confirmed": true,
+    "excel_rows": [
+      [
+        69,
+        [
+          "Q3-007",
+          "巡航",
+          3322.1970468378513,
+          3685.1625578544654,
+          "直连",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "mission": "Q3-022",
+    "phase": "巡航",
+    "start_s": 4531.6457293251515,
+    "end_s": 4531.645729396317,
+    "recorded_mode": "直连",
+    "recorded_relay": null,
+    "probe_time_s": 4531.645729378525,
+    "direct_margin_db": -0.8467905268547611,
+    "direct_clearance_m": -1.6085834886325756e-09,
+    "actual_mode": "需中继",
+    "high_precision_margin_db": "-0.84679052685455243590450773460068348657846644629648992773509605908163",
+    "high_precision_clearance_m": "-1.6081551492774343261120090562715664808668587636442537573763E-9",
+    "witness_pixel": [
+      746,
+      705
+    ],
+    "actual_mode_high_precision": "需中继",
+    "mismatch_confirmed": true,
+    "excel_rows": [
+      [
+        214,
+        [
+          "Q3-022",
+          "巡航",
+          4168.680218379703,
+          4531.645729396317,
+          "直连",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  }
+]

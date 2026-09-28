@@ -1,0 +1,258 @@
+TRANSPORT {'sorties': 24, 'model_sorties': {'C': 6, 'A': 10, 'B': 8}, 'energy_kwh': 72.89098329333919, 'makespan_s': 6374.558827573747, 'minimum_SOC': 0.20950489005646666, 'minimum_hard_deadline_slack_s': 407.319690348259, 'total_lateness_s': 0, 'max_lateness_s': 0, 'coverage': 80, 'duplicates': 0, 'issues': 0} {'sorties': 24, 'model_sorties': {'C': 6, 'A': 10, 'B': 8}, 'energy_kwh': 72.89098329333919, 'makespan_s': 6429.317140407739, 'minimum_SOC': 0.20950489005646666, 'minimum_hard_deadline_slack_s': 552.5147241790573, 'total_lateness_s': 0, 'max_lateness_s': 0, 'coverage': 80, 'duplicates': 0, 'issues': 0} RELAY 3.3660038098077036 issues 0
+CONTINUOUS 0 / 188 leaves 3 failures 0
+CONTINUOUS 14 / 188 leaves 122 failures 0
+CONTINUOUS 28 / 188 leaves 301 failures 0
+CONTINUOUS 42 / 188 leaves 449 failures 0
+CONTINUOUS 56 / 188 leaves 612 failures 0
+CONTINUOUS 70 / 188 leaves 743 failures 0
+CONTINUOUS 84 / 188 leaves 882 failures 0
+CONTINUOUS 98 / 188 leaves 1008 failures 0
+CONTINUOUS 112 / 188 leaves 1157 failures 0
+CONTINUOUS 126 / 188 leaves 1281 failures 0
+CONTINUOUS 140 / 188 leaves 1458 failures 0
+CONTINUOUS 154 / 188 leaves 1632 failures 0
+CONTINUOUS 168 / 188 leaves 1777 failures 0
+CONTINUOUS 182 / 188 leaves 1929 failures 0
+DENSE Q3-001 交接 samples 750 failures 0
+DENSE Q3-002 交接 samples 1852 failures 0
+DENSE Q3-003 交接 samples 2725 failures 0
+DENSE Q3-003 交接 samples 3827 failures 0
+DENSE Q3-004 交接 samples 5661 failures 0
+DENSE Q3-005 交接 samples 7091 failures 0
+DENSE Q3-005 交接 samples 7700 failures 0
+DENSE Q3-006 交接 samples 9173 failures 0
+DENSE Q3-007 交接 samples 10702 failures 0
+DENSE Q3-008 交接 samples 12044 failures 0
+DENSE Q3-009 交接 samples 13390 failures 0
+DENSE Q3-010 交接 samples 15001 failures 0
+DENSE Q3-011 交接 samples 16281 failures 0
+DENSE Q3-011 交接 samples 16822 failures 0
+DENSE Q3-012 交接 samples 18043 failures 0
+DENSE Q3-013 交接 samples 19420 failures 0
+DENSE Q3-013 交接 samples 19960 failures 0
+DENSE Q3-014 交接 samples 21404 failures 0
+DENSE Q3-015 交接 samples 22518 failures 0
+DENSE Q3-016 交接 samples 23734 failures 0
+DENSE Q3-017 交接 samples 25562 failures 0
+DENSE Q3-018 交接 samples 27260 failures 0
+DENSE Q3-018 交接 samples 27815 failures 0
+DENSE Q3-019 交接 samples 29622 failures 0
+DENSE Q3-020 交接 samples 31165 failures 0
+DENSE Q3-021 交接 samples 32393 failures 0
+DENSE Q3-022 交接 samples 33880 failures 0
+DENSE Q3-023 交接 samples 35590 failures 0
+DENSE Q3-024 交接 samples 36842 failures 0
+TABLE 0 / 188 uncertain 0 issues 0
+TABLE 1 / 188 uncertain 0 issues 0
+TABLE 2 / 188 uncertain 0 issues 0
+TABLE 3 / 188 uncertain 0 issues 0
+TABLE 4 / 188 uncertain 0 issues 0
+TABLE 5 / 188 uncertain 0 issues 0
+TABLE 6 / 188 uncertain 0 issues 0
+TABLE 7 / 188 uncertain 0 issues 0
+TABLE 8 / 188 uncertain 0 issues 0
+TABLE 9 / 188 uncertain 0 issues 0
+TABLE 10 / 188 uncertain 0 issues 0
+TABLE 11 / 188 uncertain 0 issues 0
+TABLE 12 / 188 uncertain 0 issues 0
+TABLE 13 / 188 uncertain 0 issues 0
+TABLE 14 / 188 uncertain 0 issues 0
+TABLE 15 / 188 uncertain 0 issues 0
+TABLE 16 / 188 uncertain 0 issues 0
+TABLE 17 / 188 uncertain 0 issues 0
+TABLE 18 / 188 uncertain 0 issues 0
+TABLE 19 / 188 uncertain 2 issues 0
+TABLE 20 / 188 uncertain 2 issues 0
+TABLE 21 / 188 uncertain 2 issues 0
+TABLE 22 / 188 uncertain 2 issues 0
+TABLE 23 / 188 uncertain 4 issues 0
+TABLE 24 / 188 uncertain 4 issues 0
+TABLE 25 / 188 uncertain 4 issues 0
+TABLE_DETAIL Q3-004 巡航 5089.510268782629 5089.527595118443 中继 {'checks': 2000, 'certified': 919}
+TABLE 26 / 188 uncertain 209 issues 0
+TABLE 27 / 188 uncertain 209 issues 0
+TABLE 28 / 188 uncertain 209 issues 0
+TABLE 29 / 188 uncertain 209 issues 0
+TABLE_DETAIL Q3-004 巡航 5921.6716344393035 5921.671668279803 中继 {'checks': 4000, 'certified': 1944}
+TABLE 30 / 188 uncertain 414 issues 0
+TABLE 31 / 188 uncertain 414 issues 0
+TABLE 32 / 188 uncertain 414 issues 0
+TABLE 33 / 188 uncertain 416 issues 0
+TABLE 34 / 188 uncertain 416 issues 0
+TABLE 35 / 188 uncertain 416 issues 0
+TABLE 36 / 188 uncertain 416 issues 0
+TABLE 37 / 188 uncertain 416 issues 0
+TABLE 38 / 188 uncertain 416 issues 0
+TABLE 39 / 188 uncertain 416 issues 0
+TABLE 40 / 188 uncertain 416 issues 0
+TABLE 41 / 188 uncertain 418 issues 0
+TABLE 42 / 188 uncertain 418 issues 0
+TABLE 43 / 188 uncertain 418 issues 0
+TABLE 44 / 188 uncertain 420 issues 0
+TABLE 45 / 188 uncertain 420 issues 0
+TABLE 46 / 188 uncertain 420 issues 0
+TABLE 47 / 188 uncertain 420 issues 0
+TABLE 48 / 188 uncertain 422 issues 0
+TABLE 49 / 188 uncertain 422 issues 0
+TABLE 50 / 188 uncertain 422 issues 0
+TABLE_DETAIL Q3-007 巡航 2416.8206756022537 2416.8206940968153 中继 {'checks': 6000, 'certified': 2697}
+TABLE 51 / 188 uncertain 561 issues 0
+TABLE 52 / 188 uncertain 561 issues 0
+TABLE 53 / 188 uncertain 561 issues 0
+TABLE 54 / 188 uncertain 561 issues 0
+TABLE_DETAIL Q3-007 巡航 3322.1917204041706 3322.192312230135 中继 {'checks': 8000, 'certified': 3728}
+TABLE 55 / 188 uncertain 700 issues 0
+TABLE 56 / 188 uncertain 700 issues 0
+TABLE 57 / 188 uncertain 700 issues 0
+TABLE 58 / 188 uncertain 700 issues 0
+TABLE 59 / 188 uncertain 700 issues 0
+TABLE 60 / 188 uncertain 700 issues 0
+TABLE 61 / 188 uncertain 700 issues 0
+TABLE 62 / 188 uncertain 700 issues 0
+TABLE 63 / 188 uncertain 700 issues 0
+TABLE 64 / 188 uncertain 700 issues 0
+TABLE 65 / 188 uncertain 702 issues 0
+TABLE 66 / 188 uncertain 702 issues 0
+TABLE 67 / 188 uncertain 702 issues 0
+TABLE 68 / 188 uncertain 702 issues 0
+TABLE 69 / 188 uncertain 704 issues 0
+TABLE 70 / 188 uncertain 704 issues 0
+TABLE 71 / 188 uncertain 704 issues 0
+TABLE 72 / 188 uncertain 706 issues 0
+TABLE 73 / 188 uncertain 706 issues 0
+TABLE 74 / 188 uncertain 706 issues 0
+TABLE 75 / 188 uncertain 706 issues 0
+TABLE 76 / 188 uncertain 708 issues 0
+TABLE 77 / 188 uncertain 708 issues 0
+TABLE 78 / 188 uncertain 708 issues 0
+TABLE 79 / 188 uncertain 708 issues 0
+TABLE 80 / 188 uncertain 708 issues 0
+TABLE 81 / 188 uncertain 708 issues 0
+TABLE 82 / 188 uncertain 708 issues 0
+TABLE_DETAIL Q3-011 巡航 2695.996738160524 2695.996738276485 中继 {'checks': 10000, 'certified': 4709}
+TABLE 83 / 188 uncertain 713 issues 0
+TABLE 84 / 188 uncertain 721 issues 0
+TABLE 85 / 188 uncertain 721 issues 0
+TABLE 86 / 188 uncertain 721 issues 0
+TABLE_DETAIL Q3-011 巡航 3118.5931706526126 3118.593242213804 直连 {'checks': 12000, 'certified': 5714}
+TABLE 87 / 188 uncertain 723 issues 0
+TABLE 88 / 188 uncertain 723 issues 0
+TABLE 89 / 188 uncertain 723 issues 0
+TABLE 90 / 188 uncertain 725 issues 0
+TABLE 91 / 188 uncertain 725 issues 0
+TABLE 92 / 188 uncertain 725 issues 0
+TABLE 93 / 188 uncertain 725 issues 0
+TABLE 94 / 188 uncertain 727 issues 0
+TABLE 95 / 188 uncertain 727 issues 0
+TABLE 96 / 188 uncertain 727 issues 0
+TABLE 97 / 188 uncertain 729 issues 0
+TABLE 98 / 188 uncertain 729 issues 0
+TABLE 99 / 188 uncertain 729 issues 0
+TABLE 100 / 188 uncertain 729 issues 0
+TABLE 101 / 188 uncertain 739 issues 0
+TABLE 102 / 188 uncertain 739 issues 0
+TABLE 103 / 188 uncertain 739 issues 0
+TABLE 104 / 188 uncertain 739 issues 0
+TABLE_DETAIL Q3-013 巡航 5895.574013412372 5895.574022517387 中继 {'checks': 14000, 'certified': 6792}
+TABLE_DETAIL Q3-013 巡航 5895.584115731697 5895.586478788409 直连 {'checks': 16000, 'certified': 7653}
+TABLE 105 / 188 uncertain 875 issues 0
+TABLE 106 / 188 uncertain 875 issues 0
+TABLE 107 / 188 uncertain 875 issues 0
+TABLE 108 / 188 uncertain 877 issues 0
+TABLE 109 / 188 uncertain 877 issues 0
+TABLE 110 / 188 uncertain 877 issues 0
+TABLE 111 / 188 uncertain 877 issues 0
+TABLE 112 / 188 uncertain 879 issues 0
+TABLE 113 / 188 uncertain 879 issues 0
+TABLE 114 / 188 uncertain 879 issues 0
+TABLE 115 / 188 uncertain 879 issues 0
+TABLE 116 / 188 uncertain 879 issues 0
+TABLE 117 / 188 uncertain 879 issues 0
+TABLE 118 / 188 uncertain 879 issues 0
+TABLE 119 / 188 uncertain 879 issues 0
+TABLE 120 / 188 uncertain 879 issues 0
+TABLE 121 / 188 uncertain 879 issues 0
+TABLE 122 / 188 uncertain 881 issues 0
+TABLE 123 / 188 uncertain 881 issues 0
+TABLE 124 / 188 uncertain 881 issues 0
+TABLE 125 / 188 uncertain 881 issues 0
+TABLE 126 / 188 uncertain 883 issues 0
+TABLE 127 / 188 uncertain 883 issues 0
+TABLE 128 / 188 uncertain 883 issues 0
+TABLE 129 / 188 uncertain 885 issues 0
+TABLE 130 / 188 uncertain 885 issues 0
+TABLE 131 / 188 uncertain 885 issues 0
+TABLE 132 / 188 uncertain 885 issues 0
+TABLE 133 / 188 uncertain 887 issues 0
+TABLE 134 / 188 uncertain 887 issues 0
+TABLE 135 / 188 uncertain 887 issues 0
+TABLE 136 / 188 uncertain 889 issues 0
+TABLE 137 / 188 uncertain 889 issues 0
+TABLE 138 / 188 uncertain 889 issues 0
+TABLE 139 / 188 uncertain 889 issues 0
+TABLE 140 / 188 uncertain 889 issues 0
+TABLE 141 / 188 uncertain 889 issues 0
+TABLE 142 / 188 uncertain 889 issues 0
+TABLE 143 / 188 uncertain 889 issues 0
+TABLE 144 / 188 uncertain 891 issues 0
+TABLE 145 / 188 uncertain 891 issues 0
+TABLE 146 / 188 uncertain 891 issues 0
+TABLE 147 / 188 uncertain 893 issues 0
+TABLE 148 / 188 uncertain 893 issues 0
+TABLE 149 / 188 uncertain 893 issues 0
+TABLE 150 / 188 uncertain 893 issues 0
+TABLE 151 / 188 uncertain 895 issues 0
+TABLE 152 / 188 uncertain 895 issues 0
+TABLE 153 / 188 uncertain 895 issues 0
+TABLE 154 / 188 uncertain 897 issues 0
+TABLE 155 / 188 uncertain 897 issues 0
+TABLE 156 / 188 uncertain 897 issues 0
+TABLE 157 / 188 uncertain 897 issues 0
+TABLE 158 / 188 uncertain 899 issues 0
+TABLE 159 / 188 uncertain 899 issues 0
+TABLE 160 / 188 uncertain 899 issues 0
+TABLE 161 / 188 uncertain 901 issues 0
+TABLE 162 / 188 uncertain 901 issues 0
+TABLE 163 / 188 uncertain 901 issues 0
+TABLE 164 / 188 uncertain 901 issues 0
+TABLE_DETAIL Q3-021 巡航 4763.553011953594 4763.591023246493 中继 {'checks': 18000, 'certified': 8954}
+TABLE 165 / 188 uncertain 903 issues 0
+TABLE 166 / 188 uncertain 903 issues 0
+TABLE 167 / 188 uncertain 903 issues 0
+TABLE_DETAIL Q3-022 巡航 4536.456090836179 4536.475029267045 中继 {'checks': 20000, 'certified': 9833}
+TABLE 168 / 188 uncertain 1042 issues 0
+TABLE 169 / 188 uncertain 1042 issues 0
+TABLE 170 / 188 uncertain 1042 issues 0
+TABLE 171 / 188 uncertain 1042 issues 0
+TABLE 172 / 188 uncertain 1181 issues 0
+TABLE 173 / 188 uncertain 1181 issues 0
+TABLE 174 / 188 uncertain 1181 issues 0
+TABLE_DETAIL Q3-023 巡航 4950.312932522422 4950.313006440645 直连 {'checks': 22000, 'certified': 10741}
+TABLE 175 / 188 uncertain 1183 issues 0
+TABLE 176 / 188 uncertain 1183 issues 0
+TABLE 177 / 188 uncertain 1183 issues 0
+TABLE 178 / 188 uncertain 1183 issues 0
+TABLE 179 / 188 uncertain 1185 issues 0
+TABLE 180 / 188 uncertain 1185 issues 0
+TABLE 181 / 188 uncertain 1185 issues 0
+TABLE 182 / 188 uncertain 1185 issues 0
+TABLE 183 / 188 uncertain 1185 issues 0
+TABLE 184 / 188 uncertain 1185 issues 0
+TABLE 185 / 188 uncertain 1185 issues 0
+TABLE 186 / 188 uncertain 1185 issues 0
+TABLE 187 / 188 uncertain 1185 issues 0
+CONTINUOUS 0 / 188 leaves 3 failures 0
+CONTINUOUS 14 / 188 leaves 122 failures 0
+CONTINUOUS 28 / 188 leaves 301 failures 0
+CONTINUOUS 42 / 188 leaves 449 failures 0
+CONTINUOUS 56 / 188 leaves 612 failures 0
+CONTINUOUS 70 / 188 leaves 743 failures 0
+CONTINUOUS 84 / 188 leaves 882 failures 0
+CONTINUOUS 98 / 188 leaves 1008 failures 0
+CONTINUOUS 112 / 188 leaves 1157 failures 0
+CONTINUOUS 126 / 188 leaves 1281 failures 0
+CONTINUOUS 140 / 188 leaves 1458 failures 0
+CONTINUOUS 154 / 188 leaves 1632 failures 0
+CONTINUOUS 168 / 188 leaves 1777 failures 0
+CONTINUOUS 182 / 188 leaves 1929 failures 0
+FINAL physical_feasibility_passed_with_table_boundary_precision_limit issues [] elapsed 26.8779718875885

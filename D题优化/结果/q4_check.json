@@ -1,0 +1,240 @@
+{
+  "status": "passed_sampled_verification",
+  "step_s": 5,
+  "summary": {
+    "2": {
+      "resource_priority": {
+        "issues": [],
+        "groups": [
+          {
+            "blind_samples": 3087,
+            "resources": {
+              "A_craft": 4,
+              "A_batteries": 6,
+              "B_craft": 2,
+              "B_batteries": 4,
+              "C_craft": 2,
+              "C_batteries": 4,
+              "relay_craft": 2,
+              "relay_components": 2
+            }
+          },
+          {
+            "blind_samples": 0,
+            "resources": {
+              "A_craft": 0,
+              "A_batteries": 0,
+              "B_craft": 1,
+              "B_batteries": 1,
+              "C_craft": 0,
+              "C_batteries": 0,
+              "relay_craft": 0,
+              "relay_components": 0
+            }
+          }
+        ]
+      },
+      "balanced_resource_priority": {
+        "issues": [],
+        "groups": [
+          {
+            "blind_samples": 1659,
+            "resources": {
+              "A_craft": 3,
+              "A_batteries": 4,
+              "B_craft": 0,
+              "B_batteries": 0,
+              "C_craft": 2,
+              "C_batteries": 3,
+              "relay_craft": 2,
+              "relay_components": 2
+            }
+          },
+          {
+            "blind_samples": 1428,
+            "resources": {
+              "A_craft": 3,
+              "A_batteries": 4,
+              "B_craft": 2,
+              "B_batteries": 4,
+              "C_craft": 1,
+              "C_batteries": 1,
+              "relay_craft": 2,
+              "relay_components": 2
+            }
+          }
+        ]
+      },
+      "balance_priority": {
+        "issues": [],
+        "groups": [
+          {
+            "blind_samples": 1085,
+            "resources": {
+              "A_craft": 3,
+              "A_batteries": 4,
+              "B_craft": 2,
+              "B_batteries": 4,
+              "C_craft": 2,
+              "C_batteries": 2,
+              "relay_craft": 2,
+              "relay_components": 2
+            }
+          },
+          {
+            "blind_samples": 2002,
+            "resources": {
+              "A_craft": 4,
+              "A_batteries": 5,
+              "B_craft": 1,
+              "B_batteries": 2,
+              "C_craft": 2,
+              "C_batteries": 3,
+              "relay_craft": 2,
+              "relay_components": 2
+            }
+          }
+        ]
+      }
+    },
+    "3": {
+      "resource_priority": {
+        "issues": [],
+        "groups": [
+          {
+            "blind_samples": 2965,
+            "resources": {
+              "A_craft": 4,
+              "A_batteries": 6,
+              "B_craft": 2,
+              "B_batteries": 4,
+              "C_craft": 2,
+              "C_batteries": 4,
+              "relay_craft": 2,
+              "relay_components": 2
+            }
+          },
+          {
+            "blind_samples": 0,
+            "resources": {
+              "A_craft": 0,
+              "A_batteries": 0,
+              "B_craft": 1,
+              "B_batteries": 1,
+              "C_craft": 0,
+              "C_batteries": 0,
+              "relay_craft": 0,
+              "relay_components": 0
+            }
+          },
+          {
+            "blind_samples": 122,
+            "resources": {
+              "A_craft": 0,
+              "A_batteries": 0,
+              "B_craft": 1,
+              "B_batteries": 1,
+              "C_craft": 0,
+              "C_batteries": 0,
+              "relay_craft": 1,
+              "relay_components": 1
+            }
+          }
+        ]
+      },
+      "balanced_resource_priority": {
+        "issues": [],
+        "groups": [
+          {
+            "blind_samples": 1004,
+            "resources": {
+              "A_craft": 2,
+              "A_batteries": 2,
+              "B_craft": 0,
+              "B_batteries": 0,
+              "C_craft": 2,
+              "C_batteries": 3,
+              "relay_craft": 2,
+              "relay_components": 2
+            }
+          },
+          {
+            "blind_samples": 1060,
+            "resources": {
+              "A_craft": 3,
+              "A_batteries": 3,
+              "B_craft": 0,
+              "B_batteries": 0,
+              "C_craft": 2,
+              "C_batteries": 2,
+              "relay_craft": 1,
+              "relay_components": 1
+            }
+          },
+          {
+            "blind_samples": 1023,
+            "resources": {
+              "A_craft": 3,
+              "A_batteries": 4,
+              "B_craft": 2,
+              "B_batteries": 4,
+              "C_craft": 0,
+              "C_batteries": 0,
+              "relay_craft": 2,
+              "relay_components": 2
+            }
+          }
+        ]
+      },
+      "balance_priority": {
+        "issues": [],
+        "groups": [
+          {
+            "blind_samples": 1064,
+            "resources": {
+              "A_craft": 2,
+              "A_batteries": 2,
+              "B_craft": 2,
+              "B_batteries": 2,
+              "C_craft": 2,
+              "C_batteries": 3,
+              "relay_craft": 2,
+              "relay_components": 2
+            }
+          },
+          {
+            "blind_samples": 1320,
+            "resources": {
+              "A_craft": 3,
+              "A_batteries": 3,
+              "B_craft": 1,
+              "B_batteries": 1,
+              "C_craft": 2,
+              "C_batteries": 3,
+              "relay_craft": 2,
+              "relay_components": 2
+            }
+          },
+          {
+            "blind_samples": 703,
+            "resources": {
+              "A_craft": 3,
+              "A_batteries": 4,
+              "B_craft": 2,
+              "B_batteries": 4,
+              "C_craft": 0,
+              "C_batteries": 0,
+              "relay_craft": 2,
+              "relay_components": 2
+            }
+          }
+        ]
+      }
+    }
+  },
+  "issues": [],
+  "frozen_relation_check": "exact equality including numerical boundary guards",
+  "continuous_coverage": "inherited verified Q3 paths retained in each group",
+  "communication_sha256": "50e9d29a3be01ee2308eee1227c7d8a4465307f9d7faeec20368c023ffaf5276",
+  "injected_deleted_relay_detected": true
+}

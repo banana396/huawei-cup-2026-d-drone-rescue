@@ -1,0 +1,16 @@
+{
+  "q2_exact_match": true,
+  "q3_exact_match": true,
+  "excel_issues": [],
+  "rows": 427,
+  "q2": {
+    "sorties": 26,
+    "energy_kwh": 73.20763745,
+    "makespan_s": 12595.021415,
+    "weighted_lateness_s": 157921.35491000002,
+    "medical_late": 0,
+    "first_late": 0
+  },
+  "q3_relay_return_s": 24191.316791,
+  "q3_transport_return_s": 24325.643849
+}

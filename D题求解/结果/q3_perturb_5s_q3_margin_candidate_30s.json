@@ -1,0 +1,255 @@
+{
+  "method": "每阶段最大固定时间步及逐格空间视线采样；统一 DEM 增高或运输机位置微扰，仅测试链路，不重算飞行避障/能耗",
+  "step_s": 5.0,
+  "solution": "q3_margin_candidate_30s.json",
+  "scenarios": {
+    "nominal": {
+      "samples": 8017,
+      "min_best_margin_db": 1.0015415189238581,
+      "below_1db": 0,
+      "outages": 0,
+      "outages_by_mission": {},
+      "outage_examples": []
+    },
+    "dem_plus_5m": {
+      "samples": 8017,
+      "min_best_margin_db": -5.4525326349689465,
+      "below_1db": 865,
+      "outages": 855,
+      "outages_by_mission": {
+        "Q3-009": 187,
+        "Q3-016": 168,
+        "Q3-017": 148,
+        "Q3-010": 141,
+        "Q3-018": 83,
+        "Q3-001": 46,
+        "Q3-003": 45,
+        "Q3-023": 37
+      },
+      "outage_examples": [
+        [
+          "Q3-001",
+          "descent",
+          965.287,
+          -5.453
+        ],
+        [
+          "Q3-001",
+          "delivery",
+          965.287,
+          -5.453
+        ],
+        [
+          "Q3-001",
+          "delivery",
+          970.171,
+          -5.453
+        ],
+        [
+          "Q3-001",
+          "delivery",
+          975.055,
+          -5.453
+        ],
+        [
+          "Q3-001",
+          "delivery",
+          979.938,
+          -5.453
+        ]
+      ]
+    },
+    "alt_minus_5m": {
+      "samples": 8017,
+      "min_best_margin_db": -5.452477846456986,
+      "below_1db": 128,
+      "outages": 128,
+      "outages_by_mission": {
+        "Q3-001": 46,
+        "Q3-003": 45,
+        "Q3-023": 37
+      },
+      "outage_examples": [
+        [
+          "Q3-001",
+          "descent",
+          965.287,
+          -5.452
+        ],
+        [
+          "Q3-001",
+          "delivery",
+          965.287,
+          -5.452
+        ],
+        [
+          "Q3-001",
+          "delivery",
+          970.171,
+          -5.452
+        ],
+        [
+          "Q3-001",
+          "delivery",
+          975.055,
+          -5.452
+        ],
+        [
+          "Q3-001",
+          "delivery",
+          979.938,
+          -5.452
+        ]
+      ]
+    },
+    "east_plus_5m": {
+      "samples": 8017,
+      "min_best_margin_db": 1.0046441019394905,
+      "below_1db": 0,
+      "outages": 0,
+      "outages_by_mission": {},
+      "outage_examples": []
+    },
+    "east_minus_5m": {
+      "samples": 8017,
+      "min_best_margin_db": -5.450287825949658,
+      "below_1db": 128,
+      "outages": 128,
+      "outages_by_mission": {
+        "Q3-018": 83,
+        "Q3-003": 45
+      },
+      "outage_examples": [
+        [
+          "Q3-003",
+          "descent",
+          1077.762,
+          -1.241
+        ],
+        [
+          "Q3-003",
+          "delivery",
+          1077.762,
+          -1.241
+        ],
+        [
+          "Q3-003",
+          "delivery",
+          1082.762,
+          -1.241
+        ],
+        [
+          "Q3-003",
+          "delivery",
+          1087.762,
+          -1.241
+        ],
+        [
+          "Q3-003",
+          "delivery",
+          1092.762,
+          -1.241
+        ]
+      ]
+    },
+    "north_plus_5m": {
+      "samples": 8017,
+      "min_best_margin_db": -5.457953436091373,
+      "below_1db": 128,
+      "outages": 128,
+      "outages_by_mission": {
+        "Q3-018": 83,
+        "Q3-003": 45
+      },
+      "outage_examples": [
+        [
+          "Q3-003",
+          "descent",
+          1077.762,
+          -1.227
+        ],
+        [
+          "Q3-003",
+          "delivery",
+          1077.762,
+          -1.227
+        ],
+        [
+          "Q3-003",
+          "delivery",
+          1082.762,
+          -1.227
+        ],
+        [
+          "Q3-003",
+          "delivery",
+          1087.762,
+          -1.227
+        ],
+        [
+          "Q3-003",
+          "delivery",
+          1092.762,
+          -1.227
+        ]
+      ]
+    },
+    "north_minus_5m": {
+      "samples": 8017,
+      "min_best_margin_db": 1.0046333856548415,
+      "below_1db": 0,
+      "outages": 0,
+      "outages_by_mission": {},
+      "outage_examples": []
+    },
+    "alt_minus_5m_dem_plus_5m": {
+      "samples": 8017,
+      "min_best_margin_db": -5.452477846456986,
+      "below_1db": 946,
+      "outages": 936,
+      "outages_by_mission": {
+        "Q3-009": 187,
+        "Q3-016": 169,
+        "Q3-017": 150,
+        "Q3-010": 141,
+        "Q3-018": 83,
+        "Q3-019": 78,
+        "Q3-001": 46,
+        "Q3-003": 45,
+        "Q3-023": 37
+      },
+      "outage_examples": [
+        [
+          "Q3-001",
+          "descent",
+          965.287,
+          -5.452
+        ],
+        [
+          "Q3-001",
+          "delivery",
+          965.287,
+          -5.452
+        ],
+        [
+          "Q3-001",
+          "delivery",
+          970.171,
+          -5.452
+        ],
+        [
+          "Q3-001",
+          "delivery",
+          975.055,
+          -5.452
+        ],
+        [
+          "Q3-001",
+          "delivery",
+          979.938,
+          -5.452
+        ]
+      ]
+    }
+  }
+}

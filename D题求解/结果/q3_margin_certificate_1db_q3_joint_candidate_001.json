@@ -1,0 +1,129 @@
+{
+  "method": "每个约1秒时间段对三维距离取分量保守上界；若逐格扫掠证明无遮挡则不加遮挡损耗，否则按全程遮挡损耗计；静态回传逐格精确判别",
+  "required_margin_db": 1.0,
+  "source_sha256": "10b54207b3daef78089dbbb2b21fee2d3a9094a83e37cdb00e31233d7614acf1",
+  "backup_rule": "直连低于目标裕量时检查已在位中继；名义通信状态仍按题面直连优先记录",
+  "counts": {
+    "intervals": 39532,
+    "certified": 39514,
+    "refinement_checks": 26,
+    "point_counterexamples": 17,
+    "uncertified_leaves": 17,
+    "refined_certified_leaves": 5
+  },
+  "initial_uncertain_intervals": 18,
+  "certified_all_intervals": false,
+  "uncertain_examples": [
+    [
+      "Q3-016",
+      "cruise",
+      15453.777892339,
+      "point_counterexample"
+    ],
+    [
+      "Q3-016",
+      "cruise",
+      15454.527191973,
+      "point_counterexample"
+    ],
+    [
+      "Q3-016",
+      "cruise",
+      15455.526258151,
+      "point_counterexample"
+    ],
+    [
+      "Q3-016",
+      "cruise",
+      15456.52532433,
+      "point_counterexample"
+    ],
+    [
+      "Q3-016",
+      "cruise",
+      15457.524390508,
+      "point_counterexample"
+    ],
+    [
+      "Q3-016",
+      "cruise",
+      15458.523456686,
+      "point_counterexample"
+    ],
+    [
+      "Q3-016",
+      "cruise",
+      15459.522522865,
+      "point_counterexample"
+    ],
+    [
+      "Q3-016",
+      "cruise",
+      15460.521589043,
+      "point_counterexample"
+    ],
+    [
+      "Q3-016",
+      "cruise",
+      15461.520655221,
+      "point_counterexample"
+    ],
+    [
+      "Q3-016",
+      "cruise",
+      15462.5197214,
+      "point_counterexample"
+    ],
+    [
+      "Q3-016",
+      "cruise",
+      15463.518787578,
+      "point_counterexample"
+    ],
+    [
+      "Q3-016",
+      "cruise",
+      15464.517853756,
+      "point_counterexample"
+    ],
+    [
+      "Q3-016",
+      "cruise",
+      15465.516919935,
+      "point_counterexample"
+    ],
+    [
+      "Q3-016",
+      "cruise",
+      15466.515986113,
+      "point_counterexample"
+    ],
+    [
+      "Q3-016",
+      "cruise",
+      15467.515052291,
+      "point_counterexample"
+    ],
+    [
+      "Q3-016",
+      "cruise",
+      15468.51411847,
+      "point_counterexample"
+    ],
+    [
+      "Q3-016",
+      "cruise",
+      15469.46366128,
+      "point_counterexample"
+    ]
+  ],
+  "min_certified_margin_db": 1.0014493971878977,
+  "limiting_interval": {
+    "mission": "Q3-019",
+    "phase": "cruise",
+    "start_s": 22098.931639764985,
+    "end_s": 22099.93143574262,
+    "path": "direct",
+    "margin_db": 1.0014493971878977
+  }
+}

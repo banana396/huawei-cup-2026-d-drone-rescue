@@ -1,0 +1,24 @@
+{
+  "method": "每个约1秒时间段对三维距离取分量保守上界；若逐格扫掠证明无遮挡则不加遮挡损耗，否则按全程遮挡损耗计；静态回传逐格精确判别",
+  "required_margin_db": 1.0,
+  "source_sha256": "fb379d7ebad479f3a41921f857676d50e82d4a51c874295d6242c8ae8fc3e860",
+  "backup_rule": "直连低于目标裕量时检查已在位中继；名义通信状态仍按题面直连优先记录",
+  "counts": {
+    "intervals": 38757,
+    "certified": 38756,
+    "refinement_checks": 7,
+    "refined_certified_leaves": 4
+  },
+  "initial_uncertain_intervals": 1,
+  "certified_all_intervals": true,
+  "uncertain_examples": [],
+  "min_certified_margin_db": 1.0014493971878977,
+  "limiting_interval": {
+    "mission": "Q3-019",
+    "phase": "cruise",
+    "start_s": 22098.931639764985,
+    "end_s": 22099.93143574262,
+    "path": "direct",
+    "margin_db": 1.0014493971878977
+  }
+}

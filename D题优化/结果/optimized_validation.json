@@ -1,0 +1,139 @@
+{
+  "status": "passed",
+  "q1_and_physical_code_unchanged": {
+    "d_common.py": true,
+    "solve_q1.py": true,
+    "结果/q1_results_v2.json": true
+  },
+  "input_sha256": {
+    "2026年中国研究生数学建模竞赛赛题\\D题\\山区洪涝灾害下无人机运输与通信协同优化.docx": "0a4f507b91a02a0ea4264973dd432cdcb5b8916c61c24214719665f326d57685",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\结果提交模板.xlsx": "16f521f29a7103c4ff7c3709ce1696bb9fffa18ce741895e45b7bc7afaf3320a",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\中继无人机数据.xlsx": "be52643ff29419233e6a141dca03a04160a8af551cab36d8c49b51bb836bea04",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\物资需求与配送时限.xlsx": "5a3346159ceddcf585859d270b8f62114b388a1f737fbe64ffde0ee1fdc8170a",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\调度中心与服务区.xlsx": "541a7af1ded08c9a3ff448480332cb5f6a54902f0afa6e9bcd50c1d2b2b34e38",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\运输无人机数据.xlsx": "9296a657c07e042afba6aeea7999665d9cd24e00b592fd6c269de6e338480dcb",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\通信链路参数.xlsx": "1860d153199e7ae460ba36e83b673374e640e19de91ea167f2877271001f5f81",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\镇龙乡地理空间数据\\镇龙乡及周边地理数据\\数字高程模型数据（DEM）\\镇龙乡及周边30米DEM.tif": "741fe6de0b2bcaffd0f4007f574ee698d46197094f52cc954b532c4f90fc7c03"
+  },
+  "q2": {
+    "delivered_unique_boxes": 80,
+    "duplicate_boxes": 0,
+    "missing_boxes": 0,
+    "wrong_zone_boxes": 0,
+    "payload_violations": 0,
+    "volume_violations": 0,
+    "battery_violations": 0,
+    "craft_inventory_violations": 0,
+    "hard_deadline_violations": 0,
+    "max_lateness_s": 0,
+    "total_lateness_s": 0
+  },
+  "q3": {
+    "delivered_unique_boxes": 80,
+    "duplicate_boxes": 0,
+    "missing_boxes": 0,
+    "wrong_zone_boxes": 0,
+    "payload_violations": 0,
+    "volume_violations": 0,
+    "battery_violations": 0,
+    "craft_inventory_violations": 0,
+    "hard_deadline_violations": 0,
+    "max_lateness_s": 0,
+    "total_lateness_s": 0
+  },
+  "q2_communication": "not applicable: Q2 excludes communication per problem statement",
+  "q3_communication": {
+    "uncovered_intervals": 0,
+    "certified_all_intervals": true,
+    "exact_sample_check": {
+      "sample_interval_max_s": 3,
+      "los_step_max_pixels": "exact",
+      "samples": 12512,
+      "direct_blind_samples": 5055,
+      "relay_covered_samples": 5055,
+      "min_available_margin_db": 0.0006,
+      "transport_missions": 24,
+      "relay_sorties": 3,
+      "makespan_s": 6512.187235355526,
+      "transport_energy_kwh": 72.89098329333918,
+      "relay_energy_kwh": 3.366003809807704,
+      "weighted_lateness_s": 0.0
+    },
+    "continuous_intervals": {
+      "intervals": 36871,
+      "certified": 36868,
+      "refinement_checks": 9,
+      "refined_certified_leaves": 6
+    },
+    "record_checks": {
+      "issues": [],
+      "point_checks": 148403,
+      "certified_intervals": 31251,
+      "boundary_point_checks": 225,
+      "records": 236,
+      "boundary_brackets": 75,
+      "boundary_total_duration_s": 4.463673462851148e-06,
+      "injected_invalid_relay_detected": true,
+      "status": "passed",
+      "solution_sha256": "2071da06e961dfb74404a7f3cd95b7fac2ca5693d08698167ec4d20a1739cee5",
+      "communication_sha256": "50e9d29a3be01ee2308eee1227c7d8a4465307f9d7faeec20368c023ffaf5276"
+    },
+    "boundary_guards": 75
+  },
+  "q4": "passed; inventory shortfalls are reported requirements permitted by Q4, not silently supplied assets",
+  "fault_injections": {
+    "delivery_time": {
+      "detected": true,
+      "example": [
+        "Q2-001",
+        "S001-HYG-01",
+        "delivery time mismatch"
+      ]
+    },
+    "wrong_zone": {
+      "detected": true,
+      "example": [
+        "Q2-001",
+        "route/stops mismatch"
+      ]
+    },
+    "duplicate_box": {
+      "detected": true,
+      "example": [
+        "Q2-001",
+        "empty, duplicate or unknown boxes"
+      ]
+    },
+    "soc": {
+      "detected": true,
+      "example": [
+        "Q2-001",
+        "SOC mismatch"
+      ]
+    },
+    "craft_overlap": {
+      "detected": true,
+      "example": [
+        "U07",
+        "craft overlap",
+        "Q2-001",
+        "Q2-004"
+      ]
+    },
+    "battery_overlap": {
+      "detected": true,
+      "example": [
+        "U07",
+        "craft overlap",
+        "Q2-001",
+        "Q2-004"
+      ]
+    }
+  },
+  "source_hashes": {
+    "q1_results_v2.json": "36fc9fa84c88d99168fde28a7f08532bb42a367a1f12fba82381855589e98715",
+    "q2_results.json": "e012f6ecafd996fa9c3077908aef1b21b005cad9eb4176779f55ae24f1cf160c",
+    "q3_solution.json": "fcefaf5a84f3ee17e3519401d8799e5ac3b178ad6d545773e00274db121d2d8e",
+    "q4_results.json": "1a3dfa9cdaae63c8cb5e13cb5c202b32b12987e800fb405462cc24e54f981a26"
+  }
+}

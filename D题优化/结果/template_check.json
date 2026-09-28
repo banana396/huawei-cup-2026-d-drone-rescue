@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "checked_sheets": 6,
+  "checked_data_rows": 366,
+  "issues": [],
+  "source_policy": "Q2 selected; all six sheets compared to current formal solution files",
+  "injected_stale_q2_detected": true,
+  "sha256": {
+    "结果\\q1_results_v2.json": "36fc9fa84c88d99168fde28a7f08532bb42a367a1f12fba82381855589e98715",
+    "结果\\q2_results.json": "e012f6ecafd996fa9c3077908aef1b21b005cad9eb4176779f55ae24f1cf160c",
+    "结果\\q3_solution.json": "fcefaf5a84f3ee17e3519401d8799e5ac3b178ad6d545773e00274db121d2d8e",
+    "结果\\q3_communication_schedule.json": "1cc4915bbd001e8bb02c1c32314f51651a2331c52855a76e6f3e58e361426f58",
+    "结果\\q4_results.json": "1a3dfa9cdaae63c8cb5e13cb5c202b32b12987e800fb405462cc24e54f981a26",
+    "结果\\template_data.json": "dea163bd3d3a1418e88debfff8dae06865e830c6422763d9bb77c38c632d533a",
+    "outputs\\optimization-20260928\\结果提交模板_优化版.xlsx": "1eca4d311e83053ce1592e2b2142eb7bc79310c643322278fb6aaa28ca3c7e01"
+  }
+}

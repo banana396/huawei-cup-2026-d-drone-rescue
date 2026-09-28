@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "checked_sheets": 6,
+  "checked_data_rows": 427,
+  "issues": [],
+  "source_policy": "Q2 selected; all six sheets compared to current formal solution files",
+  "injected_stale_q2_detected": true,
+  "sha256": {
+    "结果\\q1_results_v2.json": "36fc9fa84c88d99168fde28a7f08532bb42a367a1f12fba82381855589e98715",
+    "结果\\q2_results.json": "5aead5efa0476f0e5eb970b4a9137ee8d8ea583a15f3539ad1cef487fbaa73db",
+    "结果\\q3_solution.json": "fb379d7ebad479f3a41921f857676d50e82d4a51c874295d6242c8ae8fc3e860",
+    "结果\\q3_communication_schedule.json": "885723b1e2875d2287c95cd84d82345ec107a2550a52f174cf981bf1eaad759f",
+    "结果\\q4_results.json": "241dbe89f59b0c578437abf1d49d996623219c554fdecffe6cd64b56f2377429",
+    "结果\\template_data.json": "205bed30ed609097a01a5fe2c59a2bfe389b244f7b69b1481be24cb2e98c7b1e",
+    "outputs\\d-question-20260924\\结果提交模板_已填.xlsx": "67b85e8aa3037311dec313dc44f9f61c173addd7ddb999a91b07f6b759d382a4"
+  }
+}

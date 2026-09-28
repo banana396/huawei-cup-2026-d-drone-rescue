@@ -1,0 +1,54 @@
+{
+  "status": "passed",
+  "issues": [],
+  "files": 317,
+  "archive": "交付包\\D题附件_精简待确认_20260926.zip",
+  "bytes": 31389689,
+  "archive_sha256": "42743da54c08ed0bccc6fdb5ccd33eb58fd69011bda639e06464244ecead80eb",
+  "manifest_sha256": "e326ae88fd1c1b8da71b7c4551cecc79a233a98fc83dc190186e4991ad6784e6",
+  "scope": "ZIP CRC and every packaged file hash verified; numerical, paper text and typeset readback checks run before packaging; team approval and AI metadata incomplete",
+  "submission_ready": false,
+  "required_current_artifacts": 13,
+  "format": "zip",
+  "size_under_50000000_bytes": true,
+  "deduplicated_input_files": 19,
+  "relocated_checks": [
+    {
+      "script": "check_optimization.py",
+      "exit_code": 0,
+      "log": "交付包\\slim-verify-k86jnyc_\\check_optimization.log"
+    },
+    {
+      "script": "check_template.py",
+      "exit_code": 0,
+      "log": "交付包\\slim-verify-k86jnyc_\\check_template.log"
+    },
+    {
+      "script": "check_q3_neighborhood.py",
+      "exit_code": 0,
+      "log": "交付包\\slim-verify-k86jnyc_\\check_q3_neighborhood.log"
+    },
+    {
+      "script": "check_paper_draft.py",
+      "exit_code": 0,
+      "log": "交付包\\slim-verify-k86jnyc_\\check_paper_draft.log"
+    },
+    {
+      "script": "check_final.py",
+      "exit_code": 0,
+      "log": "交付包\\slim-verify-k86jnyc_\\check_final.log"
+    },
+    {
+      "script": "论文制作/check_typeset.py",
+      "exit_code": 0,
+      "log": "交付包\\slim-verify-k86jnyc_\\check_typeset.log"
+    },
+    {
+      "script": "check_ai_disclosure.py",
+      "exit_code": 0,
+      "log": "交付包\\slim-verify-k86jnyc_\\check_ai_disclosure.log"
+    }
+  ],
+  "extracted_workspace": "交付包\\slim-verify-k86jnyc_",
+  "relocation_scope": "Same Python runtime, new extraction directory, no numeric re-solve; existing reproduction evidence rechecked. No independent-machine claim."
+}

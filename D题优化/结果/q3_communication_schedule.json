@@ -1,0 +1,2887 @@
+{
+  "solution_sha256": "2071da06e961dfb74404a7f3cd95b7fac2ca5693d08698167ec4d20a1739cee5",
+  "time_tolerance_s": 1e-07,
+  "boundary_rule": "数值切换边界误差不超过记录的微小区间；精确边界点按原题直连优先规则实时判定。",
+  "counts": {
+    "certified_leaves": 64935,
+    "boundary_leaves": 75
+  },
+  "records": [
+    {
+      "mission": "Q3-001",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 510.0,
+      "end_s": 568.1426440429688,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 568.1426440429688,
+      "end_s": 771.7412340345347,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 771.7412340345347,
+      "end_s": 816.2695390882457,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 816.2695390882457,
+      "end_s": 1248.2695390882457,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 1248.2695390882457,
+      "end_s": 1283.8921831312143,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 1283.8921831312143,
+      "end_s": 1487.4907731227804,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 1487.4907731227804,
+      "end_s": 1560.1690781764914,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-002",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 540.0,
+      "end_s": 598.1426440429688,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-002",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 598.1426440429688,
+      "end_s": 801.7412340345347,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-002",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 801.7412340345347,
+      "end_s": 846.2695390882457,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-002",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 846.2695390882457,
+      "end_s": 1314.2695390882457,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-002",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 1314.2695390882457,
+      "end_s": 1349.8921831312143,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-002",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 1349.8921831312143,
+      "end_s": 1553.4907731227804,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-002",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 1553.4907731227804,
+      "end_s": 1626.1690781764914,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-003",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 360.0,
+      "end_s": 439.4659464518229,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-003",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 439.4659464518229,
+      "end_s": 704.9832951528098,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-003",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 704.9832951528098,
+      "end_s": 725.5024308949972,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-003",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 725.5024308949972,
+      "end_s": 905.5024308949972,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-003",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 905.5024308949972,
+      "end_s": 1002.789800686664,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-003",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 1002.789800686664,
+      "end_s": 1594.9144398139897,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-003",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 1594.9144398139897,
+      "end_s": 1719.1887081710138,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-003",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 1719.1887081710138,
+      "end_s": 1821.4535519210137,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-003",
+      "phase": "delivery",
+      "phase_index": 7,
+      "start_s": 1821.4535519210137,
+      "end_s": 2001.4535519210137,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-003",
+      "phase": "climb",
+      "phase_index": 8,
+      "start_s": 2001.4535519210137,
+      "end_s": 2081.7693478194515,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-003",
+      "phase": "cruise",
+      "phase_index": 9,
+      "start_s": 2081.7693478194515,
+      "end_s": 2205.795522742377,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-003",
+      "phase": "cruise",
+      "phase_index": 9,
+      "start_s": 2205.795522742377,
+      "end_s": 2533.4028385244856,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-003",
+      "phase": "descent",
+      "phase_index": 10,
+      "start_s": 2533.4028385244856,
+      "end_s": 2719.1017936026105,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-004",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 4608.260447881712,
+      "end_s": 4716.4761143856185,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-004",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 4716.4761143856185,
+      "end_s": 5088.851868021674,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-004",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 5088.851868021674,
+      "end_s": 5230.789211014843,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-004",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 5230.789211014843,
+      "end_s": 5301.263982904923,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-004",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 5301.263982904923,
+      "end_s": 5315.758794144726,
+      "mode": "中继",
+      "relay_id": "R-003"
+    },
+    {
+      "mission": "Q3-004",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 5315.758794144726,
+      "end_s": 5711.758794144726,
+      "mode": "中继",
+      "relay_id": "R-003"
+    },
+    {
+      "mission": "Q3-004",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 5711.758794144726,
+      "end_s": 5723.254678921122,
+      "mode": "中继",
+      "relay_id": "R-003"
+    },
+    {
+      "mission": "Q3-004",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 5723.254678921122,
+      "end_s": 5779.734460648632,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-004",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 5779.734460648632,
+      "end_s": 5921.6718036418015,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-004",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 5921.6718036418015,
+      "end_s": 6294.047557277857,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-004",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 6294.047557277857,
+      "end_s": 6429.317140407739,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-005",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 390.0,
+      "end_s": 480.4939412434896,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-005",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 480.4939412434896,
+      "end_s": 809.5148141131397,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-005",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 809.5148141131397,
+      "end_s": 884.59747656956,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-005",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 884.59747656956,
+      "end_s": 903.5902060617475,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-005",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 903.5902060617475,
+      "end_s": 1083.5902060617475,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-005",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 1083.5902060617475,
+      "end_s": 1144.1103110422162,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-005",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 1144.1103110422162,
+      "end_s": 1404.727019647815,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-005",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 1404.727019647815,
+      "end_s": 1477.6311456243775,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-005",
+      "phase": "delivery",
+      "phase_index": 7,
+      "start_s": 1477.6311456243775,
+      "end_s": 1687.6311456243775,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-005",
+      "phase": "climb",
+      "phase_index": 8,
+      "start_s": 1687.6311456243775,
+      "end_s": 1767.946941522815,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-005",
+      "phase": "cruise",
+      "phase_index": 9,
+      "start_s": 1767.946941522815,
+      "end_s": 1891.9731164457396,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-005",
+      "phase": "cruise",
+      "phase_index": 9,
+      "start_s": 1891.9731164457396,
+      "end_s": 2219.580432227849,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-005",
+      "phase": "descent",
+      "phase_index": 10,
+      "start_s": 2219.580432227849,
+      "end_s": 2405.279387305974,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-006",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 390.0,
+      "end_s": 518.0910583496094,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-006",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 518.0910583496094,
+      "end_s": 780.7217756806178,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-006",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 780.7217756806178,
+      "end_s": 820.3884320000936,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-006",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 820.3884320000936,
+      "end_s": 885.7777020196249,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-006",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 885.7777020196249,
+      "end_s": 1125.777702019625,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-006",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 1125.777702019625,
+      "end_s": 1180.2687603692343,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-006",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 1180.2687603692343,
+      "end_s": 1219.9354166887097,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-006",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 1219.9354166887097,
+      "end_s": 1482.5661340197184,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-006",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 1482.5661340197184,
+      "end_s": 1636.2754040392497,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-007",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 1972.1137454568284,
+      "end_s": 2053.850189548625,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-007",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 2053.850189548625,
+      "end_s": 2416.8157005652392,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-007",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 2416.8157005652392,
+      "end_s": 2727.1029518672353,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-007",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 2727.1029518672353,
+      "end_s": 2767.9066847773915,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-007",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 2767.9066847773915,
+      "end_s": 2977.9066847773915,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-007",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 2977.9066847773915,
+      "end_s": 3011.909795535855,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-007",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 3011.909795535855,
+      "end_s": 3322.1970468378513,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-007",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 3322.1970468378513,
+      "end_s": 3685.1625578544654,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-007",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 3685.1625578544654,
+      "end_s": 3783.246290764622,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-008",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 1915.3795695782696,
+      "end_s": 1994.8455160300925,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-008",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 1994.8455160300925,
+      "end_s": 2207.259394990882,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-008",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 2207.259394990882,
+      "end_s": 2227.7785307330696,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-008",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 2227.7785307330696,
+      "end_s": 2437.7785307330696,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-008",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 2437.7785307330696,
+      "end_s": 2454.877810518226,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-008",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 2454.877810518226,
+      "end_s": 2667.2916894790155,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-008",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 2667.2916894790155,
+      "end_s": 2762.650825221203,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-009",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 2040.1690781764914,
+      "end_s": 2112.670779836648,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-009",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 2112.670779836648,
+      "end_s": 2376.200953448122,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-009",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 2376.200953448122,
+      "end_s": 2606.7581487457473,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-009",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 2606.7581487457473,
+      "end_s": 2651.4852758209427,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-009",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 2651.4852758209427,
+      "end_s": 3047.4852758209427,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-009",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 3047.4852758209427,
+      "end_s": 3083.266977481099,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-009",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 3083.266977481099,
+      "end_s": 3313.8241727787245,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-009",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 3313.8241727787245,
+      "end_s": 3577.3543463901983,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-009",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 3577.3543463901983,
+      "end_s": 3667.9814734653937,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-010",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 360.0,
+      "end_s": 455.20033162434896,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-010",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 455.20033162434896,
+      "end_s": 784.1344156686597,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-010",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 784.1344156686597,
+      "end_s": 870.1156623417077,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-010",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 870.1156623417077,
+      "end_s": 1071.074653845778,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-010",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 1071.074653845778,
+      "end_s": 1124.4750517949967,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-010",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 1124.4750517949967,
+      "end_s": 1334.4750517949967,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-010",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 1334.4750517949967,
+      "end_s": 1378.9753834193457,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-010",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 1378.9753834193457,
+      "end_s": 1579.9343749234158,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-010",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 1579.9343749234158,
+      "end_s": 1665.9156215964645,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-010",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 1665.9156215964645,
+      "end_s": 1994.8497056407746,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-010",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 1994.8497056407746,
+      "end_s": 2109.0901035899933,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-011",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 1996.2754040392497,
+      "end_s": 2075.741350491073,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-011",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 2075.741350491073,
+      "end_s": 2288.1552294518624,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-011",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 2288.1552294518624,
+      "end_s": 2308.67436519405,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-011",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 2308.67436519405,
+      "end_s": 2488.67436519405,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-011",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 2488.67436519405,
+      "end_s": 2580.5281412357167,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-011",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 2580.5281412357167,
+      "end_s": 2695.9967233175307,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-011",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 2695.9967233175307,
+      "end_s": 2742.688741813117,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-011",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 2742.688741813117,
+      "end_s": 2747.6909247335266,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-011",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 2747.6909247335266,
+      "end_s": 2751.887603155105,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-011",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 2751.887603155105,
+      "end_s": 2844.4354559835265,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-011",
+      "phase": "delivery",
+      "phase_index": 7,
+      "start_s": 2844.4354559835265,
+      "end_s": 3024.4354559835265,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-011",
+      "phase": "climb",
+      "phase_index": 8,
+      "start_s": 3024.4354559835265,
+      "end_s": 3078.926514333136,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-011",
+      "phase": "cruise",
+      "phase_index": 9,
+      "start_s": 3078.926514333136,
+      "end_s": 3118.5931706526126,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-011",
+      "phase": "cruise",
+      "phase_index": 9,
+      "start_s": 3118.5931706526126,
+      "end_s": 3381.22388798362,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-011",
+      "phase": "descent",
+      "phase_index": 10,
+      "start_s": 3381.22388798362,
+      "end_s": 3534.933158003151,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-012",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 390.0,
+      "end_s": 492.6455118815104,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-012",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 492.6455118815104,
+      "end_s": 755.6973808417633,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-012",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 755.6973808417633,
+      "end_s": 811.6118371979891,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-012",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 811.6118371979891,
+      "end_s": 845.2264514558016,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-012",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 845.2264514558016,
+      "end_s": 1085.2264514558015,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-012",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 1085.2264514558015,
+      "end_s": 1113.2386300039784,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-012",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 1113.2386300039784,
+      "end_s": 1169.153086360204,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-012",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 1169.153086360204,
+      "end_s": 1432.204955320457,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-012",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 1432.204955320457,
+      "end_s": 1555.3795695782694,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-013",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 4177.981473465394,
+      "end_s": 4257.465828934144,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-013",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 4257.465828934144,
+      "end_s": 4520.949830685218,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-013",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 4520.949830685218,
+      "end_s": 4609.506291288762,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-013",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 4609.506291288762,
+      "end_s": 4675.2117356247,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-013",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 4675.2117356247,
+      "end_s": 5071.2117356247,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-013",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 5071.2117356247,
+      "end_s": 5139.926603788763,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-013",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 5139.926603788763,
+      "end_s": 5141.708554175473,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-013",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 5141.708554175473,
+      "end_s": 5173.21188158969,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-013",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 5173.21188158969,
+      "end_s": 5342.6046334659295,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-013",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 5342.6046334659295,
+      "end_s": 5390.548218671008,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-013",
+      "phase": "delivery",
+      "phase_index": 7,
+      "start_s": 5390.548218671008,
+      "end_s": 5606.548218671008,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-013",
+      "phase": "climb",
+      "phase_index": 8,
+      "start_s": 5606.548218671008,
+      "end_s": 5647.351951581164,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-013",
+      "phase": "cruise",
+      "phase_index": 9,
+      "start_s": 5647.351951581164,
+      "end_s": 5895.581752674986,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-013",
+      "phase": "cruise",
+      "phase_index": 9,
+      "start_s": 5895.581752674986,
+      "end_s": 6185.954161436052,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-013",
+      "phase": "descent",
+      "phase_index": 10,
+      "start_s": 6185.954161436052,
+      "end_s": 6308.558827573747,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-014",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 360.0,
+      "end_s": 450.4939412434896,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-014",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 450.4939412434896,
+      "end_s": 779.5148141131397,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-014",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 779.5148141131397,
+      "end_s": 854.59747656956,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-014",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 854.59747656956,
+      "end_s": 873.5902060617475,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-014",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 873.5902060617475,
+      "end_s": 1083.5902060617475,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-014",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 1083.5902060617475,
+      "end_s": 1099.4174806385704,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-014",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 1099.4174806385704,
+      "end_s": 1174.5001430949906,
+      "mode": "中继",
+      "relay_id": "R-002"
+    },
+    {
+      "mission": "Q3-014",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 1174.5001430949906,
+      "end_s": 1503.5210159646408,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-014",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 1503.5210159646408,
+      "end_s": 1612.1137454568284,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-015",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 2469.0901035899933,
+      "end_s": 2548.5560500418164,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-015",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 2548.5560500418164,
+      "end_s": 2814.0733987428034,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-015",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 2814.0733987428034,
+      "end_s": 2834.592534484991,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-015",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 2834.592534484991,
+      "end_s": 3044.592534484991,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-015",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 3044.592534484991,
+      "end_s": 3061.6918142701475,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-015",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 3061.6918142701475,
+      "end_s": 3327.2091629711344,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-015",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 3327.2091629711344,
+      "end_s": 3422.568298713322,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-016",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 4918.354532968872,
+      "end_s": 5066.38761809257,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-016",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 5066.38761809257,
+      "end_s": 5328.615145612679,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-016",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 5328.615145612679,
+      "end_s": 5467.013155613217,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-016",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 5467.013155613217,
+      "end_s": 5505.932857761655,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-016",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 5505.932857761655,
+      "end_s": 5745.932857761655,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-016",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 5745.932857761655,
+      "end_s": 5778.365942885353,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-016",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 5778.365942885353,
+      "end_s": 5916.763952885891,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-016",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 5916.763952885891,
+      "end_s": 6178.991480406001,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-016",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 6178.991480406001,
+      "end_s": 6356.631182554438,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-017",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 2136.1690781764914,
+      "end_s": 2309.810733449929,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-017",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 2309.810733449929,
+      "end_s": 2572.1042856835193,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-017",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 2572.1042856835193,
+      "end_s": 2794.0226939373047,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-017",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 2794.0226939373047,
+      "end_s": 2905.6747630291015,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-017",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 2905.6747630291015,
+      "end_s": 3337.6747630291015,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-017",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 3337.6747630291015,
+      "end_s": 3426.996418302539,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-017",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 3426.996418302539,
+      "end_s": 3648.9148265563244,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-017",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 3648.9148265563244,
+      "end_s": 3911.2083787899146,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-017",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 3911.2083787899146,
+      "end_s": 4128.260447881711,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-018",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 4136.800612605726,
+      "end_s": 4197.218697322523,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-018",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 4197.218697322523,
+      "end_s": 4526.631414369718,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-018",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 4526.631414369718,
+      "end_s": 4814.827908458898,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-018",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 4814.827908458898,
+      "end_s": 4850.609610119054,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-018",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 4850.609610119054,
+      "end_s": 5030.609610119054,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-018",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 5030.609610119054,
+      "end_s": 5093.502361176997,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-018",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 5093.502361176997,
+      "end_s": 5121.495758020978,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-018",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 5121.495758020978,
+      "end_s": 5349.441989464828,
+      "mode": "中继",
+      "relay_id": "R-003"
+    },
+    {
+      "mission": "Q3-018",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 5349.441989464828,
+      "end_s": 5400.793290734359,
+      "mode": "中继",
+      "relay_id": "R-003"
+    },
+    {
+      "mission": "Q3-018",
+      "phase": "delivery",
+      "phase_index": 7,
+      "start_s": 5400.793290734359,
+      "end_s": 5580.793290734359,
+      "mode": "中继",
+      "relay_id": "R-003"
+    },
+    {
+      "mission": "Q3-018",
+      "phase": "climb",
+      "phase_index": 8,
+      "start_s": 5580.793290734359,
+      "end_s": 5625.2936223587085,
+      "mode": "中继",
+      "relay_id": "R-003"
+    },
+    {
+      "mission": "Q3-018",
+      "phase": "cruise",
+      "phase_index": 9,
+      "start_s": 5625.2936223587085,
+      "end_s": 5826.252613862778,
+      "mode": "中继",
+      "relay_id": "R-003"
+    },
+    {
+      "mission": "Q3-018",
+      "phase": "cruise",
+      "phase_index": 9,
+      "start_s": 5826.252613862778,
+      "end_s": 5912.233860535826,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-018",
+      "phase": "cruise",
+      "phase_index": 9,
+      "start_s": 5912.233860535826,
+      "end_s": 6241.167944580137,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-018",
+      "phase": "descent",
+      "phase_index": 10,
+      "start_s": 6241.167944580137,
+      "end_s": 6355.408342529357,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-019",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 3027.231926013292,
+      "end_s": 3171.9333054078234,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-019",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 3171.9333054078234,
+      "end_s": 3499.800245699812,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-019",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 3499.800245699812,
+      "end_s": 3777.1982560170427,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-019",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 3777.1982560170427,
+      "end_s": 3866.51991129048,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-019",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 3866.51991129048,
+      "end_s": 4046.51991129048,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-019",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 4046.51991129048,
+      "end_s": 4120.9546240183445,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-019",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 4120.9546240183445,
+      "end_s": 4398.352634335578,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-019",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 4398.352634335578,
+      "end_s": 4726.219574627564,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-019",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 4726.219574627564,
+      "end_s": 4899.861229901001,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-020",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 3342.0791289296226,
+      "end_s": 3470.170187279232,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-020",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 3470.170187279232,
+      "end_s": 3732.8009046102397,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-020",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 3732.8009046102397,
+      "end_s": 3772.467560929716,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-020",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 3772.467560929716,
+      "end_s": 3837.856830949247,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-020",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 3837.856830949247,
+      "end_s": 4017.856830949247,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-020",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 4017.856830949247,
+      "end_s": 4072.3478892988564,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-020",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 4072.3478892988564,
+      "end_s": 4112.014545618331,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-020",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 4112.014545618331,
+      "end_s": 4374.645262949341,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-020",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 4374.645262949341,
+      "end_s": 4528.354532968872,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-021",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 3924.933158003151,
+      "end_s": 3980.10946212099,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-021",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 3980.10946212099,
+      "end_s": 4243.68177061854,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-021",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 4243.68177061854,
+      "end_s": 4360.452462402894,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-021",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 4360.452462402894,
+      "end_s": 4385.7440273443,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-021",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 4385.7440273443,
+      "end_s": 4625.7440273443,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-021",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 4625.7440273443,
+      "end_s": 4646.820331462139,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-021",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 4646.820331462139,
+      "end_s": 4763.591023246493,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-021",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 4763.591023246493,
+      "end_s": 5027.163331744043,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-021",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 5027.163331744043,
+      "end_s": 5093.374896685449,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-022",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 4086.9437742879054,
+      "end_s": 4168.680218379703,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-022",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 4168.680218379703,
+      "end_s": 4531.645729396317,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-022",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 4531.645729396317,
+      "end_s": 4841.932980698313,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-022",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 4841.932980698313,
+      "end_s": 4882.7367136084695,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-022",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 4882.7367136084695,
+      "end_s": 5092.7367136084695,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-022",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 5092.7367136084695,
+      "end_s": 5126.739824366933,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-022",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 5126.739824366933,
+      "end_s": 5437.027075668931,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-022",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 5437.027075668931,
+      "end_s": 5799.992586685543,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-022",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 5799.992586685543,
+      "end_s": 5898.076319595699,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-023",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 4560.482278594875,
+      "end_s": 4620.900363311673,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-023",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 4620.900363311673,
+      "end_s": 4950.313080358868,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-023",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 4950.313080358868,
+      "end_s": 5238.509574448048,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-023",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 5238.509574448048,
+      "end_s": 5274.291276108204,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-023",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 5274.291276108204,
+      "end_s": 5454.291276108204,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-023",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 5454.291276108204,
+      "end_s": 5484.109360825001,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-023",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 5484.109360825001,
+      "end_s": 5772.305854914181,
+      "mode": "中继",
+      "relay_id": "R-001"
+    },
+    {
+      "mission": "Q3-023",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 5772.305854914181,
+      "end_s": 6101.718571961375,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-023",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 6101.718571961375,
+      "end_s": 6174.220273621531,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-024",
+      "phase": "climb",
+      "phase_index": 0,
+      "start_s": 5483.374896685449,
+      "end_s": 5539.262148475814,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-024",
+      "phase": "cruise",
+      "phase_index": 1,
+      "start_s": 5539.262148475814,
+      "end_s": 5726.467097606955,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-024",
+      "phase": "descent",
+      "phase_index": 2,
+      "start_s": 5726.467097606955,
+      "end_s": 5759.771799755392,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-024",
+      "phase": "delivery",
+      "phase_index": 3,
+      "start_s": 5759.771799755392,
+      "end_s": 5999.771799755392,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-024",
+      "phase": "climb",
+      "phase_index": 4,
+      "start_s": 5999.771799755392,
+      "end_s": 6027.525718212423,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-024",
+      "phase": "cruise",
+      "phase_index": 5,
+      "start_s": 6027.525718212423,
+      "end_s": 6214.730667343564,
+      "mode": "直连",
+      "relay_id": ""
+    },
+    {
+      "mission": "Q3-024",
+      "phase": "descent",
+      "phase_index": 6,
+      "start_s": 6214.730667343564,
+      "end_s": 6281.795369492002,
+      "mode": "直连",
+      "relay_id": ""
+    }
+  ],
+  "boundary_brackets": [
+    {
+      "mission": "Q3-003",
+      "phase_index": 5,
+      "start_s": 1594.914439754435,
+      "end_s": 1594.9144398139897,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-003",
+      "phase_index": 5,
+      "start_s": 1594.9144398139897,
+      "end_s": 1594.9144398735446,
+      "midpoint_state": [
+        "中继",
+        "R-002"
+      ]
+    },
+    {
+      "mission": "Q3-003",
+      "phase_index": 9,
+      "start_s": 2205.795522742377,
+      "end_s": 2205.795522801933,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-004",
+      "phase_index": 1,
+      "start_s": 5088.851868021674,
+      "end_s": 5088.851868081199,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-004",
+      "phase_index": 1,
+      "start_s": 5088.851868081199,
+      "end_s": 5088.851868140724,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-004",
+      "phase_index": 1,
+      "start_s": 5088.851868140724,
+      "end_s": 5088.85186820025,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-004",
+      "phase_index": 5,
+      "start_s": 5921.671803463226,
+      "end_s": 5921.671803522751,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-004",
+      "phase_index": 5,
+      "start_s": 5921.671803522751,
+      "end_s": 5921.671803582276,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-004",
+      "phase_index": 5,
+      "start_s": 5921.671803582276,
+      "end_s": 5921.6718036418015,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-005",
+      "phase_index": 1,
+      "start_s": 809.5148139941942,
+      "end_s": 809.5148140536669,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-005",
+      "phase_index": 1,
+      "start_s": 809.5148140536669,
+      "end_s": 809.5148141131397,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-005",
+      "phase_index": 9,
+      "start_s": 1891.9731164457396,
+      "end_s": 1891.9731165052958,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-006",
+      "phase_index": 1,
+      "start_s": 780.7217756211514,
+      "end_s": 780.7217756806178,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-006",
+      "phase_index": 1,
+      "start_s": 780.7217756806178,
+      "end_s": 780.7217757400842,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-006",
+      "phase_index": 5,
+      "start_s": 1219.9354166292433,
+      "end_s": 1219.9354166887097,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-006",
+      "phase_index": 5,
+      "start_s": 1219.9354166887097,
+      "end_s": 1219.935416748176,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-007",
+      "phase_index": 1,
+      "start_s": 2416.8157005057005,
+      "end_s": 2416.8157005652392,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-007",
+      "phase_index": 1,
+      "start_s": 2416.8157005652392,
+      "end_s": 2416.8157006247775,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-007",
+      "phase_index": 5,
+      "start_s": 3322.197046778313,
+      "end_s": 3322.1970468378513,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-007",
+      "phase_index": 5,
+      "start_s": 3322.1970468378513,
+      "end_s": 3322.19704689739,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-009",
+      "phase_index": 1,
+      "start_s": 2376.2009533886276,
+      "end_s": 2376.200953448122,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-009",
+      "phase_index": 1,
+      "start_s": 2376.200953448122,
+      "end_s": 2376.2009535076168,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-009",
+      "phase_index": 5,
+      "start_s": 3313.82417271923,
+      "end_s": 3313.8241727787245,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-009",
+      "phase_index": 5,
+      "start_s": 3313.8241727787245,
+      "end_s": 3313.824172838219,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-010",
+      "phase_index": 1,
+      "start_s": 784.1344156090672,
+      "end_s": 784.1344156686597,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-010",
+      "phase_index": 1,
+      "start_s": 784.1344156686597,
+      "end_s": 784.1344157282522,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-010",
+      "phase_index": 5,
+      "start_s": 1665.9156215368719,
+      "end_s": 1665.9156215964645,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-010",
+      "phase_index": 5,
+      "start_s": 1665.9156215964645,
+      "end_s": 1665.9156216560568,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-011",
+      "phase_index": 5,
+      "start_s": 2695.9967233175307,
+      "end_s": 2695.9967233768384,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-011",
+      "phase_index": 5,
+      "start_s": 2742.688741753809,
+      "end_s": 2742.688741813117,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-011",
+      "phase_index": 5,
+      "start_s": 2742.688741813117,
+      "end_s": 2742.6887418724245,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-011",
+      "phase_index": 6,
+      "start_s": 2751.887603155105,
+      "end_s": 2751.8876032145527,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-011",
+      "phase_index": 9,
+      "start_s": 3118.593170593146,
+      "end_s": 3118.5931706526126,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-011",
+      "phase_index": 9,
+      "start_s": 3118.5931706526126,
+      "end_s": 3118.593170712079,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-012",
+      "phase_index": 1,
+      "start_s": 755.6973807821649,
+      "end_s": 755.6973808417633,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-012",
+      "phase_index": 1,
+      "start_s": 755.6973808417633,
+      "end_s": 755.6973809013616,
+      "midpoint_state": [
+        "中继",
+        "R-002"
+      ]
+    },
+    {
+      "mission": "Q3-012",
+      "phase_index": 5,
+      "start_s": 1169.1530863006055,
+      "end_s": 1169.153086360204,
+      "midpoint_state": [
+        "中继",
+        "R-002"
+      ]
+    },
+    {
+      "mission": "Q3-012",
+      "phase_index": 5,
+      "start_s": 1169.153086360204,
+      "end_s": 1169.1530864198025,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-013",
+      "phase_index": 1,
+      "start_s": 4520.949830625776,
+      "end_s": 4520.949830685218,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-013",
+      "phase_index": 5,
+      "start_s": 5141.708554056453,
+      "end_s": 5141.708554115963,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-013",
+      "phase_index": 5,
+      "start_s": 5141.708554115963,
+      "end_s": 5141.708554175473,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-013",
+      "phase_index": 5,
+      "start_s": 5173.21188158969,
+      "end_s": 5173.2118816492,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-013",
+      "phase_index": 5,
+      "start_s": 5173.2118816492,
+      "end_s": 5173.21188170871,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-013",
+      "phase_index": 9,
+      "start_s": 5895.581752555865,
+      "end_s": 5895.581752615426,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-013",
+      "phase_index": 9,
+      "start_s": 5895.581752615426,
+      "end_s": 5895.581752674986,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-014",
+      "phase_index": 1,
+      "start_s": 779.5148139941942,
+      "end_s": 779.5148140536669,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-014",
+      "phase_index": 1,
+      "start_s": 779.5148140536669,
+      "end_s": 779.5148141131397,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-014",
+      "phase_index": 5,
+      "start_s": 1174.5001430949906,
+      "end_s": 1174.5001431544633,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-014",
+      "phase_index": 5,
+      "start_s": 1174.5001431544633,
+      "end_s": 1174.500143213936,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-016",
+      "phase_index": 1,
+      "start_s": 5328.61514555313,
+      "end_s": 5328.615145612679,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-016",
+      "phase_index": 5,
+      "start_s": 5916.763952885891,
+      "end_s": 5916.76395294544,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-017",
+      "phase_index": 1,
+      "start_s": 2572.1042856240115,
+      "end_s": 2572.1042856835193,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-017",
+      "phase_index": 5,
+      "start_s": 3648.9148265563244,
+      "end_s": 3648.914826615832,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-018",
+      "phase_index": 1,
+      "start_s": 4526.6314142505835,
+      "end_s": 4526.631414310151,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-018",
+      "phase_index": 1,
+      "start_s": 4526.631414310151,
+      "end_s": 4526.631414369718,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-018",
+      "phase_index": 9,
+      "start_s": 5912.2338604762335,
+      "end_s": 5912.233860535826,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-018",
+      "phase_index": 9,
+      "start_s": 5912.233860535826,
+      "end_s": 5912.233860595419,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-019",
+      "phase_index": 1,
+      "start_s": 3499.8002456402796,
+      "end_s": 3499.800245699812,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-019",
+      "phase_index": 5,
+      "start_s": 4398.352634335578,
+      "end_s": 4398.352634395111,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-020",
+      "phase_index": 1,
+      "start_s": 3732.8009045507733,
+      "end_s": 3732.8009046102397,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-020",
+      "phase_index": 1,
+      "start_s": 3732.8009046102397,
+      "end_s": 3732.800904669706,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-020",
+      "phase_index": 5,
+      "start_s": 4112.0145455588645,
+      "end_s": 4112.014545618331,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-020",
+      "phase_index": 5,
+      "start_s": 4112.014545618331,
+      "end_s": 4112.014545677797,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-021",
+      "phase_index": 1,
+      "start_s": 4243.681770559038,
+      "end_s": 4243.68177061854,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-021",
+      "phase_index": 1,
+      "start_s": 4243.68177061854,
+      "end_s": 4243.681770678042,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-021",
+      "phase_index": 5,
+      "start_s": 4763.591023186991,
+      "end_s": 4763.591023246493,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-021",
+      "phase_index": 5,
+      "start_s": 4763.591023246493,
+      "end_s": 4763.591023305995,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-022",
+      "phase_index": 1,
+      "start_s": 4531.6457293367785,
+      "end_s": 4531.645729396317,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-022",
+      "phase_index": 1,
+      "start_s": 4531.645729396317,
+      "end_s": 4531.645729455855,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-022",
+      "phase_index": 5,
+      "start_s": 5437.027075609392,
+      "end_s": 5437.027075668931,
+      "midpoint_state": [
+        "中继",
+        "R-001"
+      ]
+    },
+    {
+      "mission": "Q3-022",
+      "phase_index": 5,
+      "start_s": 5437.027075668931,
+      "end_s": 5437.027075728469,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-023",
+      "phase_index": 1,
+      "start_s": 4950.313080239734,
+      "end_s": 4950.313080299301,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-023",
+      "phase_index": 1,
+      "start_s": 4950.313080299301,
+      "end_s": 4950.313080358868,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-023",
+      "phase_index": 5,
+      "start_s": 5772.305854914181,
+      "end_s": 5772.305854973748,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    },
+    {
+      "mission": "Q3-023",
+      "phase_index": 5,
+      "start_s": 5772.305854973748,
+      "end_s": 5772.305855033315,
+      "midpoint_state": [
+        "直连",
+        ""
+      ]
+    }
+  ]
+}

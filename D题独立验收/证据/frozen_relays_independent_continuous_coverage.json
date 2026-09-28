@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "method": "new 3D swept-triangle / closed pixel clipping and analytic distance bounds",
+  "initial_step_s": 20,
+  "counts": {
+    "intervals_evaluated": 1961,
+    "certified_leaves": 1960,
+    "worst_obstruction": 1346,
+    "swept_triangle_clear": 614
+  },
+  "minimum_certified_margin_db": 0.049792561226809084,
+  "failures": [],
+  "backhaul_margins_db": {
+    "R-001": 12.109428145601683,
+    "R-002": 3.1157166964976284,
+    "R-003": 9.302164597247184
+  }
+}

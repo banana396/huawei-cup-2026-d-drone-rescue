@@ -1,0 +1,328 @@
+{
+  "status": "passed",
+  "created_utc": "2026-09-25T01:21:45.928337+00:00",
+  "workspace": "复现验证\\run-mc9wuvad",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "steps": [
+    {
+      "command": [
+        "verify_geometry.py"
+      ],
+      "exit_code": 0,
+      "duration_s": 0.89,
+      "log": "复现验证\\run-mc9wuvad\\logs\\01-verify_geometry.log"
+    },
+    {
+      "command": [
+        "solve_q1.py"
+      ],
+      "exit_code": 0,
+      "duration_s": 19.079,
+      "log": "复现验证\\run-mc9wuvad\\logs\\02-solve_q1.log"
+    },
+    {
+      "command": [
+        "check_q1.py"
+      ],
+      "exit_code": 0,
+      "duration_s": 0.546,
+      "log": "复现验证\\run-mc9wuvad\\logs\\03-check_q1.log"
+    },
+    {
+      "command": [
+        "solve_q2.py"
+      ],
+      "exit_code": 0,
+      "duration_s": 0.875,
+      "log": "复现验证\\run-mc9wuvad\\logs\\04-solve_q2.log"
+    },
+    {
+      "command": [
+        "optimize_q2.py"
+      ],
+      "exit_code": 0,
+      "duration_s": 2.125,
+      "log": "复现验证\\run-mc9wuvad\\logs\\05-optimize_q2.log"
+    },
+    {
+      "command": [
+        "check_q2.py"
+      ],
+      "exit_code": 0,
+      "duration_s": 0.719,
+      "log": "复现验证\\run-mc9wuvad\\logs\\06-check_q2.log"
+    },
+    {
+      "command": [
+        "q3_transport_seed.py"
+      ],
+      "exit_code": 0,
+      "duration_s": 0.531,
+      "log": "复现验证\\run-mc9wuvad\\logs\\07-q3_transport_seed.log"
+    },
+    {
+      "command": [
+        "diagnose_q3.py",
+        "seed"
+      ],
+      "exit_code": 0,
+      "duration_s": 0.985,
+      "log": "复现验证\\run-mc9wuvad\\logs\\08-diagnose_q3.log"
+    },
+    {
+      "command": [
+        "q3_individual_cover.py"
+      ],
+      "exit_code": 0,
+      "duration_s": 6.64,
+      "log": "复现验证\\run-mc9wuvad\\logs\\09-q3_individual_cover.log"
+    },
+    {
+      "command": [
+        "solve_q3.py"
+      ],
+      "exit_code": 0,
+      "duration_s": 0.61,
+      "log": "复现验证\\run-mc9wuvad\\logs\\10-solve_q3.log"
+    },
+    {
+      "command": [
+        "check_q3.py"
+      ],
+      "exit_code": 0,
+      "duration_s": 1.89,
+      "log": "复现验证\\run-mc9wuvad\\logs\\11-check_q3.log"
+    },
+    {
+      "command": [
+        "verify_radio_interval.py"
+      ],
+      "exit_code": 0,
+      "duration_s": 1.157,
+      "log": "复现验证\\run-mc9wuvad\\logs\\12-verify_radio_interval.log"
+    },
+    {
+      "command": [
+        "certify_q3_intervals.py"
+      ],
+      "exit_code": 0,
+      "duration_s": 9.015,
+      "log": "复现验证\\run-mc9wuvad\\logs\\13-certify_q3_intervals.log"
+    },
+    {
+      "command": [
+        "certify_q3_intervals.py",
+        "--required-margin-db",
+        "1"
+      ],
+      "exit_code": 0,
+      "duration_s": 9.172,
+      "log": "复现验证\\run-mc9wuvad\\logs\\14-certify_q3_intervals.log"
+    },
+    {
+      "command": [
+        "communication_schedule.py"
+      ],
+      "exit_code": 0,
+      "duration_s": 125.375,
+      "log": "复现验证\\run-mc9wuvad\\logs\\15-communication_schedule.log"
+    },
+    {
+      "command": [
+        "check_communication_schedule.py"
+      ],
+      "exit_code": 0,
+      "duration_s": 167.844,
+      "log": "复现验证\\run-mc9wuvad\\logs\\16-check_communication_schedule.log"
+    },
+    {
+      "command": [
+        "verify_communication_bounds.py"
+      ],
+      "exit_code": 0,
+      "duration_s": 3.422,
+      "log": "复现验证\\run-mc9wuvad\\logs\\17-verify_communication_bounds.log"
+    },
+    {
+      "command": [
+        "certify_communication_boundaries.py"
+      ],
+      "exit_code": 0,
+      "duration_s": 0.781,
+      "log": "复现验证\\run-mc9wuvad\\logs\\18-certify_communication_boundaries.log"
+    },
+    {
+      "command": [
+        "solve_q4.py"
+      ],
+      "exit_code": 0,
+      "duration_s": 0.797,
+      "log": "复现验证\\run-mc9wuvad\\logs\\19-solve_q4.log"
+    },
+    {
+      "command": [
+        "check_q4.py"
+      ],
+      "exit_code": 0,
+      "duration_s": 29.672,
+      "log": "复现验证\\run-mc9wuvad\\logs\\20-check_q4.log"
+    },
+    {
+      "command": [
+        "prepare_template_data.py"
+      ],
+      "exit_code": 0,
+      "duration_s": 0.625,
+      "log": "复现验证\\run-mc9wuvad\\logs\\21-prepare_template_data.log"
+    },
+    {
+      "command": [
+        "build_solution_materials.py"
+      ],
+      "exit_code": 0,
+      "duration_s": 0.844,
+      "log": "复现验证\\run-mc9wuvad\\logs\\22-build_solution_materials.log"
+    }
+  ],
+  "input_sha256": {
+    "2026年中国研究生数学建模竞赛赛题\\D题\\山区洪涝灾害下无人机运输与通信协同优化.docx": "0a4f507b91a02a0ea4264973dd432cdcb5b8916c61c24214719665f326d57685",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\结果提交模板.xlsx": "16f521f29a7103c4ff7c3709ce1696bb9fffa18ce741895e45b7bc7afaf3320a",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\中继无人机数据.xlsx": "be52643ff29419233e6a141dca03a04160a8af551cab36d8c49b51bb836bea04",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\物资需求与配送时限.xlsx": "5a3346159ceddcf585859d270b8f62114b388a1f737fbe64ffde0ee1fdc8170a",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\调度中心与服务区.xlsx": "541a7af1ded08c9a3ff448480332cb5f6a54902f0afa6e9bcd50c1d2b2b34e38",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\运输无人机数据.xlsx": "9296a657c07e042afba6aeea7999665d9cd24e00b592fd6c269de6e338480dcb",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\通信链路参数.xlsx": "1860d153199e7ae460ba36e83b673374e640e19de91ea167f2877271001f5f81",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\镇龙乡地理空间数据\\镇龙乡地理空间数据说明.pdf": "6d1522c6832a5d91a108dae0d07954845025c0dabd44af8ee78c7860d7c405e4",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\镇龙乡地理空间数据\\镇龙乡地理空间详情地图.html": "5bb8082f4f5913e6787f86fa9dd3b6f8cbcfa309359f222f57355d1ae991b452",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\镇龙乡地理空间数据\\镇龙乡及周边地理数据\\数字高程模型数据（DEM）\\镇龙乡及周边30米DEM.mat": "c68703e0cc8f94f4bd52ff6e9974b66a2dae33865f0723ad71c04b6694bf4fbf",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\镇龙乡地理空间数据\\镇龙乡及周边地理数据\\数字高程模型数据（DEM）\\镇龙乡及周边30米DEM.tif": "741fe6de0b2bcaffd0f4007f574ee698d46197094f52cc954b532c4f90fc7c03",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\镇龙乡地理空间数据\\镇龙乡及周边地理数据\\村镇点位\\镇龙乡及周边村镇点位.csv": "b6e2ffc0b728fb33c532e471b6f27dcb54ff70a9a2025546539eea97e5232d6f",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\镇龙乡地理空间数据\\镇龙乡及周边地理数据\\村镇点位\\镇龙乡及周边村镇点位.mat": "61419e92447ada38c56b7f64f04e4aada2eb1ed076ae33e95f1cbc69f3514beb",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\镇龙乡地理空间数据\\镇龙乡及周边地理数据\\水体（面）\\镇龙乡及周边水体.csv": "4d72a2b46d893701da635ac1b083539568ad3a8b9ffb1b28b09c06bf8af74324",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\镇龙乡地理空间数据\\镇龙乡及周边地理数据\\水体（面）\\镇龙乡及周边水体.mat": "b79df14bdc0b22811f5c219897a66775d8879a93c4a865e455d8c43ab099b50a",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\镇龙乡地理空间数据\\镇龙乡及周边地理数据\\水系（线）\\镇龙乡及周边水系.csv": "3502b997e000e8043e36b7159202bafb12a0c21d23a8b5ad4ec6877bad580a65",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\镇龙乡地理空间数据\\镇龙乡及周边地理数据\\水系（线）\\镇龙乡及周边水系.mat": "b89f4f294bf771962676009fa9044f46ef26a06613fb6f91e2c6f9ccd430f8e8",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\镇龙乡地理空间数据\\镇龙乡及周边地理数据\\道路\\镇龙乡及周边道路.csv": "adcd23b4ae2c28475412fc2c8a3c0504b2a293ac2ec25faa1da2fe3c3d063ebe",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\镇龙乡地理空间数据\\镇龙乡及周边地理数据\\道路\\镇龙乡及周边道路.mat": "c868717284d8aee60157e3bc9b20e18a81b26fde3d75fc7d80317ef877af9849"
+  },
+  "script_sha256": {
+    "audit_q3_critical_link.py": "e780bcf1e97e6f39678b0328079b44aa8dc8683f17565ab5da3bc64f80c43696",
+    "audit_q3_hard_slack.py": "748f1e9a6e9bc7aa9c86364be956aed5ca0ac66d3ea0d4e2a73b28d601b5bba9",
+    "audit_q3_margin.py": "46b30402b337a1fd34e8a0efb715475b949596e3eff3ebad8fc308c3ffbe9ba0",
+    "audit_q3_perturb.py": "c9b870f9974de6b5ee1f3a7811d9d10d51699b5e8479e8017292f0795226d602",
+    "build_manifest.py": "e274aaa310a838cbfcf9e0f7069b5f968a9d8fb23fabade1c0ce7236210abff6",
+    "build_solution_materials.py": "c214452b4db51f252ec481fc632b2b896dcf67e8ea1d609a3a8ba46c26f0b4c6",
+    "certify_communication_boundaries.py": "325e3c476516f4487e1de7eb5d18c64b7539eae19a56b891d305193ce33e1efd",
+    "certify_q3_intervals.py": "827b1e02cf7265056dbc0efd8c336601321f601e6313e28c704e4f0454d7e7bf",
+    "check_communication_schedule.py": "fb3e94d5f5ef68ffe6622c94682fafab077b734b0e5f1fb17339d6c6afb3100d",
+    "check_figures.py": "a16e6d6d05b3e24e48cf28b0bf70b6c4413f573819eef5326b9ba3f0090823c5",
+    "check_q1.py": "bec692518791c22a33b817505a79331912e007d11ca2117fc08f17471ff5ad18",
+    "check_q2.py": "3d272dcf1f49b718739d9fd983d350fec06b71ac9f314575d903ca5a7205d4c1",
+    "check_q3.py": "c2aa583fdb11b17640ad90556b3aa8eb0e40207e440d52d5aa8801b424a0fe27",
+    "check_q3_convergence.py": "f47f8d77594e5cbc6b49e1bc1d163ddc8be59a9ff3ecce6da065e4246030b8de",
+    "check_q4.py": "870506b7436a80c73b73a6e00c86147c5e6eecdefe7d0c4ad85a870a347fc898",
+    "check_template.py": "4da08ac92d8fbd1ba03ed9ffe38d615737491454157adb5370c4bb6707b6f24e",
+    "communication_schedule.py": "ba6ab0ebf222380e548a7aef04fb5610bdc1043e9c24d641e9277d73a8bd7c18",
+    "compare_q3_candidates.py": "1e603eab49661d6b7d2e5c643a89886fec2430e213ff31fead24e40eddc8fd8b",
+    "d_common.py": "14088f9a53407a4d42765ececde52ae65168951fe9a821b1877761e7497a6777",
+    "diagnose_q3.py": "a6a3619c5a9a780c3e033d79bb2ce8d153d35f482b91b8c0588291df37f1d0f8",
+    "optimize_q2.py": "c2c8d32c9a3bf599884008164ce80e53e2b55bab77048e1dd07e28f9818d2530",
+    "plot_solution_figures.py": "16f3c4582b37a07ef0d0958416af9c15d9605320b3249ac7c60e4ac07b839a1e",
+    "prepare_template_data.py": "79aac2c520e37bd6269d7a2f072792fb27bc696cf43df08a79589807e2fd7998",
+    "q3_block_cover.py": "bfc8b49017b7c57120e81260801992210d02dda106e6ad2210a6d6a6367131f2",
+    "q3_bottleneck.py": "f1ceabf3b4b2f1882c653af09eb9e1ec2cb8b73b88916aaa302d16f206a10175",
+    "q3_candidates.py": "d7dc2f5b8d559680db3b7b34d9a484b4f085efb530872ccda039956d5c0b8a7d",
+    "q3_individual_cover.py": "1e11bf6100c9c19e7729b45aee6b39164d3f001cb6c57f8cd1298708d127c021",
+    "q3_timeline.py": "49b35995173de00beafbd8a976c81ae445bf24411f10727924cd6c6aa3a13ba3",
+    "q3_transport_seed.py": "470443d935247c5893904b483a09eedd9daca4f6658748cf90bf0772a724a5f0",
+    "radio.py": "b56ffbc0139d18abb5971304e6e3f012528a05d6139a696cb05af6d3a2f6cda2",
+    "radio_interval.py": "7b0def9fecd1896a00274a332a3903076d3db3717a5c183a9b40a7ab61948f8c",
+    "rank_q3_024_sites.py": "3368dd3c77166634e856a995971df4ca0d37226e59a7511550bb621b27651e9a",
+    "relay_flight.py": "0433dc3a66a2e2801590066c2fe92de27d486083d144e2311a33bf9b3da1776e",
+    "reproduce_solution.py": "7277e2e0d3eb3e9e9d3a134ba49a0189aca8164e26a2d1284807c5b243d29db4",
+    "solve_q1.py": "583387381b680e30bb7c662b41323f8bf8a8b6de986d036c3689832b4fe8e2bc",
+    "solve_q2.py": "5add005e6fec8434a7faca30f5da3dd0c128e7c32574ef6d7c648899a5fd8104",
+    "solve_q3.py": "87693de8e6e671257e159e40220c145a59ab547531658e1507a4caa60803ec48",
+    "solve_q4.py": "d0572aecb0d8038613b73dfd71d2e5b758b93ed3547ab38c99ede1c2d1f06dba",
+    "verify_communication_bounds.py": "432848fc17abc8c1f4c895881d5bf09a95bc305aa1d890aa872d28fe714e0e3a",
+    "verify_geometry.py": "c428f7134869648e46c129f20ae0ced46503a9e31c0364260327d34f90c9a749",
+    "verify_radio_interval.py": "8c6abb7539d1fa7803dfc3fef6ffe1590b850b89aa059cd71dbbe8c3b694076f"
+  },
+  "comparisons": [
+    {
+      "file": "结果/q1_results_v2.json",
+      "json_equal": true,
+      "reference_sha256": "36fc9fa84c88d99168fde28a7f08532bb42a367a1f12fba82381855589e98715",
+      "reproduced_sha256": "36fc9fa84c88d99168fde28a7f08532bb42a367a1f12fba82381855589e98715"
+    },
+    {
+      "file": "结果/q2_results.json",
+      "json_equal": true,
+      "reference_sha256": "5aead5efa0476f0e5eb970b4a9137ee8d8ea583a15f3539ad1cef487fbaa73db",
+      "reproduced_sha256": "5aead5efa0476f0e5eb970b4a9137ee8d8ea583a15f3539ad1cef487fbaa73db"
+    },
+    {
+      "file": "结果/q3_transport_seed.json",
+      "json_equal": true,
+      "reference_sha256": "e14e24394487c9d95798c0e3466358058c3cdb3e391cd27ac2d6930e8f751c68",
+      "reproduced_sha256": "e14e24394487c9d95798c0e3466358058c3cdb3e391cd27ac2d6930e8f751c68"
+    },
+    {
+      "file": "结果/q3_seed_direct_diagnostic.json",
+      "json_equal": true,
+      "reference_sha256": "5e1d7ea4b5c2462bfc42e6d1e8107d92e7ab2e42f54c051e287888a846e1231b",
+      "reproduced_sha256": "5e1d7ea4b5c2462bfc42e6d1e8107d92e7ab2e42f54c051e287888a846e1231b"
+    },
+    {
+      "file": "结果/q3_individual_cover.json",
+      "json_equal": true,
+      "reference_sha256": "16df74b762509f64e479f6ce3cfdec3b8702a443e0db288890e0ad39e3475490",
+      "reproduced_sha256": "16df74b762509f64e479f6ce3cfdec3b8702a443e0db288890e0ad39e3475490"
+    },
+    {
+      "file": "结果/q3_solution.json",
+      "json_equal": true,
+      "reference_sha256": "fb379d7ebad479f3a41921f857676d50e82d4a51c874295d6242c8ae8fc3e860",
+      "reproduced_sha256": "fb379d7ebad479f3a41921f857676d50e82d4a51c874295d6242c8ae8fc3e860"
+    },
+    {
+      "file": "结果/q3_communication_schedule.json",
+      "json_equal": true,
+      "reference_sha256": "885723b1e2875d2287c95cd84d82345ec107a2550a52f174cf981bf1eaad759f",
+      "reproduced_sha256": "885723b1e2875d2287c95cd84d82345ec107a2550a52f174cf981bf1eaad759f"
+    },
+    {
+      "file": "结果/q3_boundary_guards.json",
+      "json_equal": true,
+      "reference_sha256": "b0491e30a51a8e9dc56a4edf4249208e38dda31f3a9ffc9e801acc84ab09b07e",
+      "reproduced_sha256": "b0491e30a51a8e9dc56a4edf4249208e38dda31f3a9ffc9e801acc84ab09b07e"
+    },
+    {
+      "file": "结果/q4_results.json",
+      "json_equal": true,
+      "reference_sha256": "241dbe89f59b0c578437abf1d49d996623219c554fdecffe6cd64b56f2377429",
+      "reproduced_sha256": "241dbe89f59b0c578437abf1d49d996623219c554fdecffe6cd64b56f2377429"
+    },
+    {
+      "file": "结果/template_data.json",
+      "json_equal": true,
+      "reference_sha256": "205bed30ed609097a01a5fe2c59a2bfe389b244f7b69b1481be24cb2e98c7b1e",
+      "reproduced_sha256": "205bed30ed609097a01a5fe2c59a2bfe389b244f7b69b1481be24cb2e98c7b1e"
+    },
+    {
+      "file": "交付材料/补充结果.json",
+      "json_equal": true,
+      "reference_sha256": "ae89f83f24b545b309f1a9ead7cd438cdfbefde971a4c30e4dab070db290c8a1",
+      "reproduced_sha256": "ae89f83f24b545b309f1a9ead7cd438cdfbefde971a4c30e4dab070db290c8a1"
+    },
+    {
+      "file": "交付材料/结果摘要.json",
+      "json_equal": true,
+      "reference_sha256": "482078a8f08935592c336c18a484f000532ff496d41f17adaac9b4d6849c529c",
+      "reproduced_sha256": "482078a8f08935592c336c18a484f000532ff496d41f17adaac9b4d6849c529c"
+    }
+  ],
+  "scope": "Fresh numerical Q1-Q4 pipeline including relay candidate search, all current communication records and template matrices; workbook export and figure rendering have separate checks",
+  "source_unchanged": true,
+  "inputs_unchanged": true
+}

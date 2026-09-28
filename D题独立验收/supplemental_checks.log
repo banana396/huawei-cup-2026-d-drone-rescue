@@ -1,0 +1,75 @@
+{
+  "Q1": {
+    "sorties": 18,
+    "coverage": 80,
+    "energy_kwh": 59.13042373923866,
+    "cumulative_time_s": 32776.01587845865,
+    "minimum_soc": 0.23089105049298486,
+    "issues": [],
+    "scope": "Workbook batches only; no optimization or safe-payload sensitivity re-solving."
+  },
+  "negative_tests": [
+    {
+      "test": "stored energy +0.1 kWh",
+      "detected": true,
+      "expected_error": "energy mismatch",
+      "observed_error_kinds": [
+        "energy mismatch"
+      ]
+    },
+    {
+      "test": "stored return +1 s",
+      "detected": true,
+      "expected_error": "return mismatch",
+      "observed_error_kinds": [
+        "return mismatch"
+      ]
+    },
+    {
+      "test": "stored delivery +1 s",
+      "detected": true,
+      "expected_error": "delivery mismatch",
+      "observed_error_kinds": [
+        "delivery mismatch"
+      ]
+    },
+    {
+      "test": "duplicate a cargo box",
+      "detected": true,
+      "expected_error": "box coverage",
+      "observed_error_kinds": [
+        "box coverage",
+        "delivery mismatch",
+        "energy mismatch",
+        "payload",
+        "resource overlap",
+        "return mismatch"
+      ]
+    },
+    {
+      "test": "unavailable battery identifier",
+      "detected": true,
+      "expected_error": "unknown battery",
+      "observed_error_kinds": [
+        "unknown battery"
+      ]
+    },
+    {
+      "test": "aircraft overlaps another sortie",
+      "detected": true,
+      "expected_error": "resource overlap",
+      "observed_error_kinds": [
+        "delivery mismatch",
+        "resource overlap",
+        "return mismatch"
+      ]
+    },
+    {
+      "test": "two-stage charge endpoints 0%,90%,100%",
+      "detected": true
+    }
+  ],
+  "high_precision_cases": 8,
+  "confirmed": 8,
+  "issues": []
+}

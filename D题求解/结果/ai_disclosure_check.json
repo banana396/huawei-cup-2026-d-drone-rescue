@@ -1,0 +1,607 @@
+{
+  "status": "headers_present_metadata_unverified",
+  "header_coverage_passed": true,
+  "checked_source_files": 98,
+  "missing_header_files": [],
+  "placeholder_files": [
+    "audit_q3_critical_link.py",
+    "audit_q3_hard_slack.py",
+    "audit_q3_margin.py",
+    "audit_q3_perturb.py",
+    "build_manifest.py",
+    "build_paper_draft.py",
+    "build_solution_materials.py",
+    "certify_communication_boundaries.py",
+    "certify_q3_intervals.py",
+    "check_ai_disclosure.py",
+    "check_communication_schedule.py",
+    "check_figures.py",
+    "check_final.py",
+    "check_optimization.py",
+    "check_paper_draft.py",
+    "check_q1.py",
+    "check_q2.py",
+    "check_q3.py",
+    "check_q3_convergence.py",
+    "check_q3_neighborhood.py",
+    "check_q4.py",
+    "check_template.py",
+    "communication_schedule.py",
+    "compare_q3_candidates.py",
+    "d_common.py",
+    "diagnose_q3.py",
+    "fill_official_template.mjs",
+    "inspect_template.mjs",
+    "optimize_q2.py",
+    "package_solution.py",
+    "plot_solution_figures.py",
+    "prepare_template_data.py",
+    "q3_block_cover.py",
+    "q3_bottleneck.py",
+    "q3_candidates.py",
+    "q3_individual_cover.py",
+    "q3_timeline.py",
+    "q3_transport_seed.py",
+    "radio.py",
+    "radio_interval.py",
+    "rank_q3_024_sites.py",
+    "relay_flight.py",
+    "reproduce_solution.py",
+    "search_q3_neighborhood.py",
+    "solve_q1.py",
+    "solve_q2.py",
+    "solve_q3.py",
+    "solve_q4.py",
+    "verify_communication_bounds.py",
+    "verify_geometry.py",
+    "verify_radio_interval.py",
+    "复现验证/run-mc9wuvad/D题求解/audit_q3_critical_link.py",
+    "复现验证/run-mc9wuvad/D题求解/audit_q3_hard_slack.py",
+    "复现验证/run-mc9wuvad/D题求解/audit_q3_margin.py",
+    "复现验证/run-mc9wuvad/D题求解/audit_q3_perturb.py",
+    "复现验证/run-mc9wuvad/D题求解/build_manifest.py",
+    "复现验证/run-mc9wuvad/D题求解/build_solution_materials.py",
+    "复现验证/run-mc9wuvad/D题求解/certify_communication_boundaries.py",
+    "复现验证/run-mc9wuvad/D题求解/certify_q3_intervals.py",
+    "复现验证/run-mc9wuvad/D题求解/check_communication_schedule.py",
+    "复现验证/run-mc9wuvad/D题求解/check_figures.py",
+    "复现验证/run-mc9wuvad/D题求解/check_q1.py",
+    "复现验证/run-mc9wuvad/D题求解/check_q2.py",
+    "复现验证/run-mc9wuvad/D题求解/check_q3.py",
+    "复现验证/run-mc9wuvad/D题求解/check_q3_convergence.py",
+    "复现验证/run-mc9wuvad/D题求解/check_q4.py",
+    "复现验证/run-mc9wuvad/D题求解/check_template.py",
+    "复现验证/run-mc9wuvad/D题求解/communication_schedule.py",
+    "复现验证/run-mc9wuvad/D题求解/compare_q3_candidates.py",
+    "复现验证/run-mc9wuvad/D题求解/d_common.py",
+    "复现验证/run-mc9wuvad/D题求解/diagnose_q3.py",
+    "复现验证/run-mc9wuvad/D题求解/optimize_q2.py",
+    "复现验证/run-mc9wuvad/D题求解/plot_solution_figures.py",
+    "复现验证/run-mc9wuvad/D题求解/prepare_template_data.py",
+    "复现验证/run-mc9wuvad/D题求解/q3_block_cover.py",
+    "复现验证/run-mc9wuvad/D题求解/q3_bottleneck.py",
+    "复现验证/run-mc9wuvad/D题求解/q3_candidates.py",
+    "复现验证/run-mc9wuvad/D题求解/q3_individual_cover.py",
+    "复现验证/run-mc9wuvad/D题求解/q3_timeline.py",
+    "复现验证/run-mc9wuvad/D题求解/q3_transport_seed.py",
+    "复现验证/run-mc9wuvad/D题求解/radio.py",
+    "复现验证/run-mc9wuvad/D题求解/radio_interval.py",
+    "复现验证/run-mc9wuvad/D题求解/rank_q3_024_sites.py",
+    "复现验证/run-mc9wuvad/D题求解/relay_flight.py",
+    "复现验证/run-mc9wuvad/D题求解/reproduce_solution.py",
+    "复现验证/run-mc9wuvad/D题求解/solve_q1.py",
+    "复现验证/run-mc9wuvad/D题求解/solve_q2.py",
+    "复现验证/run-mc9wuvad/D题求解/solve_q3.py",
+    "复现验证/run-mc9wuvad/D题求解/solve_q4.py",
+    "复现验证/run-mc9wuvad/D题求解/verify_communication_bounds.py",
+    "复现验证/run-mc9wuvad/D题求解/verify_geometry.py",
+    "复现验证/run-mc9wuvad/D题求解/verify_radio_interval.py",
+    "论文制作/build_typeset.py",
+    "论文制作/check_typeset.py",
+    "论文制作/convert_template_word.ps1",
+    "论文制作/extract_requirements.py",
+    "论文制作/inspect_template.py",
+    "论文制作/render_paper_word.ps1"
+  ],
+  "actual_model_metadata_verified": false,
+  "team_understanding_confirmed": false,
+  "submission_ready": false,
+  "fault_injections": {
+    "missing_header_detected": true,
+    "buried_header_rejected": true,
+    "placeholder_not_complete": true
+  },
+  "files": {
+    "audit_q3_critical_link.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "e780bcf1e97e6f39678b0328079b44aa8dc8683f17565ab5da3bc64f80c43696"
+    },
+    "audit_q3_hard_slack.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "748f1e9a6e9bc7aa9c86364be956aed5ca0ac66d3ea0d4e2a73b28d601b5bba9"
+    },
+    "audit_q3_margin.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "46b30402b337a1fd34e8a0efb715475b949596e3eff3ebad8fc308c3ffbe9ba0"
+    },
+    "audit_q3_perturb.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "c9b870f9974de6b5ee1f3a7811d9d10d51699b5e8479e8017292f0795226d602"
+    },
+    "build_manifest.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "e274aaa310a838cbfcf9e0f7069b5f968a9d8fb23fabade1c0ce7236210abff6"
+    },
+    "build_paper_draft.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "9a3c3cf8d0bb596485f9eaa2ed0c128ee5dc15f7dcf83680d7cff8f2afdaaf48"
+    },
+    "build_solution_materials.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "c214452b4db51f252ec481fc632b2b896dcf67e8ea1d609a3a8ba46c26f0b4c6"
+    },
+    "certify_communication_boundaries.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "325e3c476516f4487e1de7eb5d18c64b7539eae19a56b891d305193ce33e1efd"
+    },
+    "certify_q3_intervals.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "827b1e02cf7265056dbc0efd8c336601321f601e6313e28c704e4f0454d7e7bf"
+    },
+    "check_ai_disclosure.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "e98125326819e082ae082b79c8737c45bd04e98025eb33301d0299b9aed9f3ea"
+    },
+    "check_communication_schedule.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "fb3e94d5f5ef68ffe6622c94682fafab077b734b0e5f1fb17339d6c6afb3100d"
+    },
+    "check_figures.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "a16e6d6d05b3e24e48cf28b0bf70b6c4413f573819eef5326b9ba3f0090823c5"
+    },
+    "check_final.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "a9ad9476985f7e32b93940e6c48773bc2862209da2bde08d2399e70bae624aba"
+    },
+    "check_optimization.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "a20ca47c8f004f47dfb322f2a064b4118b2ad0391a218394e5d4403b8b7443db"
+    },
+    "check_paper_draft.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "d1d6ae0e91463cf807ff2e02ef3f7746c96fae1f20daf1963fe798ced15cc12e"
+    },
+    "check_q1.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "bec692518791c22a33b817505a79331912e007d11ca2117fc08f17471ff5ad18"
+    },
+    "check_q2.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "3d272dcf1f49b718739d9fd983d350fec06b71ac9f314575d903ca5a7205d4c1"
+    },
+    "check_q3.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "c2aa583fdb11b17640ad90556b3aa8eb0e40207e440d52d5aa8801b424a0fe27"
+    },
+    "check_q3_convergence.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "f47f8d77594e5cbc6b49e1bc1d163ddc8be59a9ff3ecce6da065e4246030b8de"
+    },
+    "check_q3_neighborhood.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "a5ea0c6fd117d55575e629ab64aa47dec3f85bc431fc4f689a5bb2eeb6083a5a"
+    },
+    "check_q4.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "870506b7436a80c73b73a6e00c86147c5e6eecdefe7d0c4ad85a870a347fc898"
+    },
+    "check_template.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "4da08ac92d8fbd1ba03ed9ffe38d615737491454157adb5370c4bb6707b6f24e"
+    },
+    "communication_schedule.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "ba6ab0ebf222380e548a7aef04fb5610bdc1043e9c24d641e9277d73a8bd7c18"
+    },
+    "compare_q3_candidates.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "1e603eab49661d6b7d2e5c643a89886fec2430e213ff31fead24e40eddc8fd8b"
+    },
+    "d_common.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "14088f9a53407a4d42765ececde52ae65168951fe9a821b1877761e7497a6777"
+    },
+    "diagnose_q3.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "a6a3619c5a9a780c3e033d79bb2ce8d153d35f482b91b8c0588291df37f1d0f8"
+    },
+    "fill_official_template.mjs": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "b2cfb752777f3bd27b973f7a7b4abec30c0f5309b46041fd9e24a1810295cf18"
+    },
+    "inspect_template.mjs": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "08e07b586b2d0abaa104aee14a355013200f6bf5aab29c1a846c3142d35a2d85"
+    },
+    "optimize_q2.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "c2c8d32c9a3bf599884008164ce80e53e2b55bab77048e1dd07e28f9818d2530"
+    },
+    "package_solution.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "864657c63ea253264f3080a17206e9d0b9c968065d4011fc253ab763ecbe76f8"
+    },
+    "plot_solution_figures.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "16f3c4582b37a07ef0d0958416af9c15d9605320b3249ac7c60e4ac07b839a1e"
+    },
+    "prepare_template_data.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "79aac2c520e37bd6269d7a2f072792fb27bc696cf43df08a79589807e2fd7998"
+    },
+    "q3_block_cover.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "bfc8b49017b7c57120e81260801992210d02dda106e6ad2210a6d6a6367131f2"
+    },
+    "q3_bottleneck.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "f1ceabf3b4b2f1882c653af09eb9e1ec2cb8b73b88916aaa302d16f206a10175"
+    },
+    "q3_candidates.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "d7dc2f5b8d559680db3b7b34d9a484b4f085efb530872ccda039956d5c0b8a7d"
+    },
+    "q3_individual_cover.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "1e11bf6100c9c19e7729b45aee6b39164d3f001cb6c57f8cd1298708d127c021"
+    },
+    "q3_timeline.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "49b35995173de00beafbd8a976c81ae445bf24411f10727924cd6c6aa3a13ba3"
+    },
+    "q3_transport_seed.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "470443d935247c5893904b483a09eedd9daca4f6658748cf90bf0772a724a5f0"
+    },
+    "radio.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "b56ffbc0139d18abb5971304e6e3f012528a05d6139a696cb05af6d3a2f6cda2"
+    },
+    "radio_interval.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "7b0def9fecd1896a00274a332a3903076d3db3717a5c183a9b40a7ab61948f8c"
+    },
+    "rank_q3_024_sites.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "3368dd3c77166634e856a995971df4ca0d37226e59a7511550bb621b27651e9a"
+    },
+    "relay_flight.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "0433dc3a66a2e2801590066c2fe92de27d486083d144e2311a33bf9b3da1776e"
+    },
+    "reproduce_solution.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "7277e2e0d3eb3e9e9d3a134ba49a0189aca8164e26a2d1284807c5b243d29db4"
+    },
+    "search_q3_neighborhood.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "6eca9e08bea0d9eadd7ac14ac0b0e4b220606c3151f377c3abf57099a182c8d9"
+    },
+    "solve_q1.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "583387381b680e30bb7c662b41323f8bf8a8b6de986d036c3689832b4fe8e2bc"
+    },
+    "solve_q2.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "5add005e6fec8434a7faca30f5da3dd0c128e7c32574ef6d7c648899a5fd8104"
+    },
+    "solve_q3.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "87693de8e6e671257e159e40220c145a59ab547531658e1507a4caa60803ec48"
+    },
+    "solve_q4.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "d0572aecb0d8038613b73dfd71d2e5b758b93ed3547ab38c99ede1c2d1f06dba"
+    },
+    "verify_communication_bounds.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "432848fc17abc8c1f4c895881d5bf09a95bc305aa1d890aa872d28fe714e0e3a"
+    },
+    "verify_geometry.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "c428f7134869648e46c129f20ae0ced46503a9e31c0364260327d34f90c9a749"
+    },
+    "verify_radio_interval.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "8c6abb7539d1fa7803dfc3fef6ffe1590b850b89aa059cd71dbbe8c3b694076f"
+    },
+    "复现验证/run-mc9wuvad/D题求解/audit_q3_critical_link.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "e780bcf1e97e6f39678b0328079b44aa8dc8683f17565ab5da3bc64f80c43696"
+    },
+    "复现验证/run-mc9wuvad/D题求解/audit_q3_hard_slack.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "748f1e9a6e9bc7aa9c86364be956aed5ca0ac66d3ea0d4e2a73b28d601b5bba9"
+    },
+    "复现验证/run-mc9wuvad/D题求解/audit_q3_margin.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "46b30402b337a1fd34e8a0efb715475b949596e3eff3ebad8fc308c3ffbe9ba0"
+    },
+    "复现验证/run-mc9wuvad/D题求解/audit_q3_perturb.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "c9b870f9974de6b5ee1f3a7811d9d10d51699b5e8479e8017292f0795226d602"
+    },
+    "复现验证/run-mc9wuvad/D题求解/build_manifest.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "e274aaa310a838cbfcf9e0f7069b5f968a9d8fb23fabade1c0ce7236210abff6"
+    },
+    "复现验证/run-mc9wuvad/D题求解/build_solution_materials.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "c214452b4db51f252ec481fc632b2b896dcf67e8ea1d609a3a8ba46c26f0b4c6"
+    },
+    "复现验证/run-mc9wuvad/D题求解/certify_communication_boundaries.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "325e3c476516f4487e1de7eb5d18c64b7539eae19a56b891d305193ce33e1efd"
+    },
+    "复现验证/run-mc9wuvad/D题求解/certify_q3_intervals.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "827b1e02cf7265056dbc0efd8c336601321f601e6313e28c704e4f0454d7e7bf"
+    },
+    "复现验证/run-mc9wuvad/D题求解/check_communication_schedule.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "fb3e94d5f5ef68ffe6622c94682fafab077b734b0e5f1fb17339d6c6afb3100d"
+    },
+    "复现验证/run-mc9wuvad/D题求解/check_figures.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "a16e6d6d05b3e24e48cf28b0bf70b6c4413f573819eef5326b9ba3f0090823c5"
+    },
+    "复现验证/run-mc9wuvad/D题求解/check_q1.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "bec692518791c22a33b817505a79331912e007d11ca2117fc08f17471ff5ad18"
+    },
+    "复现验证/run-mc9wuvad/D题求解/check_q2.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "3d272dcf1f49b718739d9fd983d350fec06b71ac9f314575d903ca5a7205d4c1"
+    },
+    "复现验证/run-mc9wuvad/D题求解/check_q3.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "c2aa583fdb11b17640ad90556b3aa8eb0e40207e440d52d5aa8801b424a0fe27"
+    },
+    "复现验证/run-mc9wuvad/D题求解/check_q3_convergence.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "f47f8d77594e5cbc6b49e1bc1d163ddc8be59a9ff3ecce6da065e4246030b8de"
+    },
+    "复现验证/run-mc9wuvad/D题求解/check_q4.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "870506b7436a80c73b73a6e00c86147c5e6eecdefe7d0c4ad85a870a347fc898"
+    },
+    "复现验证/run-mc9wuvad/D题求解/check_template.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "4da08ac92d8fbd1ba03ed9ffe38d615737491454157adb5370c4bb6707b6f24e"
+    },
+    "复现验证/run-mc9wuvad/D题求解/communication_schedule.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "ba6ab0ebf222380e548a7aef04fb5610bdc1043e9c24d641e9277d73a8bd7c18"
+    },
+    "复现验证/run-mc9wuvad/D题求解/compare_q3_candidates.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "1e603eab49661d6b7d2e5c643a89886fec2430e213ff31fead24e40eddc8fd8b"
+    },
+    "复现验证/run-mc9wuvad/D题求解/d_common.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "14088f9a53407a4d42765ececde52ae65168951fe9a821b1877761e7497a6777"
+    },
+    "复现验证/run-mc9wuvad/D题求解/diagnose_q3.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "a6a3619c5a9a780c3e033d79bb2ce8d153d35f482b91b8c0588291df37f1d0f8"
+    },
+    "复现验证/run-mc9wuvad/D题求解/optimize_q2.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "c2c8d32c9a3bf599884008164ce80e53e2b55bab77048e1dd07e28f9818d2530"
+    },
+    "复现验证/run-mc9wuvad/D题求解/plot_solution_figures.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "16f3c4582b37a07ef0d0958416af9c15d9605320b3249ac7c60e4ac07b839a1e"
+    },
+    "复现验证/run-mc9wuvad/D题求解/prepare_template_data.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "79aac2c520e37bd6269d7a2f072792fb27bc696cf43df08a79589807e2fd7998"
+    },
+    "复现验证/run-mc9wuvad/D题求解/q3_block_cover.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "bfc8b49017b7c57120e81260801992210d02dda106e6ad2210a6d6a6367131f2"
+    },
+    "复现验证/run-mc9wuvad/D题求解/q3_bottleneck.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "f1ceabf3b4b2f1882c653af09eb9e1ec2cb8b73b88916aaa302d16f206a10175"
+    },
+    "复现验证/run-mc9wuvad/D题求解/q3_candidates.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "d7dc2f5b8d559680db3b7b34d9a484b4f085efb530872ccda039956d5c0b8a7d"
+    },
+    "复现验证/run-mc9wuvad/D题求解/q3_individual_cover.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "1e11bf6100c9c19e7729b45aee6b39164d3f001cb6c57f8cd1298708d127c021"
+    },
+    "复现验证/run-mc9wuvad/D题求解/q3_timeline.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "49b35995173de00beafbd8a976c81ae445bf24411f10727924cd6c6aa3a13ba3"
+    },
+    "复现验证/run-mc9wuvad/D题求解/q3_transport_seed.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "470443d935247c5893904b483a09eedd9daca4f6658748cf90bf0772a724a5f0"
+    },
+    "复现验证/run-mc9wuvad/D题求解/radio.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "b56ffbc0139d18abb5971304e6e3f012528a05d6139a696cb05af6d3a2f6cda2"
+    },
+    "复现验证/run-mc9wuvad/D题求解/radio_interval.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "7b0def9fecd1896a00274a332a3903076d3db3717a5c183a9b40a7ab61948f8c"
+    },
+    "复现验证/run-mc9wuvad/D题求解/rank_q3_024_sites.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "3368dd3c77166634e856a995971df4ca0d37226e59a7511550bb621b27651e9a"
+    },
+    "复现验证/run-mc9wuvad/D题求解/relay_flight.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "0433dc3a66a2e2801590066c2fe92de27d486083d144e2311a33bf9b3da1776e"
+    },
+    "复现验证/run-mc9wuvad/D题求解/reproduce_solution.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "7277e2e0d3eb3e9e9d3a134ba49a0189aca8164e26a2d1284807c5b243d29db4"
+    },
+    "复现验证/run-mc9wuvad/D题求解/solve_q1.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "583387381b680e30bb7c662b41323f8bf8a8b6de986d036c3689832b4fe8e2bc"
+    },
+    "复现验证/run-mc9wuvad/D题求解/solve_q2.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "5add005e6fec8434a7faca30f5da3dd0c128e7c32574ef6d7c648899a5fd8104"
+    },
+    "复现验证/run-mc9wuvad/D题求解/solve_q3.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "87693de8e6e671257e159e40220c145a59ab547531658e1507a4caa60803ec48"
+    },
+    "复现验证/run-mc9wuvad/D题求解/solve_q4.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "d0572aecb0d8038613b73dfd71d2e5b758b93ed3547ab38c99ede1c2d1f06dba"
+    },
+    "复现验证/run-mc9wuvad/D题求解/verify_communication_bounds.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "432848fc17abc8c1f4c895881d5bf09a95bc305aa1d890aa872d28fe714e0e3a"
+    },
+    "复现验证/run-mc9wuvad/D题求解/verify_geometry.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "c428f7134869648e46c129f20ae0ced46503a9e31c0364260327d34f90c9a749"
+    },
+    "复现验证/run-mc9wuvad/D题求解/verify_radio_interval.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "8c6abb7539d1fa7803dfc3fef6ffe1590b850b89aa059cd71dbbe8c3b694076f"
+    },
+    "论文制作/build_typeset.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "e97a2d016e70191296fc6ab451b0065c199d5f87f20d37cde9fe037c10527b4e"
+    },
+    "论文制作/check_typeset.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "ee04c7ee0c14b37b98e825226921d16dd523daa645c21667022495576219b268"
+    },
+    "论文制作/convert_template_word.ps1": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "4364440b075bab87a6ea72abd9c60abe02134b93f6109f80164c4667c276450b"
+    },
+    "论文制作/extract_requirements.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "efda009a61dea8fe2c8b8d777a86829d18d8314e380831b72ffdd069bc4f5292"
+    },
+    "论文制作/inspect_template.py": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "58d8b4ef041cc8725f238fa41dd122ba778d4410a7f3ed92711c69eb254f99b8"
+    },
+    "论文制作/render_paper_word.ps1": {
+      "missing_fields": [],
+      "contains_unverified_placeholder": true,
+      "sha256": "82832f474462cf8405097ef6805bc28c13ddd6258c76ee679bbe282a1112f072"
+    }
+  },
+  "scope": "Source comment coverage only. Placeholder removal is not evidence of a true model/version/release date; verify actual usage records separately. Includes saved replay source copies, excludes third-party runtime dependencies."
+}

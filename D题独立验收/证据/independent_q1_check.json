@@ -1,0 +1,137 @@
+{
+  "sorties": 18,
+  "coverage": 80,
+  "energy_kwh": 59.13042373923866,
+  "cumulative_time_s": 32776.01587845865,
+  "minimum_soc": 0.23089105049298486,
+  "issues": [],
+  "rows": [
+    {
+      "mission": "Q1-R20-001",
+      "model": "C",
+      "energy_kwh": 2.9175468585122415,
+      "duration_s": 1560.1690781764914,
+      "return_soc": 0.6353066426859698
+    },
+    {
+      "mission": "Q1-R20-002",
+      "model": "C",
+      "energy_kwh": 2.995733438084776,
+      "duration_s": 1626.1690781764914,
+      "return_soc": 0.625533320239403
+    },
+    {
+      "mission": "Q1-R20-003",
+      "model": "B",
+      "energy_kwh": 2.7133937169990294,
+      "duration_s": 1816.6943105721057,
+      "return_soc": 0.32165157075024264
+    },
+    {
+      "mission": "Q1-R20-004",
+      "model": "C",
+      "energy_kwh": 5.721187155579104,
+      "duration_s": 2041.8123952889023,
+      "return_soc": 0.284851605552612
+    },
+    {
+      "mission": "Q1-R20-005",
+      "model": "B",
+      "energy_kwh": 2.779848267267532,
+      "duration_s": 2080.523323644022,
+      "return_soc": 0.305037933183117
+    },
+    {
+      "mission": "Q1-R20-006",
+      "model": "C",
+      "energy_kwh": 5.7648744191698995,
+      "duration_s": 2370.09136970522,
+      "return_soc": 0.27939069760376256
+    },
+    {
+      "mission": "Q1-R20-007",
+      "model": "C",
+      "energy_kwh": 6.152871596056121,
+      "duration_s": 2301.0566925260277,
+      "return_soc": 0.23089105049298486
+    },
+    {
+      "mission": "Q1-R20-008",
+      "model": "C",
+      "energy_kwh": 4.222147882156402,
+      "duration_s": 1877.190524318612,
+      "return_soc": 0.4722315147304498
+    },
+    {
+      "mission": "Q1-R20-009",
+      "model": "C",
+      "energy_kwh": 2.597943519280148,
+      "duration_s": 1561.5538687614226,
+      "return_soc": 0.6752570600899814
+    },
+    {
+      "mission": "Q1-R20-010",
+      "model": "C",
+      "energy_kwh": 3.410822573371412,
+      "duration_s": 1907.5664623888588,
+      "return_soc": 0.5736471783285735
+    },
+    {
+      "mission": "Q1-R20-011",
+      "model": "C",
+      "energy_kwh": 5.835966106931019,
+      "duration_s": 2199.7012178054792,
+      "return_soc": 0.27050423663362266
+    },
+    {
+      "mission": "Q1-R20-012",
+      "model": "B",
+      "energy_kwh": 2.0962091833149543,
+      "duration_s": 1558.4417386822975,
+      "return_soc": 0.4759477041712614
+    },
+    {
+      "mission": "Q1-R20-013",
+      "model": "B",
+      "energy_kwh": 1.823152829272353,
+      "duration_s": 1555.3795695782696,
+      "return_soc": 0.5442117926819118
+    },
+    {
+      "mission": "Q1-R20-014",
+      "model": "B",
+      "energy_kwh": 1.0739252699396347,
+      "duration_s": 1188.4204728065527,
+      "return_soc": 0.7315186825150913
+    },
+    {
+      "mission": "Q1-R20-015",
+      "model": "B",
+      "energy_kwh": 2.752369926389682,
+      "duration_s": 1922.7403747014218,
+      "return_soc": 0.31190751840257946
+    },
+    {
+      "mission": "Q1-R20-016",
+      "model": "B",
+      "energy_kwh": 1.8247237214005954,
+      "duration_s": 1510.4723313264,
+      "return_soc": 0.5438190696498512
+    },
+    {
+      "mission": "Q1-R20-017",
+      "model": "B",
+      "energy_kwh": 2.140314250215852,
+      "duration_s": 1869.756420414513,
+      "return_soc": 0.464921437446037
+    },
+    {
+      "mission": "Q1-R20-018",
+      "model": "B",
+      "energy_kwh": 2.3073930252979036,
+      "duration_s": 1828.2766495855662,
+      "return_soc": 0.4231517436755241
+    }
+  ],
+  "scope": "Workbook batches only; no optimization or safe-payload sensitivity re-solving."
+}

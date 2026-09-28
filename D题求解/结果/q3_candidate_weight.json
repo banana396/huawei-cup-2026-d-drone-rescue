@@ -1,0 +1,1235 @@
+{
+  "status": "candidate_pending_independent_verification",
+  "assumptions": [
+    "水平续航折算电耗+爬升势能/效率",
+    "通信在爬升、巡航、下降和交接全过程连续检查；数值检查采用有限步长",
+    "中继回程后300秒周转；能源组件依题设分段充电；中继悬停持续供电"
+  ],
+  "transport_missions": [
+    {
+      "id": "Q3-001",
+      "craft": "U05",
+      "model": "B",
+      "battery": "B-BAT-01",
+      "start_s": 15,
+      "route": [
+        "S002"
+      ],
+      "stops": [
+        {
+          "zone": "S002",
+          "boxes": [
+            "S002-MED-01",
+            "S002-WAT-01"
+          ]
+        }
+      ],
+      "return_s": 1771.694311,
+      "energy_kwh": 2.432608813,
+      "return_soc": 0.391847797,
+      "delivery_s": {
+        "S002-MED-01": 1175.287155,
+        "S002-WAT-01": 1175.287155
+      },
+      "battery_recharged_s": 3492.491463
+    },
+    {
+      "id": "Q3-002",
+      "craft": "U06",
+      "model": "B",
+      "battery": "B-BAT-02",
+      "start_s": 15,
+      "route": [
+        "S012"
+      ],
+      "stops": [
+        {
+          "zone": "S012",
+          "boxes": [
+            "S012-MED-01",
+            "S012-WAT-01"
+          ]
+        }
+      ],
+      "return_s": 1877.740375,
+      "energy_kwh": 2.469200039,
+      "return_soc": 0.38269999,
+      "delivery_s": {
+        "S012-MED-01": 1226.300187,
+        "S012-WAT-01": 1226.300187
+      },
+      "battery_recharged_s": 3614.393726
+    },
+    {
+      "id": "Q3-003",
+      "craft": "U01",
+      "model": "A",
+      "battery": "A-BAT-01",
+      "start_s": 15,
+      "route": [
+        "S014"
+      ],
+      "stops": [
+        {
+          "zone": "S014",
+          "boxes": [
+            "S014-MED-01",
+            "S014-WAT-01"
+          ]
+        }
+      ],
+      "return_s": 2005.409817,
+      "energy_kwh": 2.290903451,
+      "return_soc": 0.490910344,
+      "delivery_s": {
+        "S014-MED-01": 1287.761575,
+        "S014-WAT-01": 1287.761575
+      },
+      "battery_recharged_s": 3167.22637
+    },
+    {
+      "id": "Q3-004",
+      "craft": "U07",
+      "model": "C",
+      "battery": "C-BAT-01",
+      "start_s": 15,
+      "route": [
+        "S013"
+      ],
+      "stops": [
+        {
+          "zone": "S013",
+          "boxes": [
+            "S013-MED-01",
+            "S013-WAT-01"
+          ]
+        }
+      ],
+      "return_s": 1560.632939,
+      "energy_kwh": 3.169048113,
+      "return_soc": 0.603868986,
+      "delivery_s": {
+        "S013-MED-01": 1082.61647,
+        "S013-WAT-01": 1082.61647
+      },
+      "battery_recharged_s": 3252.250136
+    },
+    {
+      "id": "Q3-005",
+      "craft": "U08",
+      "model": "C",
+      "battery": "C-BAT-02",
+      "start_s": 15,
+      "route": [
+        "S010"
+      ],
+      "stops": [
+        {
+          "zone": "S010",
+          "boxes": [
+            "S010-MED-01",
+            "S010-WAT-01"
+          ]
+        }
+      ],
+      "return_s": 1617.708415,
+      "energy_kwh": 3.149747029,
+      "return_soc": 0.606281621,
+      "delivery_s": {
+        "S010-MED-01": 1111.159207,
+        "S010-WAT-01": 1111.159207
+      },
+      "battery_recharged_s": 3304.098236
+    },
+    {
+      "id": "Q3-006",
+      "craft": "U02",
+      "model": "A",
+      "battery": "A-BAT-02",
+      "start_s": 15,
+      "route": [
+        "S007"
+      ],
+      "stops": [
+        {
+          "zone": "S007",
+          "boxes": [
+            "S007-MED-01",
+            "S007-WAT-01"
+          ]
+        }
+      ],
+      "return_s": 1742.424091,
+      "energy_kwh": 1.905285025,
+      "return_soc": 0.576603328,
+      "delivery_s": {
+        "S007-MED-01": 1156.352045,
+        "S007-WAT-01": 1156.352045
+      },
+      "battery_recharged_s": 2792.839765
+    },
+    {
+      "id": "Q3-007",
+      "craft": "U03",
+      "model": "A",
+      "battery": "A-BAT-03",
+      "start_s": 15,
+      "route": [
+        "S006"
+      ],
+      "stops": [
+        {
+          "zone": "S006",
+          "boxes": [
+            "S006-MED-01",
+            "S006-WAT-01"
+          ]
+        }
+      ],
+      "return_s": 1328.478195,
+      "energy_kwh": 1.311534861,
+      "return_soc": 0.708547809,
+      "delivery_s": {
+        "S006-MED-01": 950.502431,
+        "S006-WAT-01": 950.502431
+      },
+      "battery_recharged_s": 2207.366043
+    },
+    {
+      "id": "Q3-008",
+      "craft": "U04",
+      "model": "A",
+      "battery": "A-BAT-04",
+      "start_s": 15,
+      "route": [
+        "S001"
+      ],
+      "stops": [
+        {
+          "zone": "S001",
+          "boxes": [
+            "S001-MED-01",
+            "S001-MED-02",
+            "S001-WAT-01"
+          ]
+        }
+      ],
+      "return_s": 1325.899503,
+      "energy_kwh": 1.264320714,
+      "return_soc": 0.719039841,
+      "delivery_s": {
+        "S001-MED-01": 983.573085,
+        "S001-MED-02": 983.573085,
+        "S001-WAT-01": 983.573085
+      },
+      "battery_recharged_s": 2191.14771
+    },
+    {
+      "id": "Q3-009",
+      "craft": "U04",
+      "model": "A",
+      "battery": "A-BAT-05",
+      "start_s": 2350,
+      "route": [
+        "S008"
+      ],
+      "stops": [
+        {
+          "zone": "S008",
+          "boxes": [
+            "S008-MED-01",
+            "S008-WAT-01"
+          ]
+        }
+      ],
+      "return_s": 4521.132545,
+      "energy_kwh": 3.199870549,
+      "return_soc": 0.288917656,
+      "delivery_s": {
+        "S008-MED-01": 3715.792939,
+        "S008-WAT-01": 3715.792939
+      },
+      "battery_recharged_s": 5945.539592
+    },
+    {
+      "id": "Q3-010",
+      "craft": "U03",
+      "model": "A",
+      "battery": "A-BAT-06",
+      "start_s": 2350,
+      "route": [
+        "S004"
+      ],
+      "stops": [
+        {
+          "zone": "S004",
+          "boxes": [
+            "S004-MED-01",
+            "S004-WAT-01"
+          ]
+        }
+      ],
+      "return_s": 4528.800186,
+      "energy_kwh": 3.08675363,
+      "return_soc": 0.314054749,
+      "delivery_s": {
+        "S004-MED-01": 3721.04676,
+        "S004-WAT-01": 3721.04676
+      },
+      "battery_recharged_s": 5920.529012
+    },
+    {
+      "id": "Q3-011",
+      "craft": "U07",
+      "model": "C",
+      "battery": "C-BAT-03",
+      "start_s": 2350,
+      "route": [
+        "S003"
+      ],
+      "stops": [
+        {
+          "zone": "S003",
+          "boxes": [
+            "S003-MED-01",
+            "S003-WAT-01"
+          ]
+        }
+      ],
+      "return_s": 4522.09137,
+      "energy_kwh": 4.795871983,
+      "return_soc": 0.400516002,
+      "delivery_s": {
+        "S003-MED-01": 3731.505685,
+        "S003-WAT-01": 3731.505685
+      },
+      "battery_recharged_s": 6654.306699
+    },
+    {
+      "id": "Q3-012",
+      "craft": "U08",
+      "model": "C",
+      "battery": "C-BAT-04",
+      "start_s": 2350,
+      "route": [
+        "S015"
+      ],
+      "stops": [
+        {
+          "zone": "S015",
+          "boxes": [
+            "S015-MED-01",
+            "S015-WAT-01"
+          ]
+        }
+      ],
+      "return_s": 4250.509735,
+      "energy_kwh": 3.972785936,
+      "return_soc": 0.503401758,
+      "delivery_s": {
+        "S015-MED-01": 3588.914867,
+        "S015-WAT-01": 3588.914867
+      },
+      "battery_recharged_s": 6159.805926
+    },
+    {
+      "id": "Q3-013",
+      "craft": "U05",
+      "model": "B",
+      "battery": "B-BAT-03",
+      "start_s": 5000,
+      "route": [
+        "S009"
+      ],
+      "stops": [
+        {
+          "zone": "S009",
+          "boxes": [
+            "S009-MED-01",
+            "S009-WAT-01"
+          ]
+        }
+      ],
+      "return_s": 6498.441738,
+      "energy_kwh": 1.87927707,
+      "return_soc": 0.530180733,
+      "delivery_s": {
+        "S009-MED-01": 6030.810869,
+        "S009-WAT-01": 6030.810869
+      },
+      "battery_recharged_s": 7979.461801
+    },
+    {
+      "id": "Q3-014",
+      "craft": "U06",
+      "model": "B",
+      "battery": "B-BAT-04",
+      "start_s": 5000,
+      "route": [
+        "S005"
+      ],
+      "stops": [
+        {
+          "zone": "S005",
+          "boxes": [
+            "S005-MED-01",
+            "S005-WAT-01"
+          ]
+        }
+      ],
+      "return_s": 6516.170228,
+      "energy_kwh": 1.771474479,
+      "return_soc": 0.55713138,
+      "delivery_s": {
+        "S005-MED-01": 6040.84178,
+        "S005-WAT-01": 6040.84178
+      },
+      "battery_recharged_s": 7950.475836
+    },
+    {
+      "id": "Q3-015",
+      "craft": "U01",
+      "model": "A",
+      "battery": "A-BAT-04",
+      "start_s": 5000,
+      "route": [
+        "S011"
+      ],
+      "stops": [
+        {
+          "zone": "S011",
+          "boxes": [
+            "S011-MED-01",
+            "S011-WAT-01"
+          ]
+        }
+      ],
+      "return_s": 6222.022947,
+      "energy_kwh": 1.15199111,
+      "return_soc": 0.744001975,
+      "delivery_s": {
+        "S011-MED-01": 5893.19814,
+        "S011-WAT-01": 5893.19814
+      },
+      "battery_recharged_s": 7054.82038
+    },
+    {
+      "id": "Q3-016",
+      "craft": "U08",
+      "model": "C",
+      "battery": "C-BAT-01",
+      "start_s": 18664.583524,
+      "route": [
+        "S008",
+        "S015"
+      ],
+      "stops": [
+        {
+          "zone": "S008",
+          "boxes": [
+            "S008-WAT-02",
+            "S008-FOD-01",
+            "S008-HYG-01"
+          ]
+        },
+        {
+          "zone": "S015",
+          "boxes": [
+            "S015-FOD-01"
+          ]
+        }
+      ],
+      "return_s": 21493.591106,
+      "energy_kwh": 6.300745806,
+      "return_soc": 0.212406774,
+      "delivery_s": {
+        "S008-WAT-02": 20060.274132,
+        "S008-FOD-01": 20060.274132,
+        "S008-HYG-01": 20060.274132,
+        "S015-FOD-01": 20831.996238
+      },
+      "battery_recharged_s": 24033.376429
+    },
+    {
+      "id": "Q3-017",
+      "craft": "U07",
+      "model": "C",
+      "battery": "C-BAT-02",
+      "start_s": 12087.803446,
+      "route": [
+        "S004"
+      ],
+      "stops": [
+        {
+          "zone": "S004",
+          "boxes": [
+            "S004-WAT-02",
+            "S004-WAT-03",
+            "S004-FOD-01",
+            "S004-HYG-01"
+          ]
+        }
+      ],
+      "return_s": 14256.860138,
+      "energy_kwh": 5.518446501,
+      "return_soc": 0.310194187,
+      "delivery_s": {
+        "S004-WAT-02": 13539.301792,
+        "S004-WAT-03": 13539.301792,
+        "S004-FOD-01": 13539.301792,
+        "S004-HYG-01": 13539.301792
+      },
+      "battery_recharged_s": 16584.772733
+    },
+    {
+      "id": "Q3-018",
+      "craft": "U07",
+      "model": "C",
+      "battery": "C-BAT-03",
+      "start_s": 9689.574769,
+      "route": [
+        "S002"
+      ],
+      "stops": [
+        {
+          "zone": "S002",
+          "boxes": [
+            "S002-WAT-02",
+            "S002-WAT-03",
+            "S002-WAT-04",
+            "S002-FOD-01",
+            "S002-FOD-02",
+            "S002-HYG-01"
+          ]
+        }
+      ],
+      "return_s": 11797.387165,
+      "energy_kwh": 6.105616488,
+      "return_soc": 0.236797939,
+      "delivery_s": {
+        "S002-WAT-02": 11176.890967,
+        "S002-WAT-03": 11176.890967,
+        "S002-WAT-04": 11176.890967,
+        "S002-FOD-01": 11176.890967,
+        "S002-FOD-02": 11176.890967,
+        "S002-HYG-01": 11176.890967
+      },
+      "battery_recharged_s": 14284.324964
+    },
+    {
+      "id": "Q3-019",
+      "craft": "U02",
+      "model": "A",
+      "battery": "A-BAT-03",
+      "start_s": 23963.764768,
+      "route": [
+        "S009",
+        "S012"
+      ],
+      "stops": [
+        {
+          "zone": "S009",
+          "boxes": [
+            "S009-FOD-01"
+          ]
+        },
+        {
+          "zone": "S012",
+          "boxes": [
+            "S012-FOD-01"
+          ]
+        }
+      ],
+      "return_s": 26338.089311,
+      "energy_kwh": 3.157405377,
+      "return_soc": 0.298354361,
+      "delivery_s": {
+        "S009-FOD-01": 25059.661387,
+        "S012-FOD-01": 25563.474259
+      },
+      "battery_recharged_s": 27750.228642
+    },
+    {
+      "id": "Q3-020",
+      "craft": "U08",
+      "model": "C",
+      "battery": "C-BAT-04",
+      "start_s": 11487.550382,
+      "route": [
+        "S003"
+      ],
+      "stops": [
+        {
+          "zone": "S003",
+          "boxes": [
+            "S003-WAT-02",
+            "S003-WAT-03",
+            "S003-WAT-04",
+            "S003-FOD-01",
+            "S003-FOD-02",
+            "S003-HYG-01"
+          ]
+        }
+      ],
+      "return_s": 13923.641752,
+      "energy_kwh": 6.149382867,
+      "return_soc": 0.231327142,
+      "delivery_s": {
+        "S003-WAT-02": 13133.056067,
+        "S003-WAT-03": 13133.056067,
+        "S003-WAT-04": 13133.056067,
+        "S003-FOD-01": 13133.056067,
+        "S003-FOD-02": 13133.056067,
+        "S003-HYG-01": 13133.056067
+      },
+      "battery_recharged_s": 16422.432944
+    },
+    {
+      "id": "Q3-021",
+      "craft": "U05",
+      "model": "B",
+      "battery": "B-BAT-01",
+      "start_s": 21673.43548,
+      "route": [
+        "S010",
+        "S014"
+      ],
+      "stops": [
+        {
+          "zone": "S010",
+          "boxes": [
+            "S010-FOD-01"
+          ]
+        },
+        {
+          "zone": "S014",
+          "boxes": [
+            "S014-FOD-01"
+          ]
+        }
+      ],
+      "return_s": 23729.476172,
+      "energy_kwh": 2.065831729,
+      "return_soc": 0.483542068,
+      "delivery_s": {
+        "S010-FOD-01": 22668.661931,
+        "S014-FOD-01": 23102.154628
+      },
+      "battery_recharged_s": 25291.336587
+    },
+    {
+      "id": "Q3-022",
+      "craft": "U07",
+      "model": "C",
+      "battery": "C-BAT-02",
+      "start_s": 16584.772733,
+      "route": [
+        "S011",
+        "S005"
+      ],
+      "stops": [
+        {
+          "zone": "S011",
+          "boxes": [
+            "S011-FOD-01"
+          ]
+        },
+        {
+          "zone": "S005",
+          "boxes": [
+            "S005-WAT-02",
+            "S005-WAT-03",
+            "S005-FOD-01",
+            "S005-HYG-01"
+          ]
+        }
+      ],
+      "return_s": 18691.935072,
+      "energy_kwh": 4.054705219,
+      "return_soc": 0.493161848,
+      "delivery_s": {
+        "S011-FOD-01": 17546.673262,
+        "S005-WAT-02": 18187.97481,
+        "S005-WAT-03": 18187.97481,
+        "S005-FOD-01": 18187.97481,
+        "S005-HYG-01": 18187.97481
+      },
+      "battery_recharged_s": 20623.417735
+    },
+    {
+      "id": "Q3-023",
+      "craft": "U01",
+      "model": "A",
+      "battery": "A-BAT-01",
+      "start_s": 26017.797932,
+      "route": [
+        "S013"
+      ],
+      "stops": [
+        {
+          "zone": "S013",
+          "boxes": [
+            "S013-FOD-01"
+          ]
+        }
+      ],
+      "return_s": 27569.911678,
+      "energy_kwh": 1.871206786,
+      "return_soc": 0.58417627,
+      "delivery_s": {
+        "S013-FOD-01": 27041.388138
+      },
+      "battery_recharged_s": 28610.482527
+    },
+    {
+      "id": "Q3-024",
+      "craft": "U08",
+      "model": "C",
+      "battery": "C-BAT-01",
+      "start_s": 6024.781919,
+      "route": [
+        "S006",
+        "S007"
+      ],
+      "stops": [
+        {
+          "zone": "S006",
+          "boxes": [
+            "S006-WAT-02",
+            "S006-WAT-03",
+            "S006-FOD-01",
+            "S006-HYG-01"
+          ]
+        },
+        {
+          "zone": "S007",
+          "boxes": [
+            "S007-WAT-02",
+            "S007-FOD-01",
+            "S007-HYG-01"
+          ]
+        }
+      ],
+      "return_s": 8438.345063,
+      "energy_kwh": 4.28796906,
+      "return_soc": 0.464003867,
+      "delivery_s": {
+        "S006-WAT-02": 7192.203853,
+        "S006-WAT-03": 7192.203853,
+        "S006-FOD-01": 7192.203853,
+        "S006-HYG-01": 7192.203853,
+        "S007-WAT-02": 7878.521832,
+        "S007-FOD-01": 7878.521832,
+        "S007-HYG-01": 7878.521832
+      },
+      "battery_recharged_s": 10433.003351
+    },
+    {
+      "id": "Q3-025",
+      "craft": "U07",
+      "model": "C",
+      "battery": "C-BAT-03",
+      "start_s": 6654.306699,
+      "route": [
+        "S001"
+      ],
+      "stops": [
+        {
+          "zone": "S001",
+          "boxes": [
+            "S001-WAT-02",
+            "S001-WAT-03",
+            "S001-WAT-04",
+            "S001-FOD-01",
+            "S001-FOD-02",
+            "S001-FOD-03"
+          ]
+        }
+      ],
+      "return_s": 8148.475777,
+      "energy_kwh": 2.613288585,
+      "return_soc": 0.673338927,
+      "delivery_s": {
+        "S001-WAT-02": 7836.576238,
+        "S001-WAT-03": 7836.576238,
+        "S001-WAT-04": 7836.576238,
+        "S001-FOD-01": 7836.576238,
+        "S001-FOD-02": 7836.576238,
+        "S001-FOD-03": 7836.576238
+      },
+      "battery_recharged_s": 9689.574769
+    },
+    {
+      "id": "Q3-026",
+      "craft": "U08",
+      "model": "C",
+      "battery": "C-BAT-04",
+      "start_s": 8438.345063,
+      "route": [
+        "S001"
+      ],
+      "stops": [
+        {
+          "zone": "S001",
+          "boxes": [
+            "S001-WAT-05",
+            "S001-WAT-06",
+            "S001-WAT-07",
+            "S001-WAT-08",
+            "S001-HYG-01",
+            "S001-HYG-02"
+          ]
+        }
+      ],
+      "return_s": 9932.514142,
+      "energy_kwh": 2.664749194,
+      "return_soc": 0.666906351,
+      "delivery_s": {
+        "S001-WAT-05": 9620.614602,
+        "S001-WAT-06": 9620.614602,
+        "S001-WAT-07": 9620.614602,
+        "S001-WAT-08": 9620.614602,
+        "S001-HYG-01": 9620.614602,
+        "S001-HYG-02": 9620.614602
+      },
+      "battery_recharged_s": 11487.550382
+    }
+  ],
+  "relay_sorties": [
+    {
+      "id": "R-001",
+      "craft": "R01",
+      "component": "R-EC-01",
+      "site": "S007-150",
+      "lon": 109.1928191,
+      "lat": 23.0294186,
+      "alt_m": 464.2220458984375,
+      "agl_m": 150.0,
+      "start_s": 0,
+      "arrival_s": 594.28271,
+      "ready_s": 624.28271,
+      "service_end_s": 6186.7882,
+      "return_s": 6629.114414,
+      "component_recharged_s": 7917.219276,
+      "energy_kwh": 1.939950428,
+      "return_soc": 0.393765491,
+      "route": {
+        "out_s": 414.2827104628214,
+        "back_s": 442.3262142876912,
+        "flight_energy_kwh": 0.23154597323318693,
+        "cruise_alt_m": 511.9731750488281,
+        "distance_m": 4534.460604757262,
+        "max_service_s": 7620.394996691389
+      }
+    },
+    {
+      "id": "R-002",
+      "craft": "R02",
+      "component": "R-EC-02",
+      "site": "GRID-109.278-23.025-300",
+      "lon": 109.278,
+      "lat": 23.025,
+      "alt_m": 675.1760559082031,
+      "agl_m": 300.0,
+      "start_s": 0,
+      "arrival_s": 661.314505,
+      "ready_s": 691.314505,
+      "service_end_s": 1503.6884,
+      "return_s": 2030.62591,
+      "component_recharged_s": 2744.197295,
+      "energy_kwh": 0.525714178,
+      "return_soc": 0.835714319,
+      "route": {
+        "out_s": 481.3145051036264,
+        "back_s": 526.9375097626433,
+        "flight_energy_kwh": 0.26873882168283386,
+        "cruise_alt_m": 675.1760559082031,
+        "distance_m": 5166.682366898634,
+        "max_service_s": 7498.672947219818
+      }
+    },
+    {
+      "id": "R-003",
+      "craft": "R02",
+      "component": "R-EC-03",
+      "site": "S004-300",
+      "lon": 109.2381714,
+      "lat": 23.0778414,
+      "alt_m": 495.1157531738281,
+      "agl_m": 300.0,
+      "start_s": 2330.62591,
+      "arrival_s": 3116.792945,
+      "ready_s": 3146.792945,
+      "service_end_s": 4068.8938,
+      "return_s": 4705.678814,
+      "component_recharged_s": 5470.455956,
+      "energy_kwh": 0.651759117,
+      "return_soc": 0.796325276,
+      "route": {
+        "out_s": 606.1670349226819,
+        "back_s": 636.7850143538342,
+        "flight_energy_kwh": 0.3612560778822362,
+        "cruise_alt_m": 495.1157531738281,
+        "distance_m": 7714.696449438372,
+        "max_service_s": 7195.889199658137
+      }
+    },
+    {
+      "id": "R-004",
+      "craft": "R02",
+      "component": "R-EC-02",
+      "site": "MID-S008-300",
+      "lon": 109.22179944999999,
+      "lat": 23.044010399999998,
+      "alt_m": 584.017822265625,
+      "agl_m": 300.0,
+      "start_s": 5005.678814,
+      "arrival_s": 5569.060664,
+      "ready_s": 5599.060664,
+      "service_end_s": 6186.7882,
+      "return_s": 6608.196534,
+      "component_recharged_s": 7271.086214,
+      "energy_kwh": 0.400959212,
+      "return_soc": 0.874700246,
+      "route": {
+        "out_s": 383.3818492321548,
+        "back_s": 421.4083344209569,
+        "flight_energy_kwh": 0.21262579839734858,
+        "cruise_alt_m": 584.017822265625,
+        "distance_m": 4039.535904986229,
+        "max_service_s": 7682.315568881406
+      }
+    },
+    {
+      "id": "R-005",
+      "craft": "R02",
+      "component": "R-EC-03",
+      "site": "MID-S015-150",
+      "lon": 109.21161515,
+      "lat": 23.028982149999997,
+      "alt_m": 420.958984375,
+      "agl_m": 150.0,
+      "start_s": 6908.196534,
+      "arrival_s": 7361.830414,
+      "ready_s": 7391.830414,
+      "service_end_s": 7987.164714,
+      "return_s": 8285.236843,
+      "component_recharged_s": 8925.276582,
+      "energy_kwh": 0.344713204,
+      "return_soc": 0.892277124,
+      "route": {
+        "out_s": 273.63387988051545,
+        "back_s": 298.0721285784321,
+        "flight_energy_kwh": 0.1540555010417551,
+        "cruise_alt_m": 420.958984375,
+        "distance_m": 3004.7870068014813,
+        "max_service_s": 7874.000178408803
+      }
+    },
+    {
+      "id": "R-006",
+      "craft": "R01",
+      "component": "R-EC-01",
+      "site": "MID-S008-225",
+      "lon": 109.22179944999999,
+      "lat": 23.044010399999998,
+      "alt_m": 509.017822265625,
+      "agl_m": 225.0,
+      "start_s": 9908.016228,
+      "arrival_s": 10452.648077,
+      "ready_s": 10482.648077,
+      "service_end_s": 11456.188377,
+      "return_s": 11852.596711,
+      "component_recharged_s": 12560.669085,
+      "energy_kwh": 0.512178151,
+      "return_soc": 0.839944328,
+      "route": {
+        "out_s": 364.6318492321548,
+        "back_s": 396.4083344209569,
+        "flight_energy_kwh": 0.20595750340313562,
+        "cruise_alt_m": 509.017822265625,
+        "distance_m": 4039.535904986229,
+        "max_service_s": 7704.139079771556
+      }
+    },
+    {
+      "id": "R-007",
+      "craft": "R02",
+      "component": "R-EC-02",
+      "site": "MID-S007-300",
+      "lon": 109.2118354,
+      "lat": 23.01896405,
+      "alt_m": 586.2146301269531,
+      "agl_m": 300.0,
+      "start_s": 11907.041476,
+      "arrival_s": 12352.8231,
+      "ready_s": 12382.8231,
+      "service_end_s": 13454.9586,
+      "return_s": 13758.949777,
+      "component_recharged_s": 14451.383788,
+      "energy_kwh": 0.47368372,
+      "return_soc": 0.851973837,
+      "route": {
+        "out_s": 265.7816242988438,
+        "back_s": 303.9911768094232,
+        "flight_energy_kwh": 0.1373367618280814,
+        "cruise_alt_m": 586.2146301269531,
+        "distance_m": 2267.294501506582,
+        "max_service_s": 7928.716052199007
+      }
+    },
+    {
+      "id": "R-008",
+      "craft": "R01",
+      "component": "R-EC-03",
+      "site": "S004-300",
+      "lon": 109.2381714,
+      "lat": 23.0778414,
+      "alt_m": 495.1157531738281,
+      "agl_m": 300.0,
+      "start_s": 12152.596711,
+      "arrival_s": 12938.763746,
+      "ready_s": 12968.763746,
+      "service_end_s": 13758.845946,
+      "return_s": 14395.630961,
+      "component_recharged_s": 15144.02037,
+      "energy_kwh": 0.611420083,
+      "return_soc": 0.808931224,
+      "route": {
+        "out_s": 606.1670349226819,
+        "back_s": 636.7850143538342,
+        "flight_energy_kwh": 0.3612560778822362,
+        "cruise_alt_m": 495.1157531738281,
+        "distance_m": 7714.696449438372,
+        "max_service_s": 7195.889199658137
+      }
+    },
+    {
+      "id": "R-009",
+      "craft": "R01",
+      "component": "R-EC-01",
+      "site": "MID-S001-225",
+      "lon": 109.2370418,
+      "lat": 23.0210511,
+      "alt_m": 377.0780792236328,
+      "agl_m": 225.0,
+      "start_s": 17290.131985,
+      "arrival_s": 17634.276546,
+      "ready_s": 17664.276546,
+      "service_end_s": 18342.681946,
+      "return_s": 18527.608013,
+      "component_recharged_s": 19124.635012,
+      "energy_kwh": 0.303251809,
+      "return_soc": 0.90523381,
+      "route": {
+        "out_s": 164.14456084424614,
+        "back_s": 184.92606744621554,
+        "flight_energy_kwh": 0.0872112697392056,
+        "cruise_alt_m": 377.0780792236328,
+        "distance_m": 1527.0006155750689,
+        "max_service_s": 8092.763117217146
+      }
+    },
+    {
+      "id": "R-010",
+      "craft": "R02",
+      "component": "R-EC-02",
+      "site": "S004-300",
+      "lon": 109.2381714,
+      "lat": 23.0778414,
+      "alt_m": 495.1157531738281,
+      "agl_m": 300.0,
+      "start_s": 18635.723689,
+      "arrival_s": 19421.890724,
+      "ready_s": 19451.890724,
+      "service_end_s": 21020.530124,
+      "return_s": 21657.315138,
+      "component_recharged_s": 22502.348366,
+      "energy_kwh": 0.849312561,
+      "return_soc": 0.734589825,
+      "route": {
+        "out_s": 606.1670349226819,
+        "back_s": 636.7850143538342,
+        "flight_energy_kwh": 0.3612560778822362,
+        "cruise_alt_m": 495.1157531738281,
+        "distance_m": 7714.696449438372,
+        "max_service_s": 7195.889199658137
+      }
+    },
+    {
+      "id": "R-011",
+      "craft": "R01",
+      "component": "R-EC-03",
+      "site": "S007-150",
+      "lon": 109.1928191,
+      "lat": 23.0294186,
+      "alt_m": 464.2220458984375,
+      "agl_m": 150.0,
+      "start_s": 18827.608013,
+      "arrival_s": 19421.890724,
+      "ready_s": 19451.890724,
+      "service_end_s": 21020.530124,
+      "return_s": 21462.856338,
+      "component_recharged_s": 22255.194836,
+      "energy_kwh": 0.719602457,
+      "return_soc": 0.775124232,
+      "route": {
+        "out_s": 414.2827104628214,
+        "back_s": 442.3262142876912,
+        "flight_energy_kwh": 0.23154597323318693,
+        "cruise_alt_m": 511.9731750488281,
+        "distance_m": 4534.460604757262,
+        "max_service_s": 7620.394996691389
+      }
+    },
+    {
+      "id": "R-012",
+      "craft": "R01",
+      "component": "R-EC-01",
+      "site": "S010-150",
+      "lon": 109.2760168,
+      "lat": 23.0194009,
+      "alt_m": 471.5816650390625,
+      "agl_m": 150.0,
+      "start_s": 21762.856338,
+      "arrival_s": 22347.79308,
+      "ready_s": 22377.79308,
+      "service_end_s": 23295.71088,
+      "return_s": 23729.304427,
+      "component_recharged_s": 24442.010284,
+      "energy_kwh": 0.52358365,
+      "return_soc": 0.836380109,
+      "route": {
+        "out_s": 404.9367415762443,
+        "back_s": 433.5935469961662,
+        "flight_energy_kwh": 0.23435876631550492,
+        "cruise_alt_m": 471.5816650390625,
+        "distance_m": 4784.49487974718,
+        "max_service_s": 7611.189492058347
+      }
+    },
+    {
+      "id": "R-013",
+      "craft": "R02",
+      "component": "R-EC-02",
+      "site": "S001-150",
+      "lon": 109.2432319,
+      "lat": 23.0335927,
+      "alt_m": 303.96136474609375,
+      "agl_m": 150.0,
+      "start_s": 24224.077237,
+      "arrival_s": 24651.741168,
+      "ready_s": 24681.741168,
+      "service_end_s": 25912.224268,
+      "return_s": 26174.576647,
+      "component_recharged_s": 26890.083874,
+      "energy_kwh": 0.530479328,
+      "return_soc": 0.83422521,
+      "route": {
+        "out_s": 247.66393117808946,
+        "back_s": 262.35237824026393,
+        "flight_energy_kwh": 0.1457483806218497,
+        "cruise_alt_m": 303.96136474609375,
+        "distance_m": 3053.9788498734906,
+        "max_service_s": 7901.187117964856
+      }
+    },
+    {
+      "id": "R-014",
+      "craft": "R01",
+      "component": "R-EC-03",
+      "site": "S010-300",
+      "lon": 109.2760168,
+      "lat": 23.0194009,
+      "alt_m": 621.5816650390625,
+      "agl_m": 300.0,
+      "start_s": 24029.304427,
+      "arrival_s": 24651.741169,
+      "ready_s": 24681.741169,
+      "service_end_s": 25912.224268,
+      "return_s": 26395.817815,
+      "component_recharged_s": 27152.741001,
+      "energy_kwh": 0.632426303,
+      "return_soc": 0.80236678,
+      "route": {
+        "out_s": 442.4367415762443,
+        "back_s": 483.5935469961662,
+        "flight_energy_kwh": 0.24769535630393083,
+        "cruise_alt_m": 621.5816650390625,
+        "distance_m": 4784.49487974718,
+        "max_service_s": 7567.542470278045
+      }
+    },
+    {
+      "id": "R-015",
+      "craft": "R02",
+      "component": "R-EC-01",
+      "site": "O01-225",
+      "lon": 109.2308517,
+      "lat": 23.0085095,
+      "alt_m": 353.7255401611328,
+      "agl_m": 225.0,
+      "start_s": 26474.576647,
+      "arrival_s": 26711.083032,
+      "ready_s": 26741.083032,
+      "service_end_s": 27148.527832,
+      "return_s": 27223.869678,
+      "component_recharged_s": 27525.763884,
+      "energy_kwh": 0.153343088,
+      "return_soc": 0.952080285,
+      "route": {
+        "out_s": 56.506385040283206,
+        "back_s": 75.3418467203776,
+        "flight_energy_kwh": 0.020096066373610173,
+        "cruise_alt_m": 353.7255401611328,
+        "distance_m": 0.0,
+        "max_service_s": 8312.412873686368
+      }
+    }
+  ],
+  "mission_relays": {
+    "Q3-024": [
+      "R-005"
+    ],
+    "Q3-018": [
+      "R-006"
+    ],
+    "Q3-020": [
+      "R-007"
+    ],
+    "Q3-017": [
+      "R-008"
+    ],
+    "Q3-022": [
+      "R-009"
+    ],
+    "Q3-016": [
+      "R-010",
+      "R-011"
+    ],
+    "Q3-021": [
+      "R-012"
+    ],
+    "Q3-019": [
+      "R-013",
+      "R-014"
+    ],
+    "Q3-023": [
+      "R-015"
+    ]
+  },
+  "hard_wave_sites": {
+    "0": [
+      "S007-150",
+      "GRID-109.278-23.025-300"
+    ],
+    "1": [
+      "S007-150",
+      "S004-300"
+    ],
+    "2": [
+      "S007-150",
+      "MID-S008-300"
+    ]
+  }
+}

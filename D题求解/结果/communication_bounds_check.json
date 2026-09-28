@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "seed": 20260924,
+  "counts": {
+    "intervals": 500,
+    "point_comparisons": 10500,
+    "blocked_certificates": 289,
+    "on_certificates": 267,
+    "off_certificates": 226
+  },
+  "issues": [],
+  "solution_sha256": "940aec80b51159343945ec08123835e9b4e64dd305141e34f8ae1432ad4da3d7",
+  "scope": "独立点值反查，非对全部输入的形式化证明"
+}

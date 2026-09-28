@@ -1,0 +1,516 @@
+{
+  "method": "每阶段按固定最大时间步采样，空间视线逐格；非连续证明",
+  "step_s": 1.0,
+  "counts": {
+    "samples": 38897,
+    "below_3db": 11920,
+    "direct_below_3db": 19887,
+    "direct_below_1db": 16166,
+    "direct_below_0db": 15328
+  },
+  "min_best_margin_db": 1.0486937846078774,
+  "minimum_case": {
+    "mission": "Q3-021",
+    "phase": "descent",
+    "time_s": 19030.177575,
+    "direct_margin_db": -2.739679,
+    "best_path": "R-011",
+    "best_margin_db": 1.048694
+  },
+  "below_1db_by_mission": {},
+  "below_1db_windows": {},
+  "minimum_case_relay_options": [
+    {
+      "id": "R-002",
+      "site": "GRID-109.278-23.025-300",
+      "active": false,
+      "margin_db": 1.6365087788866504
+    },
+    {
+      "id": "R-011",
+      "site": "S010-150",
+      "active": true,
+      "margin_db": 1.0486937849310038
+    },
+    {
+      "id": "R-013",
+      "site": "S010-300",
+      "active": false,
+      "margin_db": 0.9669542470900154
+    },
+    {
+      "id": "R-015",
+      "site": "MID-S001-225",
+      "active": false,
+      "margin_db": -8.179623278759692
+    },
+    {
+      "id": "R-012",
+      "site": "S001-150",
+      "active": false,
+      "margin_db": -8.368316550439218
+    },
+    {
+      "id": "R-014",
+      "site": "O01-225",
+      "active": false,
+      "margin_db": -8.733573641262467
+    },
+    {
+      "id": "R-007",
+      "site": "MID-S007-300",
+      "active": false,
+      "margin_db": -11.57420032071289
+    },
+    {
+      "id": "R-006",
+      "site": "MID-S008-225",
+      "active": false,
+      "margin_db": -11.734245513282943
+    },
+    {
+      "id": "R-004",
+      "site": "MID-S008-300",
+      "active": false,
+      "margin_db": -11.736417970458703
+    },
+    {
+      "id": "R-005",
+      "site": "MID-S003-225",
+      "active": false,
+      "margin_db": -12.99233770628257
+    },
+    {
+      "id": "R-003",
+      "site": "S004-300",
+      "active": false,
+      "margin_db": -13.419116818343895
+    },
+    {
+      "id": "R-008",
+      "site": "S004-300",
+      "active": false,
+      "margin_db": -13.419116818343895
+    },
+    {
+      "id": "R-009",
+      "site": "S004-300",
+      "active": false,
+      "margin_db": -13.419116818343895
+    },
+    {
+      "id": "R-001",
+      "site": "S007-150",
+      "active": false,
+      "margin_db": -13.775968955761584
+    },
+    {
+      "id": "R-010",
+      "site": "S007-150",
+      "active": false,
+      "margin_db": -13.775968955761584
+    }
+  ],
+  "first_low_margin_examples": [
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 622.073313,
+      "direct_margin_db": 2.988602,
+      "best_path": "direct",
+      "best_margin_db": 2.988602
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 623.071469,
+      "direct_margin_db": 2.94243,
+      "best_path": "direct",
+      "best_margin_db": 2.94243
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 624.069626,
+      "direct_margin_db": 2.896502,
+      "best_path": "direct",
+      "best_margin_db": 2.896502
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 625.067782,
+      "direct_margin_db": 2.850814,
+      "best_path": "direct",
+      "best_margin_db": 2.850814
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 626.065938,
+      "direct_margin_db": 2.805364,
+      "best_path": "direct",
+      "best_margin_db": 2.805364
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 627.064094,
+      "direct_margin_db": 2.760151,
+      "best_path": "direct",
+      "best_margin_db": 2.760151
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 628.062251,
+      "direct_margin_db": 2.71517,
+      "best_path": "direct",
+      "best_margin_db": 2.71517
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 629.060407,
+      "direct_margin_db": 2.670421,
+      "best_path": "direct",
+      "best_margin_db": 2.670421
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 630.058563,
+      "direct_margin_db": 2.6259,
+      "best_path": "direct",
+      "best_margin_db": 2.6259
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 631.05672,
+      "direct_margin_db": 2.581606,
+      "best_path": "direct",
+      "best_margin_db": 2.581606
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 632.054876,
+      "direct_margin_db": 2.537536,
+      "best_path": "direct",
+      "best_margin_db": 2.537536
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 633.053032,
+      "direct_margin_db": 2.493688,
+      "best_path": "direct",
+      "best_margin_db": 2.493688
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 634.051189,
+      "direct_margin_db": 2.450059,
+      "best_path": "direct",
+      "best_margin_db": 2.450059
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 635.049345,
+      "direct_margin_db": 2.406648,
+      "best_path": "direct",
+      "best_margin_db": 2.406648
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 636.047501,
+      "direct_margin_db": 2.363452,
+      "best_path": "direct",
+      "best_margin_db": 2.363452
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 637.045657,
+      "direct_margin_db": 2.320469,
+      "best_path": "direct",
+      "best_margin_db": 2.320469
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 638.043814,
+      "direct_margin_db": 2.277697,
+      "best_path": "direct",
+      "best_margin_db": 2.277697
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 639.04197,
+      "direct_margin_db": 2.235134,
+      "best_path": "direct",
+      "best_margin_db": 2.235134
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 640.040126,
+      "direct_margin_db": 2.192778,
+      "best_path": "direct",
+      "best_margin_db": 2.192778
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 641.038283,
+      "direct_margin_db": 2.150627,
+      "best_path": "direct",
+      "best_margin_db": 2.150627
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 642.036439,
+      "direct_margin_db": 2.108679,
+      "best_path": "direct",
+      "best_margin_db": 2.108679
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 643.034595,
+      "direct_margin_db": 2.066933,
+      "best_path": "direct",
+      "best_margin_db": 2.066933
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 644.032752,
+      "direct_margin_db": 2.025385,
+      "best_path": "direct",
+      "best_margin_db": 2.025385
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 645.030908,
+      "direct_margin_db": 1.984035,
+      "best_path": "direct",
+      "best_margin_db": 1.984035
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 646.029064,
+      "direct_margin_db": 1.94288,
+      "best_path": "direct",
+      "best_margin_db": 1.94288
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 647.02722,
+      "direct_margin_db": 1.901918,
+      "best_path": "direct",
+      "best_margin_db": 1.901918
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 648.025377,
+      "direct_margin_db": 1.861149,
+      "best_path": "direct",
+      "best_margin_db": 1.861149
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 649.023533,
+      "direct_margin_db": 1.820569,
+      "best_path": "direct",
+      "best_margin_db": 1.820569
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 650.021689,
+      "direct_margin_db": 1.780178,
+      "best_path": "direct",
+      "best_margin_db": 1.780178
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 651.019846,
+      "direct_margin_db": 1.739973,
+      "best_path": "direct",
+      "best_margin_db": 1.739973
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 652.018002,
+      "direct_margin_db": 1.699953,
+      "best_path": "direct",
+      "best_margin_db": 1.699953
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 653.016158,
+      "direct_margin_db": 1.660116,
+      "best_path": "direct",
+      "best_margin_db": 1.660116
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 654.014315,
+      "direct_margin_db": 1.62046,
+      "best_path": "direct",
+      "best_margin_db": 1.62046
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 655.012471,
+      "direct_margin_db": 1.580984,
+      "best_path": "R-001",
+      "best_margin_db": 1.603329
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 656.010627,
+      "direct_margin_db": 1.541687,
+      "best_path": "R-001",
+      "best_margin_db": 1.590644
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 657.008784,
+      "direct_margin_db": 1.502566,
+      "best_path": "R-001",
+      "best_margin_db": 1.577924
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 658.00694,
+      "direct_margin_db": 1.46362,
+      "best_path": "R-001",
+      "best_margin_db": 1.565171
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 659.005096,
+      "direct_margin_db": 1.424847,
+      "best_path": "R-001",
+      "best_margin_db": 1.552384
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 660.003252,
+      "direct_margin_db": 1.386247,
+      "best_path": "R-001",
+      "best_margin_db": 1.539564
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 661.001409,
+      "direct_margin_db": 1.347816,
+      "best_path": "R-001",
+      "best_margin_db": 1.526711
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 661.999565,
+      "direct_margin_db": 1.309555,
+      "best_path": "R-001",
+      "best_margin_db": 1.513827
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 662.997721,
+      "direct_margin_db": 1.271461,
+      "best_path": "R-001",
+      "best_margin_db": 1.50091
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 663.995878,
+      "direct_margin_db": 1.233533,
+      "best_path": "R-001",
+      "best_margin_db": 1.487962
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 664.994034,
+      "direct_margin_db": 1.19577,
+      "best_path": "R-001",
+      "best_margin_db": 1.474983
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 665.99219,
+      "direct_margin_db": 1.15817,
+      "best_path": "R-001",
+      "best_margin_db": 1.461973
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 666.990347,
+      "direct_margin_db": 1.120731,
+      "best_path": "R-001",
+      "best_margin_db": 1.448933
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 667.988503,
+      "direct_margin_db": 1.083453,
+      "best_path": "R-001",
+      "best_margin_db": 1.435863
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 668.986659,
+      "direct_margin_db": 1.046334,
+      "best_path": "R-001",
+      "best_margin_db": 1.422763
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 669.984815,
+      "direct_margin_db": 1.009372,
+      "best_path": "R-001",
+      "best_margin_db": 1.409635
+    },
+    {
+      "mission": "Q3-001",
+      "phase": "cruise",
+      "time_s": 670.982972,
+      "direct_margin_db": 0.972567,
+      "best_path": "R-001",
+      "best_margin_db": 1.396477
+    }
+  ]
+}

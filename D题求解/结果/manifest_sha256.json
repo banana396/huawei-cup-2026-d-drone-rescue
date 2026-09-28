@@ -1,0 +1,30 @@
+{
+  "created_utc": "2026-09-26T06:19:21.602768+00:00",
+  "note": "哈希用于检测输入/结果文件是否被改动；不证明模型正确",
+  "files": {
+    "2026年中国研究生数学建模竞赛赛题\\D题\\山区洪涝灾害下无人机运输与通信协同优化.docx": "0a4f507b91a02a0ea4264973dd432cdcb5b8916c61c24214719665f326d57685",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\结果提交模板.xlsx": "16f521f29a7103c4ff7c3709ce1696bb9fffa18ce741895e45b7bc7afaf3320a",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\中继无人机数据.xlsx": "be52643ff29419233e6a141dca03a04160a8af551cab36d8c49b51bb836bea04",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\物资需求与配送时限.xlsx": "5a3346159ceddcf585859d270b8f62114b388a1f737fbe64ffde0ee1fdc8170a",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\调度中心与服务区.xlsx": "541a7af1ded08c9a3ff448480332cb5f6a54902f0afa6e9bcd50c1d2b2b34e38",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\运输无人机数据.xlsx": "9296a657c07e042afba6aeea7999665d9cd24e00b592fd6c269de6e338480dcb",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\通信链路参数.xlsx": "1860d153199e7ae460ba36e83b673374e640e19de91ea167f2877271001f5f81",
+    "2026年中国研究生数学建模竞赛赛题\\D题\\数据\\镇龙乡地理空间数据\\镇龙乡及周边地理数据\\数字高程模型数据（DEM）\\镇龙乡及周边30米DEM.tif": "741fe6de0b2bcaffd0f4007f574ee698d46197094f52cc954b532c4f90fc7c03",
+    "D题求解\\结果\\q1_results_v2.json": "36fc9fa84c88d99168fde28a7f08532bb42a367a1f12fba82381855589e98715",
+    "D题求解\\结果\\q2_results.json": "5aead5efa0476f0e5eb970b4a9137ee8d8ea583a15f3539ad1cef487fbaa73db",
+    "D题求解\\结果\\q3_solution.json": "fb379d7ebad479f3a41921f857676d50e82d4a51c874295d6242c8ae8fc3e860",
+    "D题求解\\结果\\q3_check.json": "1abc875148134e6f7dc80b3bbba9b804cfe181e2bb0e4624bd73d221826a1d01",
+    "D题求解\\结果\\q3_convergence.json": "5be198e0410ceb4610fbd0f9174cc5bd9cf46ac9e4fa9b29432f9280806bcb16",
+    "D题求解\\结果\\q3_interval_certificate.json": "701616640e133f22189a0a5915d943f9f5b98f1baeb5463dd5809fa4c9979e2e",
+    "D题求解\\结果\\q3_margin_certificate_1db.json": "2e1242ad198a97f2ab15a63d496303a1e1b80e4e7cf18c2497cb1199fce7fa56",
+    "D题求解\\结果\\q3_communication_schedule.json": "885723b1e2875d2287c95cd84d82345ec107a2550a52f174cf981bf1eaad759f",
+    "D题求解\\结果\\q3_communication_check.json": "0a79c3b8d6afe72c5f54221bc3239430ab08b2001fa244c1ebae46b0218e47f2",
+    "D题求解\\结果\\q3_boundary_guards.json": "b0491e30a51a8e9dc56a4edf4249208e38dda31f3a9ffc9e801acc84ab09b07e",
+    "D题求解\\结果\\communication_bounds_check.json": "311d22b51f2b93631ee2fb79ea39ac3724d5929c5992d08756ffc69037f9ca8e",
+    "D题求解\\结果\\q3_candidate_comparison.json": "51d52fb1f06bf45fe47b48c5bb32025c22c11c396a393b23bceeedbc9738c99c",
+    "D题求解\\结果\\q4_results.json": "241dbe89f59b0c578437abf1d49d996623219c554fdecffe6cd64b56f2377429",
+    "D题求解\\结果\\q4_check.json": "5cf6aa5ee6083877f227a15f98e8b4f22fd8d53c7f7c0c91656449ee45c1ecf0",
+    "D题求解\\结果\\template_data.json": "205bed30ed609097a01a5fe2c59a2bfe389b244f7b69b1481be24cb2e98c7b1e",
+    "D题求解\\outputs\\d-question-20260924\\结果提交模板_已填.xlsx": "67b85e8aa3037311dec313dc44f9f61c173addd7ddb999a91b07f6b759d382a4"
+  }
+}

@@ -1,0 +1,191 @@
+[
+  {
+    "file": "q3_solution_serial_baseline.json",
+    "solution_sha256": "f7d2755bf18481b985424bb8578df4b856144489c5065e770afe852ea0fa7db4",
+    "issue_count": 0,
+    "metrics": {
+      "sample_interval_max_s": 5,
+      "los_step_max_pixels": "exact",
+      "samples": 8017,
+      "direct_blind_samples": 3174,
+      "relay_covered_samples": 3174,
+      "min_available_margin_db": 0.0013,
+      "transport_missions": 26,
+      "relay_sorties": 15,
+      "makespan_s": 32527.652516,
+      "transport_energy_kwh": 82.640020414,
+      "relay_energy_kwh": 9.172377291,
+      "weighted_lateness_s": 7442824.766082
+    },
+    "extra_1db_certificate_passed": null,
+    "scope": "同一名义通信口径；额外1dB抗扰结论只引用对应方案独立证书，不推及全部候选"
+  },
+  {
+    "file": "q3_solution_fast_baseline.json",
+    "solution_sha256": "b47f2ee13734107b7630d20ff98a71c2fb023da62d9d6fd073fc770487c150b1",
+    "issue_count": 0,
+    "metrics": {
+      "sample_interval_max_s": 5,
+      "los_step_max_pixels": "exact",
+      "samples": 8017,
+      "direct_blind_samples": 3174,
+      "relay_covered_samples": 3174,
+      "min_available_margin_db": 0.0013,
+      "transport_missions": 26,
+      "relay_sorties": 15,
+      "makespan_s": 23965.643849,
+      "transport_energy_kwh": 82.640020414,
+      "relay_energy_kwh": 9.17237729,
+      "weighted_lateness_s": 2374535.080488
+    },
+    "extra_1db_certificate_passed": null,
+    "scope": "同一名义通信口径；额外1dB抗扰结论只引用对应方案独立证书，不推及全部候选"
+  },
+  {
+    "file": "q3_solution.json",
+    "solution_sha256": "940aec80b51159343945ec08123835e9b4e64dd305141e34f8ae1432ad4da3d7",
+    "issue_count": 0,
+    "metrics": {
+      "sample_interval_max_s": 5,
+      "los_step_max_pixels": "exact",
+      "samples": 8017,
+      "direct_blind_samples": 3174,
+      "relay_covered_samples": 3174,
+      "min_available_margin_db": 0.0013,
+      "transport_missions": 26,
+      "relay_sorties": 15,
+      "makespan_s": 24325.643849,
+      "transport_energy_kwh": 82.640020414,
+      "relay_energy_kwh": 9.514785741,
+      "weighted_lateness_s": 2458442.255218
+    },
+    "extra_1db_certificate_passed": true,
+    "scope": "同一名义通信口径；额外1dB抗扰结论只引用对应方案独立证书，不推及全部候选"
+  },
+  {
+    "file": "q3_margin_candidate_10s.json",
+    "solution_sha256": "c09860072dcebc4a5405d57fd1ead35ca7bcd4b1eaf27cc1807a1c81e58594cc",
+    "issue_count": 0,
+    "metrics": {
+      "sample_interval_max_s": 5,
+      "los_step_max_pixels": "exact",
+      "samples": 8017,
+      "direct_blind_samples": 3174,
+      "relay_covered_samples": 3174,
+      "min_available_margin_db": 0.0013,
+      "transport_missions": 26,
+      "relay_sorties": 15,
+      "makespan_s": 24085.643849,
+      "transport_energy_kwh": 82.640020414,
+      "relay_energy_kwh": 9.319230186,
+      "weighted_lateness_s": 2412922.255218
+    },
+    "extra_1db_certificate_passed": false,
+    "scope": "同一名义通信口径；额外1dB抗扰结论只引用对应方案独立证书，不推及全部候选"
+  },
+  {
+    "file": "q3_margin_candidate_20s.json",
+    "solution_sha256": "dc7db12d4416c926ab5a1b6f1219b2ec8a1ccaaa1aa34a9fb7d827c5a65d2c4d",
+    "issue_count": 0,
+    "metrics": {
+      "sample_interval_max_s": 5,
+      "los_step_max_pixels": "exact",
+      "samples": 8017,
+      "direct_blind_samples": 3174,
+      "relay_covered_samples": 3174,
+      "min_available_margin_db": 0.0013,
+      "transport_missions": 26,
+      "relay_sorties": 15,
+      "makespan_s": 24205.643849,
+      "transport_energy_kwh": 82.640020414,
+      "relay_energy_kwh": 9.417007964,
+      "weighted_lateness_s": 2435682.255218
+    },
+    "extra_1db_certificate_passed": false,
+    "scope": "同一名义通信口径；额外1dB抗扰结论只引用对应方案独立证书，不推及全部候选"
+  },
+  {
+    "file": "q3_candidate_ratio.json",
+    "solution_sha256": "6687530d218bb7439d0cd98fe147aa4b6ee4fdde994949f9346608760b59216c",
+    "issue_count": 0,
+    "metrics": {
+      "sample_interval_max_s": 5,
+      "los_step_max_pixels": "exact",
+      "samples": 8017,
+      "direct_blind_samples": 3174,
+      "relay_covered_samples": 3174,
+      "min_available_margin_db": 0.0013,
+      "transport_missions": 26,
+      "relay_sorties": 15,
+      "makespan_s": 27569.911678,
+      "transport_energy_kwh": 82.640020414,
+      "relay_energy_kwh": 9.172377289,
+      "weighted_lateness_s": 2436273.065688
+    },
+    "extra_1db_certificate_passed": null,
+    "scope": "同一名义通信口径；额外1dB抗扰结论只引用对应方案独立证书，不推及全部候选"
+  },
+  {
+    "file": "q3_candidate_weight.json",
+    "solution_sha256": "631e3a457c9f438444f2e8b0e3f5ccb28d01bfff2d5e3a87684dd63d3c7718a6",
+    "issue_count": 0,
+    "metrics": {
+      "sample_interval_max_s": 5,
+      "los_step_max_pixels": "exact",
+      "samples": 8017,
+      "direct_blind_samples": 3174,
+      "relay_covered_samples": 3174,
+      "min_available_margin_db": 0.0013,
+      "transport_missions": 26,
+      "relay_sorties": 15,
+      "makespan_s": 27569.911678,
+      "transport_energy_kwh": 82.640020414,
+      "relay_energy_kwh": 9.172377289,
+      "weighted_lateness_s": 2519806.655636
+    },
+    "extra_1db_certificate_passed": null,
+    "scope": "同一名义通信口径；额外1dB抗扰结论只引用对应方案独立证书，不推及全部候选"
+  },
+  {
+    "file": "q3_candidate_duration.json",
+    "solution_sha256": "78379327574a4733cb6271588c49d7493b72207d25b0201d4cd09e8e3e8cc50a",
+    "issue_count": 0,
+    "metrics": {
+      "sample_interval_max_s": 5,
+      "los_step_max_pixels": "exact",
+      "samples": 8017,
+      "direct_blind_samples": 3174,
+      "relay_covered_samples": 3174,
+      "min_available_margin_db": 0.0013,
+      "transport_missions": 26,
+      "relay_sorties": 15,
+      "makespan_s": 24375.521759,
+      "transport_energy_kwh": 82.640020414,
+      "relay_energy_kwh": 9.172377291,
+      "weighted_lateness_s": 2822658.065216
+    },
+    "extra_1db_certificate_passed": null,
+    "scope": "同一名义通信口径；额外1dB抗扰结论只引用对应方案独立证书，不推及全部候选"
+  },
+  {
+    "file": "q3_candidate_relay_first.json",
+    "solution_sha256": "ed17d12232722ffd1e6f745ecb1efef6ee30004552e190f29b4520b3951572cb",
+    "issue_count": 0,
+    "metrics": {
+      "sample_interval_max_s": 5,
+      "los_step_max_pixels": "exact",
+      "samples": 8017,
+      "direct_blind_samples": 3174,
+      "relay_covered_samples": 3174,
+      "min_available_margin_db": 0.0013,
+      "transport_missions": 26,
+      "relay_sorties": 15,
+      "makespan_s": 24570.091985,
+      "transport_energy_kwh": 82.640020414,
+      "relay_energy_kwh": 9.172377289,
+      "weighted_lateness_s": 3048246.082064
+    },
+    "extra_1db_certificate_passed": null,
+    "scope": "同一名义通信口径；额外1dB抗扰结论只引用对应方案独立证书，不推及全部候选"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "flat_ray": true,
+  "flat_triangle": true,
+  "ridge_detected": true,
+  "corner_touch_detected": true
+}

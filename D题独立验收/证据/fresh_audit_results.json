@@ -1,0 +1,38 @@
+{
+  "audit_type": "independent_fresh_audit_v2",
+  "Q2": {
+    "claimed_makespan_s": 6374.6,
+    "actual_makespan_s": 6374.6,
+    "claimed_energy_kwh": 72.89,
+    "actual_energy_kwh": 72.89,
+    "recomputed_energy_kwh": 81.09,
+    "min_soc": 0.0436,
+    "all_boxes_delivered": true,
+    "hard_deadlines_met": true
+  },
+  "Q3": {
+    "claimed_makespan_s": 6512.2,
+    "actual_makespan_s": 6512.2,
+    "claimed_relay_energy_kwh": 3.366,
+    "actual_relay_energy_kwh": 3.366,
+    "relay_sorties": 3,
+    "comm_sample_points": 3831,
+    "min_link_margin_db": -12.14,
+    "comm_failures": 895,
+    "comm_marginals": 448
+  },
+  "DEM_used": true,
+  "total_issues": 9,
+  "issues": [
+    "Sortie Q2-003: SOC=0.1653 < reserve 20.0%",
+    "Sortie Q2-004: SOC=0.1052 < reserve 20.0%",
+    "Sortie Q2-009: SOC=0.1372 < reserve 20.0%",
+    "Sortie Q2-013: SOC=0.0982 < reserve 20.0%",
+    "Sortie Q2-017: SOC=0.0436 < reserve 20.0%",
+    "Sortie Q2-018: SOC=0.1692 < reserve 20.0%",
+    "Some sorties violate 20% reserve (min SOC = 0.0436)",
+    "7 communication total coverage failures (no direct or relay path)",
+    "895 communication link failures detected"
+  ],
+  "verdict": "FAIL"
+}

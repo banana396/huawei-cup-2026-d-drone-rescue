@@ -1,0 +1,26 @@
+{
+  "status": "text_draft_built_not_typeset",
+  "output": "交付材料\\竞赛论文正文.md",
+  "output_sha256": "2ed265d03449af2e694a61f4acd4b7287ae069daae98e13f4e7cc2eb55f759a6",
+  "source_sha256": {
+    "交付材料\\解题报告.md": "94bf90699ff30fdbf2f93501366782c6a99fcdc5db6d82c7950bd1457b7853de",
+    "交付材料\\结果摘要.json": "482078a8f08935592c336c18a484f000532ff496d41f17adaac9b4d6849c529c",
+    "结果\\q1_results_v2.json": "36fc9fa84c88d99168fde28a7f08532bb42a367a1f12fba82381855589e98715",
+    "结果\\q2_results.json": "5aead5efa0476f0e5eb970b4a9137ee8d8ea583a15f3539ad1cef487fbaa73db",
+    "结果\\q3_solution.json": "fb379d7ebad479f3a41921f857676d50e82d4a51c874295d6242c8ae8fc3e860",
+    "结果\\q4_results.json": "241dbe89f59b0c578437abf1d49d996623219c554fdecffe6cd64b56f2377429",
+    "结果\\q3_neighborhood_search.json": "b3169147dbc84c1ddf4519805a92ea32156bfe2456a43c5ea14f492fd9499090",
+    "结果\\q3_neighborhood_check.json": "cdca0ca4dfb4ce5a9be8f10fb20cc364b58eb78ca06b73dd9ce47844948422b4"
+  },
+  "builder_sha256": "9a3c3cf8d0bb596485f9eaa2ed0c128ee5dc15f7dcf83680d7cff8f2afdaaf48",
+  "characters": 14947,
+  "figures": 7,
+  "equations": 9,
+  "remaining": [
+    "原 .doc 模板转换与完整模板检查",
+    "Word 排版及逐页渲染验收",
+    "核实实际 AI 模型或版本与发布日期",
+    "队员理解改写确认",
+    "更新交付包"
+  ]
+}

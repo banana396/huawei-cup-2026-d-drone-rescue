@@ -1,0 +1,1410 @@
+{
+  "file_count": 281,
+  "files": [
+    {
+      "path": "2026年中国研究生数学建模竞赛赛题/D题/山区洪涝灾害下无人机运输与通信协同优化.docx",
+      "bytes": 6971534,
+      "sha256": "0a4f507b91a02a0ea4264973dd432cdcb5b8916c61c24214719665f326d57685"
+    },
+    {
+      "path": "2026年中国研究生数学建模竞赛赛题/D题/结果提交模板.xlsx",
+      "bytes": 20893,
+      "sha256": "16f521f29a7103c4ff7c3709ce1696bb9fffa18ce741895e45b7bc7afaf3320a"
+    },
+    {
+      "path": "2026年中国研究生数学建模竞赛赛题/D题/数据/无人机应急物资运输基础数据/中继无人机数据.xlsx",
+      "bytes": 11082,
+      "sha256": "be52643ff29419233e6a141dca03a04160a8af551cab36d8c49b51bb836bea04"
+    },
+    {
+      "path": "2026年中国研究生数学建模竞赛赛题/D题/数据/无人机应急物资运输基础数据/物资需求与配送时限.xlsx",
+      "bytes": 17474,
+      "sha256": "5a3346159ceddcf585859d270b8f62114b388a1f737fbe64ffde0ee1fdc8170a"
+    },
+    {
+      "path": "2026年中国研究生数学建模竞赛赛题/D题/数据/无人机应急物资运输基础数据/调度中心与服务区.xlsx",
+      "bytes": 11017,
+      "sha256": "541a7af1ded08c9a3ff448480332cb5f6a54902f0afa6e9bcd50c1d2b2b34e38"
+    },
+    {
+      "path": "2026年中国研究生数学建模竞赛赛题/D题/数据/无人机应急物资运输基础数据/运输无人机数据.xlsx",
+      "bytes": 11746,
+      "sha256": "9296a657c07e042afba6aeea7999665d9cd24e00b592fd6c269de6e338480dcb"
+    },
+    {
+      "path": "2026年中国研究生数学建模竞赛赛题/D题/数据/无人机应急物资运输基础数据/通信链路参数.xlsx",
+      "bytes": 10485,
+      "sha256": "1860d153199e7ae460ba36e83b673374e640e19de91ea167f2877271001f5f81"
+    },
+    {
+      "path": "2026年中国研究生数学建模竞赛赛题/D题/数据/镇龙乡地理空间数据/镇龙乡地理空间数据说明.pdf",
+      "bytes": 85812,
+      "sha256": "6d1522c6832a5d91a108dae0d07954845025c0dabd44af8ee78c7860d7c405e4"
+    },
+    {
+      "path": "2026年中国研究生数学建模竞赛赛题/D题/数据/镇龙乡地理空间数据/镇龙乡地理空间详情地图.html",
+      "bytes": 4701273,
+      "sha256": "5bb8082f4f5913e6787f86fa9dd3b6f8cbcfa309359f222f57355d1ae991b452"
+    },
+    {
+      "path": "2026年中国研究生数学建模竞赛赛题/D题/数据/镇龙乡地理空间数据/镇龙乡及周边地理数据/数字高程模型数据（DEM）/镇龙乡及周边30米DEM.mat",
+      "bytes": 6746494,
+      "sha256": "c68703e0cc8f94f4bd52ff6e9974b66a2dae33865f0723ad71c04b6694bf4fbf"
+    },
+    {
+      "path": "2026年中国研究生数学建模竞赛赛题/D题/数据/镇龙乡地理空间数据/镇龙乡及周边地理数据/数字高程模型数据（DEM）/镇龙乡及周边30米DEM.tif",
+      "bytes": 7867096,
+      "sha256": "741fe6de0b2bcaffd0f4007f574ee698d46197094f52cc954b532c4f90fc7c03"
+    },
+    {
+      "path": "2026年中国研究生数学建模竞赛赛题/D题/数据/镇龙乡地理空间数据/镇龙乡及周边地理数据/村镇点位/镇龙乡及周边村镇点位.csv",
+      "bytes": 9569,
+      "sha256": "b6e2ffc0b728fb33c532e471b6f27dcb54ff70a9a2025546539eea97e5232d6f"
+    },
+    {
+      "path": "2026年中国研究生数学建模竞赛赛题/D题/数据/镇龙乡地理空间数据/镇龙乡及周边地理数据/村镇点位/镇龙乡及周边村镇点位.mat",
+      "bytes": 119280,
+      "sha256": "61419e92447ada38c56b7f64f04e4aada2eb1ed076ae33e95f1cbc69f3514beb"
+    },
+    {
+      "path": "2026年中国研究生数学建模竞赛赛题/D题/数据/镇龙乡地理空间数据/镇龙乡及周边地理数据/水体（面）/镇龙乡及周边水体.csv",
+      "bytes": 279146,
+      "sha256": "4d72a2b46d893701da635ac1b083539568ad3a8b9ffb1b28b09c06bf8af74324"
+    },
+    {
+      "path": "2026年中国研究生数学建模竞赛赛题/D题/数据/镇龙乡地理空间数据/镇龙乡及周边地理数据/水体（面）/镇龙乡及周边水体.mat",
+      "bytes": 179705,
+      "sha256": "b79df14bdc0b22811f5c219897a66775d8879a93c4a865e455d8c43ab099b50a"
+    },
+    {
+      "path": "2026年中国研究生数学建模竞赛赛题/D题/数据/镇龙乡地理空间数据/镇龙乡及周边地理数据/水系（线）/镇龙乡及周边水系.csv",
+      "bytes": 297223,
+      "sha256": "3502b997e000e8043e36b7159202bafb12a0c21d23a8b5ad4ec6877bad580a65"
+    },
+    {
+      "path": "2026年中国研究生数学建模竞赛赛题/D题/数据/镇龙乡地理空间数据/镇龙乡及周边地理数据/水系（线）/镇龙乡及周边水系.mat",
+      "bytes": 179598,
+      "sha256": "b89f4f294bf771962676009fa9044f46ef26a06613fb6f91e2c6f9ccd430f8e8"
+    },
+    {
+      "path": "2026年中国研究生数学建模竞赛赛题/D题/数据/镇龙乡地理空间数据/镇龙乡及周边地理数据/道路/镇龙乡及周边道路.csv",
+      "bytes": 1423481,
+      "sha256": "adcd23b4ae2c28475412fc2c8a3c0504b2a293ac2ec25faa1da2fe3c3d063ebe"
+    },
+    {
+      "path": "2026年中国研究生数学建模竞赛赛题/D题/数据/镇龙乡地理空间数据/镇龙乡及周边地理数据/道路/镇龙乡及周边道路.mat",
+      "bytes": 399882,
+      "sha256": "c868717284d8aee60157e3bc9b20e18a81b26fde3d75fc7d80317ef877af9849"
+    },
+    {
+      "path": "D题优化/adopt_best_q2.py",
+      "bytes": 772,
+      "sha256": "0824d0acea7cfb42a55acf4f497ca3d53f82832b741e486cca9330f482a53126"
+    },
+    {
+      "path": "D题优化/archive_reference_results.py",
+      "bytes": 1485,
+      "sha256": "159ff152d8ee143b55a6826d14cff408eb2cc0e2bf4a06c1c366162a0f8b2388"
+    },
+    {
+      "path": "D题优化/audit_optimize.py",
+      "bytes": 13973,
+      "sha256": "1d3a54273879f88696d1e0e3902402dfd6ed967ae54e83d31dca0d4e8c571338"
+    },
+    {
+      "path": "D题优化/audit_q3_critical_link.py",
+      "bytes": 1728,
+      "sha256": "e780bcf1e97e6f39678b0328079b44aa8dc8683f17565ab5da3bc64f80c43696"
+    },
+    {
+      "path": "D题优化/audit_q3_hard_slack.py",
+      "bytes": 1088,
+      "sha256": "748f1e9a6e9bc7aa9c86364be956aed5ca0ac66d3ea0d4e2a73b28d601b5bba9"
+    },
+    {
+      "path": "D题优化/audit_q3_margin.py",
+      "bytes": 4905,
+      "sha256": "46b30402b337a1fd34e8a0efb715475b949596e3eff3ebad8fc308c3ffbe9ba0"
+    },
+    {
+      "path": "D题优化/audit_q3_perturb.py",
+      "bytes": 4241,
+      "sha256": "c9b870f9974de6b5ee1f3a7811d9d10d51699b5e8479e8017292f0795226d602"
+    },
+    {
+      "path": "D题优化/audit_sortie_caps.py",
+      "bytes": 2857,
+      "sha256": "ba809e0256d3e85c97a226bfe155b81918069ffa74d514c5b98ad36eda0255e5"
+    },
+    {
+      "path": "D题优化/baseline_reproduction.json",
+      "bytes": 371,
+      "sha256": "fa5bc68dadd01a3afb27db0a25991ff28745c4072a9012ebca141d123a890d68"
+    },
+    {
+      "path": "D题优化/before_after_comparison.csv",
+      "bytes": 789,
+      "sha256": "908d58b1fec374696dc983ac8d2a961f9542c242af357a1e4fbecbef015b4933"
+    },
+    {
+      "path": "D题优化/box_feasibility.csv",
+      "bytes": 15367,
+      "sha256": "1381416d2c69e02f9f767c98faa891cafc6bad5a6443f770416989a967de3034"
+    },
+    {
+      "path": "D题优化/build_manifest.py",
+      "bytes": 2366,
+      "sha256": "e274aaa310a838cbfcf9e0f7069b5f968a9d8fb23fabade1c0ce7236210abff6"
+    },
+    {
+      "path": "D题优化/build_optimization_report.py",
+      "bytes": 17318,
+      "sha256": "3b8a5a22fd534fccafb49f796abb1e80c8a5fd3f0f6253473f00c98ee8b5af77"
+    },
+    {
+      "path": "D题优化/build_paper_draft.py",
+      "bytes": 25638,
+      "sha256": "9a3c3cf8d0bb596485f9eaa2ed0c128ee5dc15f7dcf83680d7cff8f2afdaaf48"
+    },
+    {
+      "path": "D题优化/build_solution_materials.py",
+      "bytes": 20818,
+      "sha256": "c214452b4db51f252ec481fc632b2b896dcf67e8ea1d609a3a8ba46c26f0b4c6"
+    },
+    {
+      "path": "D题优化/certify_communication_boundaries.py",
+      "bytes": 2236,
+      "sha256": "325e3c476516f4487e1de7eb5d18c64b7539eae19a56b891d305193ce33e1efd"
+    },
+    {
+      "path": "D题优化/certify_q3_intervals.py",
+      "bytes": 7937,
+      "sha256": "827b1e02cf7265056dbc0efd8c336601321f601e6313e28c704e4f0454d7e7bf"
+    },
+    {
+      "path": "D题优化/check_ai_disclosure.py",
+      "bytes": 3549,
+      "sha256": "e98125326819e082ae082b79c8737c45bd04e98025eb33301d0299b9aed9f3ea"
+    },
+    {
+      "path": "D题优化/check_communication_schedule.py",
+      "bytes": 5778,
+      "sha256": "fb3e94d5f5ef68ffe6622c94682fafab077b734b0e5f1fb17339d6c6afb3100d"
+    },
+    {
+      "path": "D题优化/check_figures.py",
+      "bytes": 4900,
+      "sha256": "a16e6d6d05b3e24e48cf28b0bf70b6c4413f573819eef5326b9ba3f0090823c5"
+    },
+    {
+      "path": "D题优化/check_final.py",
+      "bytes": 5558,
+      "sha256": "a9ad9476985f7e32b93940e6c48773bc2862209da2bde08d2399e70bae624aba"
+    },
+    {
+      "path": "D题优化/check_optimization.py",
+      "bytes": 4428,
+      "sha256": "a20ca47c8f004f47dfb322f2a064b4118b2ad0391a218394e5d4403b8b7443db"
+    },
+    {
+      "path": "D题优化/check_paper_draft.py",
+      "bytes": 6868,
+      "sha256": "d1d6ae0e91463cf807ff2e02ef3f7746c96fae1f20daf1963fe798ced15cc12e"
+    },
+    {
+      "path": "D题优化/check_q1.py",
+      "bytes": 5469,
+      "sha256": "bec692518791c22a33b817505a79331912e007d11ca2117fc08f17471ff5ad18"
+    },
+    {
+      "path": "D题优化/check_q2.py",
+      "bytes": 6752,
+      "sha256": "3d272dcf1f49b718739d9fd983d350fec06b71ac9f314575d903ca5a7205d4c1"
+    },
+    {
+      "path": "D题优化/check_q3.py",
+      "bytes": 6420,
+      "sha256": "c2aa583fdb11b17640ad90556b3aa8eb0e40207e440d52d5aa8801b424a0fe27"
+    },
+    {
+      "path": "D题优化/check_q3_convergence.py",
+      "bytes": 1268,
+      "sha256": "f47f8d77594e5cbc6b49e1bc1d163ddc8be59a9ff3ecce6da065e4246030b8de"
+    },
+    {
+      "path": "D题优化/check_q3_neighborhood.py",
+      "bytes": 6484,
+      "sha256": "a5ea0c6fd117d55575e629ab64aa47dec3f85bc431fc4f689a5bb2eeb6083a5a"
+    },
+    {
+      "path": "D题优化/check_q4.py",
+      "bytes": 8434,
+      "sha256": "870506b7436a80c73b73a6e00c86147c5e6eecdefe7d0c4ad85a870a347fc898"
+    },
+    {
+      "path": "D题优化/check_template.py",
+      "bytes": 6195,
+      "sha256": "2d8515578236d66e2eb3f0ee44365c2ce3434b4064de8614d02438180dd463a8"
+    },
+    {
+      "path": "D题优化/communication_schedule.py",
+      "bytes": 9394,
+      "sha256": "ba6ab0ebf222380e548a7aef04fb5610bdc1043e9c24d641e9277d73a8bd7c18"
+    },
+    {
+      "path": "D题优化/compare_q3_candidates.py",
+      "bytes": 1817,
+      "sha256": "1e603eab49661d6b7d2e5c643a89886fec2430e213ff31fead24e40eddc8fd8b"
+    },
+    {
+      "path": "D题优化/craft_timeline_after.csv",
+      "bytes": 2825,
+      "sha256": "179da3e7d5bcabddaed547c0a4dae9575bb956d9d290912659da3b8a43528e07"
+    },
+    {
+      "path": "D题优化/craft_timeline_before.csv",
+      "bytes": 2679,
+      "sha256": "931b063d8db08f0f824b11d8b18f384dbbdc21e31968aa26ed3e080e42f3b435"
+    },
+    {
+      "path": "D题优化/craft_utilization_after.csv",
+      "bytes": 1123,
+      "sha256": "2d3a4d28f259bec7f8d37f21fbbf0f828c0fa126509abbda438113844d4d9a47"
+    },
+    {
+      "path": "D题优化/craft_utilization_before.csv",
+      "bytes": 995,
+      "sha256": "e4f7639ae611c9d15c6014ef5cf1da7b44ed7c4057b140da677391b8678c2a29"
+    },
+    {
+      "path": "D题优化/diagnose_q3.py",
+      "bytes": 4236,
+      "sha256": "a6a3619c5a9a780c3e033d79bb2ce8d153d35f482b91b8c0588291df37f1d0f8"
+    },
+    {
+      "path": "D题优化/d_common.py",
+      "bytes": 10024,
+      "sha256": "14088f9a53407a4d42765ececde52ae65168951fe9a821b1877761e7497a6777"
+    },
+    {
+      "path": "D题优化/export_optimized.mjs",
+      "bytes": 2552,
+      "sha256": "25c91aff87d17c89f30f6a5a689f79dcd6c0b6eafa7b6f41a0b5ca8aeb8c4dfc"
+    },
+    {
+      "path": "D题优化/fill_official_template.mjs",
+      "bytes": 2330,
+      "sha256": "b2cfb752777f3bd27b973f7a7b4abec30c0f5309b46041fd9e24a1810295cf18"
+    },
+    {
+      "path": "D题优化/inspect_template.mjs",
+      "bytes": 771,
+      "sha256": "08e07b586b2d0abaa104aee14a355013200f6bf5aab29c1a846c3142d35a2d85"
+    },
+    {
+      "path": "D题优化/optimization_report.md",
+      "bytes": 14780,
+      "sha256": "1e93238348f99a103a2fbc30833df94f03a68f4c4878fa25cd9b21db35bff7c4"
+    },
+    {
+      "path": "D题优化/optimize_q2.py",
+      "bytes": 5772,
+      "sha256": "c2c8d32c9a3bf599884008164ce80e53e2b55bab77048e1dd07e28f9818d2530"
+    },
+    {
+      "path": "D题优化/optimize_q3_shared.py",
+      "bytes": 3488,
+      "sha256": "74d67262930b205b727dafad19e7f7edb45c37f47c8e7c7ab83fda84f8f7d2c7"
+    },
+    {
+      "path": "D题优化/package_solution.py",
+      "bytes": 11041,
+      "sha256": "864657c63ea253264f3080a17206e9d0b9c968065d4011fc253ab763ecbe76f8"
+    },
+    {
+      "path": "D题优化/plot_solution_figures.py",
+      "bytes": 12381,
+      "sha256": "16f3c4582b37a07ef0d0958416af9c15d9605320b3249ac7c60e4ac07b839a1e"
+    },
+    {
+      "path": "D题优化/prepare_template_data.py",
+      "bytes": 3448,
+      "sha256": "912e1c38fb3f3ec97696585819713d26444358ae66f50b016bec287b864bca30"
+    },
+    {
+      "path": "D题优化/q3_block_cover.py",
+      "bytes": 2411,
+      "sha256": "bfc8b49017b7c57120e81260801992210d02dda106e6ad2210a6d6a6367131f2"
+    },
+    {
+      "path": "D题优化/q3_bottleneck.py",
+      "bytes": 2831,
+      "sha256": "f1ceabf3b4b2f1882c653af09eb9e1ec2cb8b73b88916aaa302d16f206a10175"
+    },
+    {
+      "path": "D题优化/q3_candidates.py",
+      "bytes": 2912,
+      "sha256": "d7dc2f5b8d559680db3b7b34d9a484b4f085efb530872ccda039956d5c0b8a7d"
+    },
+    {
+      "path": "D题优化/q3_individual_cover.py",
+      "bytes": 2045,
+      "sha256": "1e11bf6100c9c19e7729b45aee6b39164d3f001cb6c57f8cd1298708d127c021"
+    },
+    {
+      "path": "D题优化/q3_timeline.py",
+      "bytes": 3836,
+      "sha256": "49b35995173de00beafbd8a976c81ae445bf24411f10727924cd6c6aa3a13ba3"
+    },
+    {
+      "path": "D题优化/q3_transport_seed.py",
+      "bytes": 2465,
+      "sha256": "470443d935247c5893904b483a09eedd9daca4f6658748cf90bf0772a724a5f0"
+    },
+    {
+      "path": "D题优化/radio.py",
+      "bytes": 4983,
+      "sha256": "b56ffbc0139d18abb5971304e6e3f012528a05d6139a696cb05af6d3a2f6cda2"
+    },
+    {
+      "path": "D题优化/radio_interval.py",
+      "bytes": 3050,
+      "sha256": "7b0def9fecd1896a00274a332a3903076d3db3717a5c183a9b40a7ab61948f8c"
+    },
+    {
+      "path": "D题优化/rank_q3_024_sites.py",
+      "bytes": 2141,
+      "sha256": "3368dd3c77166634e856a995971df4ca0d37226e59a7511550bb621b27651e9a"
+    },
+    {
+      "path": "D题优化/README.md",
+      "bytes": 1889,
+      "sha256": "e073166168af285fa19feeb0ef4a09658b0b969e290194ce62c0bda4117cc88f"
+    },
+    {
+      "path": "D题优化/refine_q2.py",
+      "bytes": 4946,
+      "sha256": "3407eea1abbc2773e442ad4ed4cee3753165bcd28c4b8c6b7c06a96bde88389d"
+    },
+    {
+      "path": "D题优化/relay_flight.py",
+      "bytes": 1295,
+      "sha256": "0433dc3a66a2e2801590066c2fe92de27d486083d144e2311a33bf9b3da1776e"
+    },
+    {
+      "path": "D题优化/relay_schedule.csv",
+      "bytes": 876,
+      "sha256": "f878fbd711dd9b2eadd41215c19c908783e5ddb8ff465a74b4536633de46ccb0"
+    },
+    {
+      "path": "D题优化/reproduce_solution.py",
+      "bytes": 5380,
+      "sha256": "7277e2e0d3eb3e9e9d3a134ba49a0189aca8164e26a2d1284807c5b243d29db4"
+    },
+    {
+      "path": "D题优化/run_optimized.py",
+      "bytes": 1353,
+      "sha256": "1ed7cd2bc2952598cb95cc562ca743bbcdb69a31ecebd62d0acb8289f66afb3e"
+    },
+    {
+      "path": "D题优化/schedule_q3_shared.py",
+      "bytes": 9137,
+      "sha256": "05953243ac60c6e838b0e0f64870ca1c476a04592a66e2f838a8a2cb7210af03"
+    },
+    {
+      "path": "D题优化/search_q3_neighborhood.py",
+      "bytes": 13616,
+      "sha256": "6eca9e08bea0d9eadd7ac14ac0b0e4b220606c3151f377c3abf57099a182c8d9"
+    },
+    {
+      "path": "D题优化/solve_q1.py",
+      "bytes": 6007,
+      "sha256": "583387381b680e30bb7c662b41323f8bf8a8b6de986d036c3689832b4fe8e2bc"
+    },
+    {
+      "path": "D题优化/solve_q2.py",
+      "bytes": 9853,
+      "sha256": "5add005e6fec8434a7faca30f5da3dd0c128e7c32574ef6d7c648899a5fd8104"
+    },
+    {
+      "path": "D题优化/solve_q3.py",
+      "bytes": 10166,
+      "sha256": "87693de8e6e671257e159e40220c145a59ab547531658e1507a4caa60803ec48"
+    },
+    {
+      "path": "D题优化/solve_q4.py",
+      "bytes": 7939,
+      "sha256": "d0572aecb0d8038613b73dfd71d2e5b758b93ed3547ab38c99ede1c2d1f06dba"
+    },
+    {
+      "path": "D题优化/task_model_feasibility.csv",
+      "bytes": 9101,
+      "sha256": "48a25c7fb213f6df37822d740c5f384d869645e1bc04ed04a3e18255314989bf"
+    },
+    {
+      "path": "D题优化/verify_communication_bounds.py",
+      "bytes": 2401,
+      "sha256": "432848fc17abc8c1f4c895881d5bf09a95bc305aa1d890aa872d28fe714e0e3a"
+    },
+    {
+      "path": "D题优化/verify_geometry.py",
+      "bytes": 3843,
+      "sha256": "c428f7134869648e46c129f20ae0ced46503a9e31c0364260327d34f90c9a749"
+    },
+    {
+      "path": "D题优化/verify_optimized.py",
+      "bytes": 6170,
+      "sha256": "51ec3008b2f1420d42ed784c2f2f181f9fa2428e379f5e2d2ecb236e1cd2a8e6"
+    },
+    {
+      "path": "D题优化/verify_radio_interval.py",
+      "bytes": 2335,
+      "sha256": "8c6abb7539d1fa7803dfc3fef6ffe1590b850b89aa059cd71dbbe8c3b694076f"
+    },
+    {
+      "path": "D题优化/结果/optimized_validation.json",
+      "bytes": 5372,
+      "sha256": "79fe4690f6ef40e00e7fc19e638aafd6fa1e956732ed948b80abff5b0835c373"
+    },
+    {
+      "path": "D题优化/结果/q1_results_v2.json",
+      "bytes": 59291,
+      "sha256": "36fc9fa84c88d99168fde28a7f08532bb42a367a1f12fba82381855589e98715"
+    },
+    {
+      "path": "D题优化/结果/q2_check.json",
+      "bytes": 1155,
+      "sha256": "21426dcf1abf671569b1068208a9a0a5f1ac353e6ac9a78b10cac1498b3ae06a"
+    },
+    {
+      "path": "D题优化/结果/q2_results.json",
+      "bytes": 64317,
+      "sha256": "e012f6ecafd996fa9c3077908aef1b21b005cad9eb4176779f55ae24f1cf160c"
+    },
+    {
+      "path": "D题优化/结果/q2_sortie_caps.json",
+      "bytes": 1027,
+      "sha256": "b2f1aea7782a5f81add950a6bdc793a64f4becd4fd67533fe9c9c39539e4b215"
+    },
+    {
+      "path": "D题优化/结果/q3_boundary_guards.json",
+      "bytes": 19042,
+      "sha256": "562ba8141d0e55be629e40999072458d41215de43adb478cad9d106da1abd15c"
+    },
+    {
+      "path": "D题优化/结果/q3_check.json",
+      "bytes": 602,
+      "sha256": "c87625436a5454f11951f70cf4da927020c5074c10ee602d7b0bc4f4db5ac4c4"
+    },
+    {
+      "path": "D题优化/结果/q3_communication_check.json",
+      "bytes": 467,
+      "sha256": "4010e10f388bfba4352c2e0d2e97173197d7f0e1baf82dc502f32a34f736ae87"
+    },
+    {
+      "path": "D题优化/结果/q3_communication_schedule.json",
+      "bytes": 67052,
+      "sha256": "1cc4915bbd001e8bb02c1c32314f51651a2331c52855a76e6f3e58e361426f58"
+    },
+    {
+      "path": "D题优化/结果/q3_interval_certificate.json",
+      "bytes": 940,
+      "sha256": "984dc2fd1973c4bbfb6b50d1ea1b73865c9c2f601668a27889734a9c76bf2a5d"
+    },
+    {
+      "path": "D题优化/结果/q3_margin_certificate_1db.json",
+      "bytes": 4063,
+      "sha256": "669eaf68443fac2bcef643717d774fafad33d5bfe911d11e30c1611c1a7a6589"
+    },
+    {
+      "path": "D题优化/结果/q3_shared_search_check.json",
+      "bytes": 515,
+      "sha256": "730fd8f861fb288e41d48389d064a4c8c64b443837d7ad3292a33ab87c9851e3"
+    },
+    {
+      "path": "D题优化/结果/q3_solution.json",
+      "bytes": 21725,
+      "sha256": "fcefaf5a84f3ee17e3519401d8799e5ac3b178ad6d545773e00274db121d2d8e"
+    },
+    {
+      "path": "D题优化/结果/q3_spatial_search.json",
+      "bytes": 416851,
+      "sha256": "18e03dcf0d731a5161b1fc98c7056eeb84a2934c56e0f44bf99390098240d252"
+    },
+    {
+      "path": "D题优化/结果/q4_check.json",
+      "bytes": 6442,
+      "sha256": "131c4331bc4f85d66b467fc0ce200e6c3bea00062c8cf69ab3359fe30dcacf82"
+    },
+    {
+      "path": "D题优化/结果/q4_results.json",
+      "bytes": 23234,
+      "sha256": "1a3dfa9cdaae63c8cb5e13cb5c202b32b12987e800fb405462cc24e54f981a26"
+    },
+    {
+      "path": "D题优化/结果/template_check.json",
+      "bytes": 1012,
+      "sha256": "03dca020324fc28c80b22ad8665ed03fb59effbc8ea5d85ca1174d2b88b02410"
+    },
+    {
+      "path": "D题优化/结果/template_data.json",
+      "bytes": 47918,
+      "sha256": "dea163bd3d3a1418e88debfff8dae06865e830c6422763d9bb77c38c632d533a"
+    },
+    {
+      "path": "D题优化/结果/workbook_preservation_check.json",
+      "bytes": 171,
+      "sha256": "77fd03f789d205009fc333224861775b421162d35d55aadc433b04c0a2f5379d"
+    },
+    {
+      "path": "D题优化/outputs/optimization-20260928/结果提交模板_优化版.xlsx",
+      "bytes": 30025,
+      "sha256": "1eca4d311e83053ce1592e2b2142eb7bc79310c643322278fb6aaa28ca3c7e01"
+    },
+    {
+      "path": "D题优化/原始备份/q3_rejected_coarse_check.json",
+      "bytes": 3614,
+      "sha256": "48cf286f9a0a457f0890fc1f36fc78a68dfd7201c7518ea693605d9031fc9c64"
+    },
+    {
+      "path": "D题优化/原始备份/结果提交模板_已填.xlsx",
+      "bytes": 41218,
+      "sha256": "f5bb2c7a7d932a9859888238fbb6b3be4c7a32c2c7aa0645041e6e61565baf0d"
+    },
+    {
+      "path": "D题求解/.figure-backend.json",
+      "bytes": 29,
+      "sha256": "dad100bf58fece91f6d9ce9ef861408b330aea06bb703ea8229bf8d464754a8b"
+    },
+    {
+      "path": "D题求解/AI使用与复核清单.md",
+      "bytes": 3507,
+      "sha256": "e75a123bdd9e9d0bca9f8911d8192f71bd47df5a196e10614127f18c266b18f0"
+    },
+    {
+      "path": "D题求解/audit_q3_critical_link.py",
+      "bytes": 1728,
+      "sha256": "e780bcf1e97e6f39678b0328079b44aa8dc8683f17565ab5da3bc64f80c43696"
+    },
+    {
+      "path": "D题求解/audit_q3_hard_slack.py",
+      "bytes": 1088,
+      "sha256": "748f1e9a6e9bc7aa9c86364be956aed5ca0ac66d3ea0d4e2a73b28d601b5bba9"
+    },
+    {
+      "path": "D题求解/audit_q3_margin.py",
+      "bytes": 4905,
+      "sha256": "46b30402b337a1fd34e8a0efb715475b949596e3eff3ebad8fc308c3ffbe9ba0"
+    },
+    {
+      "path": "D题求解/audit_q3_perturb.py",
+      "bytes": 4241,
+      "sha256": "c9b870f9974de6b5ee1f3a7811d9d10d51699b5e8479e8017292f0795226d602"
+    },
+    {
+      "path": "D题求解/build_manifest.py",
+      "bytes": 2366,
+      "sha256": "e274aaa310a838cbfcf9e0f7069b5f968a9d8fb23fabade1c0ce7236210abff6"
+    },
+    {
+      "path": "D题求解/build_paper_draft.py",
+      "bytes": 25638,
+      "sha256": "9a3c3cf8d0bb596485f9eaa2ed0c128ee5dc15f7dcf83680d7cff8f2afdaaf48"
+    },
+    {
+      "path": "D题求解/build_solution_materials.py",
+      "bytes": 20818,
+      "sha256": "c214452b4db51f252ec481fc632b2b896dcf67e8ea1d609a3a8ba46c26f0b4c6"
+    },
+    {
+      "path": "D题求解/certify_communication_boundaries.py",
+      "bytes": 2236,
+      "sha256": "325e3c476516f4487e1de7eb5d18c64b7539eae19a56b891d305193ce33e1efd"
+    },
+    {
+      "path": "D题求解/certify_q3_intervals.py",
+      "bytes": 7937,
+      "sha256": "827b1e02cf7265056dbc0efd8c336601321f601e6313e28c704e4f0454d7e7bf"
+    },
+    {
+      "path": "D题求解/check_ai_disclosure.py",
+      "bytes": 3549,
+      "sha256": "e98125326819e082ae082b79c8737c45bd04e98025eb33301d0299b9aed9f3ea"
+    },
+    {
+      "path": "D题求解/check_communication_schedule.py",
+      "bytes": 5778,
+      "sha256": "fb3e94d5f5ef68ffe6622c94682fafab077b734b0e5f1fb17339d6c6afb3100d"
+    },
+    {
+      "path": "D题求解/check_figures.py",
+      "bytes": 4900,
+      "sha256": "a16e6d6d05b3e24e48cf28b0bf70b6c4413f573819eef5326b9ba3f0090823c5"
+    },
+    {
+      "path": "D题求解/check_final.py",
+      "bytes": 5558,
+      "sha256": "a9ad9476985f7e32b93940e6c48773bc2862209da2bde08d2399e70bae624aba"
+    },
+    {
+      "path": "D题求解/check_optimization.py",
+      "bytes": 4428,
+      "sha256": "a20ca47c8f004f47dfb322f2a064b4118b2ad0391a218394e5d4403b8b7443db"
+    },
+    {
+      "path": "D题求解/check_paper_draft.py",
+      "bytes": 6868,
+      "sha256": "d1d6ae0e91463cf807ff2e02ef3f7746c96fae1f20daf1963fe798ced15cc12e"
+    },
+    {
+      "path": "D题求解/check_q1.py",
+      "bytes": 5469,
+      "sha256": "bec692518791c22a33b817505a79331912e007d11ca2117fc08f17471ff5ad18"
+    },
+    {
+      "path": "D题求解/check_q2.py",
+      "bytes": 6752,
+      "sha256": "3d272dcf1f49b718739d9fd983d350fec06b71ac9f314575d903ca5a7205d4c1"
+    },
+    {
+      "path": "D题求解/check_q3.py",
+      "bytes": 6420,
+      "sha256": "c2aa583fdb11b17640ad90556b3aa8eb0e40207e440d52d5aa8801b424a0fe27"
+    },
+    {
+      "path": "D题求解/check_q3_convergence.py",
+      "bytes": 1268,
+      "sha256": "f47f8d77594e5cbc6b49e1bc1d163ddc8be59a9ff3ecce6da065e4246030b8de"
+    },
+    {
+      "path": "D题求解/check_q3_neighborhood.py",
+      "bytes": 6484,
+      "sha256": "a5ea0c6fd117d55575e629ab64aa47dec3f85bc431fc4f689a5bb2eeb6083a5a"
+    },
+    {
+      "path": "D题求解/check_q4.py",
+      "bytes": 8434,
+      "sha256": "870506b7436a80c73b73a6e00c86147c5e6eecdefe7d0c4ad85a870a347fc898"
+    },
+    {
+      "path": "D题求解/check_template.py",
+      "bytes": 6294,
+      "sha256": "4da08ac92d8fbd1ba03ed9ffe38d615737491454157adb5370c4bb6707b6f24e"
+    },
+    {
+      "path": "D题求解/communication_schedule.py",
+      "bytes": 9394,
+      "sha256": "ba6ab0ebf222380e548a7aef04fb5610bdc1043e9c24d641e9277d73a8bd7c18"
+    },
+    {
+      "path": "D题求解/compare_q3_candidates.py",
+      "bytes": 1817,
+      "sha256": "1e603eab49661d6b7d2e5c643a89886fec2430e213ff31fead24e40eddc8fd8b"
+    },
+    {
+      "path": "D题求解/diagnose_q3.py",
+      "bytes": 4236,
+      "sha256": "a6a3619c5a9a780c3e033d79bb2ce8d153d35f482b91b8c0588291df37f1d0f8"
+    },
+    {
+      "path": "D题求解/d_common.py",
+      "bytes": 10024,
+      "sha256": "14088f9a53407a4d42765ececde52ae65168951fe9a821b1877761e7497a6777"
+    },
+    {
+      "path": "D题求解/fill_official_template.mjs",
+      "bytes": 2330,
+      "sha256": "b2cfb752777f3bd27b973f7a7b4abec30c0f5309b46041fd9e24a1810295cf18"
+    },
+    {
+      "path": "D题求解/inspect_template.mjs",
+      "bytes": 771,
+      "sha256": "08e07b586b2d0abaa104aee14a355013200f6bf5aab29c1a846c3142d35a2d85"
+    },
+    {
+      "path": "D题求解/optimize_q2.py",
+      "bytes": 5772,
+      "sha256": "c2c8d32c9a3bf599884008164ce80e53e2b55bab77048e1dd07e28f9818d2530"
+    },
+    {
+      "path": "D题求解/package_solution.py",
+      "bytes": 11041,
+      "sha256": "864657c63ea253264f3080a17206e9d0b9c968065d4011fc253ab763ecbe76f8"
+    },
+    {
+      "path": "D题求解/plot_solution_figures.py",
+      "bytes": 12381,
+      "sha256": "16f3c4582b37a07ef0d0958416af9c15d9605320b3249ac7c60e4ac07b839a1e"
+    },
+    {
+      "path": "D题求解/prepare_template_data.py",
+      "bytes": 3408,
+      "sha256": "79aac2c520e37bd6269d7a2f072792fb27bc696cf43df08a79589807e2fd7998"
+    },
+    {
+      "path": "D题求解/q3_block_cover.py",
+      "bytes": 2411,
+      "sha256": "bfc8b49017b7c57120e81260801992210d02dda106e6ad2210a6d6a6367131f2"
+    },
+    {
+      "path": "D题求解/q3_bottleneck.py",
+      "bytes": 2831,
+      "sha256": "f1ceabf3b4b2f1882c653af09eb9e1ec2cb8b73b88916aaa302d16f206a10175"
+    },
+    {
+      "path": "D题求解/q3_candidates.py",
+      "bytes": 2912,
+      "sha256": "d7dc2f5b8d559680db3b7b34d9a484b4f085efb530872ccda039956d5c0b8a7d"
+    },
+    {
+      "path": "D题求解/q3_individual_cover.py",
+      "bytes": 2045,
+      "sha256": "1e11bf6100c9c19e7729b45aee6b39164d3f001cb6c57f8cd1298708d127c021"
+    },
+    {
+      "path": "D题求解/q3_timeline.py",
+      "bytes": 3836,
+      "sha256": "49b35995173de00beafbd8a976c81ae445bf24411f10727924cd6c6aa3a13ba3"
+    },
+    {
+      "path": "D题求解/q3_transport_seed.py",
+      "bytes": 2465,
+      "sha256": "470443d935247c5893904b483a09eedd9daca4f6658748cf90bf0772a724a5f0"
+    },
+    {
+      "path": "D题求解/radio.py",
+      "bytes": 4983,
+      "sha256": "b56ffbc0139d18abb5971304e6e3f012528a05d6139a696cb05af6d3a2f6cda2"
+    },
+    {
+      "path": "D题求解/radio_interval.py",
+      "bytes": 3050,
+      "sha256": "7b0def9fecd1896a00274a332a3903076d3db3717a5c183a9b40a7ab61948f8c"
+    },
+    {
+      "path": "D题求解/rank_q3_024_sites.py",
+      "bytes": 2141,
+      "sha256": "3368dd3c77166634e856a995971df4ca0d37226e59a7511550bb621b27651e9a"
+    },
+    {
+      "path": "D题求解/README.md",
+      "bytes": 5406,
+      "sha256": "42b80755634e3868e894ae9c49fa96df04c085a9f178459e34122fc4b6210657"
+    },
+    {
+      "path": "D题求解/relay_flight.py",
+      "bytes": 1295,
+      "sha256": "0433dc3a66a2e2801590066c2fe92de27d486083d144e2311a33bf9b3da1776e"
+    },
+    {
+      "path": "D题求解/reproduce_solution.py",
+      "bytes": 5380,
+      "sha256": "7277e2e0d3eb3e9e9d3a134ba49a0189aca8164e26a2d1284807c5b243d29db4"
+    },
+    {
+      "path": "D题求解/search_q3_neighborhood.py",
+      "bytes": 13616,
+      "sha256": "6eca9e08bea0d9eadd7ac14ac0b0e4b220606c3151f377c3abf57099a182c8d9"
+    },
+    {
+      "path": "D题求解/solve_q1.py",
+      "bytes": 6007,
+      "sha256": "583387381b680e30bb7c662b41323f8bf8a8b6de986d036c3689832b4fe8e2bc"
+    },
+    {
+      "path": "D题求解/solve_q2.py",
+      "bytes": 9853,
+      "sha256": "5add005e6fec8434a7faca30f5da3dd0c128e7c32574ef6d7c648899a5fd8104"
+    },
+    {
+      "path": "D题求解/solve_q3.py",
+      "bytes": 10166,
+      "sha256": "87693de8e6e671257e159e40220c145a59ab547531658e1507a4caa60803ec48"
+    },
+    {
+      "path": "D题求解/solve_q4.py",
+      "bytes": 7939,
+      "sha256": "d0572aecb0d8038613b73dfd71d2e5b758b93ed3547ab38c99ede1c2d1f06dba"
+    },
+    {
+      "path": "D题求解/verify_communication_bounds.py",
+      "bytes": 2401,
+      "sha256": "432848fc17abc8c1f4c895881d5bf09a95bc305aa1d890aa872d28fe714e0e3a"
+    },
+    {
+      "path": "D题求解/verify_geometry.py",
+      "bytes": 3843,
+      "sha256": "c428f7134869648e46c129f20ae0ced46503a9e31c0364260327d34f90c9a749"
+    },
+    {
+      "path": "D题求解/verify_radio_interval.py",
+      "bytes": 2335,
+      "sha256": "8c6abb7539d1fa7803dfc3fef6ffe1590b850b89aa059cd71dbbe8c3b694076f"
+    },
+    {
+      "path": "D题求解/模型口径.md",
+      "bytes": 6886,
+      "sha256": "00a5a04195647678c22e7cfbdabf4d6fe6d77c121e859d5da2c6cfdb7961f30c"
+    },
+    {
+      "path": "D题求解/解题验收.md",
+      "bytes": 8474,
+      "sha256": "d26d5006521d1876e6cfcba6f90da034021473b83dafa189eebe91060d202909"
+    },
+    {
+      "path": "D题求解/论文骨架与结果.md",
+      "bytes": 9451,
+      "sha256": "9512fa4b6d88e8a512e373faec54223fde9b80aded8186e6fa86b4759b6a88be"
+    },
+    {
+      "path": "D题求解/进度.md",
+      "bytes": 10606,
+      "sha256": "a3d86fd1f18887bc2be1d72db7ed640f44959ebdb144c8d7033bee9582de7dbe"
+    },
+    {
+      "path": "D题求解/通信鲁棒性试验.md",
+      "bytes": 4404,
+      "sha256": "76b8e64e891cfde8362b3c2768ffb113176e1a51fc9727645f1997871fdc5f09"
+    },
+    {
+      "path": "D题求解/结果/ai_disclosure_check.json",
+      "bytes": 26095,
+      "sha256": "423a570fa8c6f4103cc9689f87d4c653d02d522e0dae887fd392a5e76b9ed50d"
+    },
+    {
+      "path": "D题求解/结果/communication_bounds_check.json",
+      "bytes": 396,
+      "sha256": "311d22b51f2b93631ee2fb79ea39ac3724d5929c5992d08756ffc69037f9ca8e"
+    },
+    {
+      "path": "D题求解/结果/delivery_manifest_sha256.json",
+      "bytes": 46791,
+      "sha256": "4c0af7b595be54f496143dbb7a9168619e63876709bb317c603985ae51aa3ae3"
+    },
+    {
+      "path": "D题求解/结果/delivery_readiness.json",
+      "bytes": 1123,
+      "sha256": "9d3c8a4cd7e2f67fe2571acd4fe4c17805726ea6cc26f3cb5a8d20aeb7d0ad1a"
+    },
+    {
+      "path": "D题求解/结果/figure_check.json",
+      "bytes": 2287,
+      "sha256": "6a31857a5920a86c82c9d87be46b94cfdf43bf994f981fe0fd385e5bab355939"
+    },
+    {
+      "path": "D题求解/结果/final_check.json",
+      "bytes": 10554,
+      "sha256": "20457b2074d8b8a430a0e780a3de10662dd0c7950b1e97de7580b740a97d6b8c"
+    },
+    {
+      "path": "D题求解/结果/manifest_sha256.json",
+      "bytes": 3743,
+      "sha256": "4776c58b12909cc4d82eb9f529dda61729c75fc4771d1ae9f2b54b37937a7e00"
+    },
+    {
+      "path": "D题求解/结果/optimization_check.json",
+      "bytes": 1036,
+      "sha256": "69da1d7dc26dd7b20bbcb2ae4aed56cbf64f6fa8c0fa4dbf4f5cf7934a460b28"
+    },
+    {
+      "path": "D题求解/结果/package_check.json",
+      "bytes": 577,
+      "sha256": "53896e623d92524f92486452e44adaf06fea7c906b30348254f1a8284149ac11"
+    },
+    {
+      "path": "D题求解/结果/paper_draft_build.json",
+      "bytes": 1432,
+      "sha256": "64ccc95bf3a8ea8b71440bf2eff0a9e9f58b3de685582cf627214a054bc0ba00"
+    },
+    {
+      "path": "D题求解/结果/paper_draft_check.json",
+      "bytes": 3505,
+      "sha256": "6738ff43551c2cb09e6b242e52e572e5d751dc99d91153d903bb8d2b3569fbd3"
+    },
+    {
+      "path": "D题求解/结果/paper_typeset_build.json",
+      "bytes": 8891,
+      "sha256": "9f214098daee86b48f0aa2f2689334ba55a36c2d5d42dae972c685eafecd08f1"
+    },
+    {
+      "path": "D题求解/结果/paper_typeset_check.json",
+      "bytes": 9155,
+      "sha256": "2c087df67c46ec5959303fc4554caeba9eb755bc00104aee7b250f36a1dfee9e"
+    },
+    {
+      "path": "D题求解/结果/q1_check.json",
+      "bytes": 267,
+      "sha256": "d76cc8273513d5f4601b200b174d594612f1dd863b8fc0b9181d507f289dcf81"
+    },
+    {
+      "path": "D题求解/结果/q1_results.json",
+      "bytes": 51659,
+      "sha256": "d42b35179785ecf90d050fd1f0f943b1e46c0a859c06530056c0f357a423d16b"
+    },
+    {
+      "path": "D题求解/结果/q1_results_v2.json",
+      "bytes": 59291,
+      "sha256": "36fc9fa84c88d99168fde28a7f08532bb42a367a1f12fba82381855589e98715"
+    },
+    {
+      "path": "D题求解/结果/q2_check.json",
+      "bytes": 1000,
+      "sha256": "24c1e1bab82d52f0dd53e7bd449555865ba5f84048dc77502b6ae6381b0cdcef"
+    },
+    {
+      "path": "D题求解/结果/q2_results.json",
+      "bytes": 270255,
+      "sha256": "5aead5efa0476f0e5eb970b4a9137ee8d8ea583a15f3539ad1cef487fbaa73db"
+    },
+    {
+      "path": "D题求解/结果/q3_boundary_guards.json",
+      "bytes": 23563,
+      "sha256": "b0491e30a51a8e9dc56a4edf4249208e38dda31f3a9ffc9e801acc84ab09b07e"
+    },
+    {
+      "path": "D题求解/结果/q3_candidate_comparison.json",
+      "bytes": 7215,
+      "sha256": "51d52fb1f06bf45fe47b48c5bb32025c22c11c396a393b23bceeedbc9738c99c"
+    },
+    {
+      "path": "D题求解/结果/q3_candidate_diagnostic.json",
+      "bytes": 4428,
+      "sha256": "a37361a0de75cb60c0730e301d473f416a8106e6372aae91336fa5a6285b7c31"
+    },
+    {
+      "path": "D题求解/结果/q3_candidate_due.json",
+      "bytes": 30815,
+      "sha256": "d6c656770177dfac3a379d8f0c1773d4cf15be3b5e29ced73844d06d73d84d52"
+    },
+    {
+      "path": "D题求解/结果/q3_candidate_duration.json",
+      "bytes": 30798,
+      "sha256": "3e6316f1376c62b2075f5faaf5bf1a021ade58d445ba855b89ccd31d71ca7d1c"
+    },
+    {
+      "path": "D题求解/结果/q3_candidate_ratio.json",
+      "bytes": 30794,
+      "sha256": "a396f4f0ca2dc8e1f0d6507f8e894d60b9af740604fc20a9b7035647d5842b78"
+    },
+    {
+      "path": "D题求解/结果/q3_candidate_relay_first.json",
+      "bytes": 30817,
+      "sha256": "62a17c431410f904f4453ac8d693dfa93d1ff3fb71f4888335054df3ffac93f3"
+    },
+    {
+      "path": "D题求解/结果/q3_candidate_weight.json",
+      "bytes": 30809,
+      "sha256": "1ca103db048e587a13376747e0d5d192b6ccfc7ae35385a1e72812e88d55edcf"
+    },
+    {
+      "path": "D题求解/结果/q3_check.json",
+      "bytes": 499,
+      "sha256": "1abc875148134e6f7dc80b3bbba9b804cfe181e2bb0e4624bd73d221826a1d01"
+    },
+    {
+      "path": "D题求解/结果/q3_check_fast_baseline.json",
+      "bytes": 498,
+      "sha256": "325967973fed571ff3cea1ce198c0a5c66926b3cb28c61d494de7c17279655d7"
+    },
+    {
+      "path": "D题求解/结果/q3_communication_check.json",
+      "bytes": 467,
+      "sha256": "0a79c3b8d6afe72c5f54221bc3239430ab08b2001fa244c1ebae46b0218e47f2"
+    },
+    {
+      "path": "D题求解/结果/q3_communication_schedule.json",
+      "bytes": 80980,
+      "sha256": "885723b1e2875d2287c95cd84d82345ec107a2550a52f174cf981bf1eaad759f"
+    },
+    {
+      "path": "D题求解/结果/q3_convergence.json",
+      "bytes": 3134,
+      "sha256": "5be198e0410ceb4610fbd0f9174cc5bd9cf46ac9e4fa9b29432f9280806bcb16"
+    },
+    {
+      "path": "D题求解/结果/q3_convergence_fast_baseline.json",
+      "bytes": 3129,
+      "sha256": "3077d6f6066ba417a6deaa849d7d0c317c4a7cbbc1878ab037cbb71409b801a9"
+    },
+    {
+      "path": "D题求解/结果/q3_direct_diagnostic.json",
+      "bytes": 922419,
+      "sha256": "bc04457f50377a0ef75ea5a413a900176855bb3d3a844e10e60196a0434d2bfc"
+    },
+    {
+      "path": "D题求解/结果/q3_individual_cover.json",
+      "bytes": 9086,
+      "sha256": "16df74b762509f64e479f6ce3cfdec3b8702a443e0db288890e0ad39e3475490"
+    },
+    {
+      "path": "D题求解/结果/q3_interval_certificate.json",
+      "bytes": 941,
+      "sha256": "701616640e133f22189a0a5915d943f9f5b98f1baeb5463dd5809fa4c9979e2e"
+    },
+    {
+      "path": "D题求解/结果/q3_interval_certificate_fast_baseline.json",
+      "bytes": 853,
+      "sha256": "9adf9fc73d11a2f2db069189b1c9d00e8e5e8ef942bdfafea15a8d010a2019b6"
+    },
+    {
+      "path": "D题求解/结果/q3_interval_certificate_q3_joint_candidate_001.json",
+      "bytes": 941,
+      "sha256": "760afcba8eccf5645611fc7f48422ca4e95ff9fb92ce21e9fc7788d5eeb385a8"
+    },
+    {
+      "path": "D题求解/结果/q3_joint_candidate_001.json",
+      "bytes": 31039,
+      "sha256": "10b54207b3daef78089dbbb2b21fee2d3a9094a83e37cdb00e31233d7614acf1"
+    },
+    {
+      "path": "D题求解/结果/q3_margin_audit_1s.json",
+      "bytes": 12683,
+      "sha256": "af75f4234d76c8a13dd1680252b8225712b7157eefa2c4e581540157d88db9ac"
+    },
+    {
+      "path": "D题求解/结果/q3_margin_audit_1s_q3_margin_candidate_30s.json",
+      "bytes": 12522,
+      "sha256": "b7608dfcac80c2a8e7d19e1c61295634dccf2a3677d711df086607154eb2553e"
+    },
+    {
+      "path": "D题求解/结果/q3_margin_audit_5s.json",
+      "bytes": 14034,
+      "sha256": "cf8ec3c43ffcc9d94528b9c0878be746785abc2429f3f72aff30c376f426e4f3"
+    },
+    {
+      "path": "D题求解/结果/q3_margin_audit_5s_q3_margin_candidate_30s.json",
+      "bytes": 12532,
+      "sha256": "93428710c216d2cfee6a365504111814010db6610cb8372d48b5c0944b87ec88"
+    },
+    {
+      "path": "D题求解/结果/q3_margin_candidate_10s.json",
+      "bytes": 30825,
+      "sha256": "93b8e0acf16daad821823f55d801b7853b0892c45cb1a6a4e268939834fd8709"
+    },
+    {
+      "path": "D题求解/结果/q3_margin_candidate_20s.json",
+      "bytes": 30824,
+      "sha256": "ca8775d31fd908e60d371d8675ef8b8079fb84ee70a4bb619bbf0ac4e57c01fe"
+    },
+    {
+      "path": "D题求解/结果/q3_margin_candidate_30s.json",
+      "bytes": 30825,
+      "sha256": "77be8acca0017fdb6c9f841edcc74da145f7d0a712ed95719e285df3d19e2c72"
+    },
+    {
+      "path": "D题求解/结果/q3_margin_candidate_30s_mids015300.json",
+      "bytes": 30832,
+      "sha256": "5f719153756a599a356aa02797887394dc97e8faf37c45f4100563debd15648f"
+    },
+    {
+      "path": "D题求解/结果/q3_margin_candidate_30s_site150.json",
+      "bytes": 30817,
+      "sha256": "cd26768958f2722bbf5b23b90ae72884bfd1cee8c1763f6a2db68cbb814429a8"
+    },
+    {
+      "path": "D题求解/结果/q3_margin_candidate_30s_soft_only.json",
+      "bytes": 30819,
+      "sha256": "511482abd408a5f57067fec5b34fb305fa1c75a08034f9e064dde9ff10f8c2ce"
+    },
+    {
+      "path": "D题求解/结果/q3_margin_certificate_1db.json",
+      "bytes": 935,
+      "sha256": "2e1242ad198a97f2ab15a63d496303a1e1b80e4e7cf18c2497cb1199fce7fa56"
+    },
+    {
+      "path": "D题求解/结果/q3_margin_certificate_1db_q3_joint_candidate_001.json",
+      "bytes": 2752,
+      "sha256": "6003a0a088ad4395612e32fd3bc7ca491c3f20eea435d7652b09df283ba856c4"
+    },
+    {
+      "path": "D题求解/结果/q3_margin_certificate_1db_q3_margin_candidate_10s.json",
+      "bytes": 3978,
+      "sha256": "279bbdcf03148cf9e88336b156b101f00e887021109f33f5dab00ea123bdacf1"
+    },
+    {
+      "path": "D题求解/结果/q3_margin_certificate_1db_q3_margin_candidate_20s.json",
+      "bytes": 2141,
+      "sha256": "933175e7d63af48180b2c695892a63a60c82d934fb78ca7954eedd223cafeb28"
+    },
+    {
+      "path": "D题求解/结果/q3_margin_certificate_1db_q3_margin_candidate_30s.json",
+      "bytes": 847,
+      "sha256": "4074145818bc2c2589b7dc5be8e8f02ecd33990b0f35094f6b7c12ba6fe78d6c"
+    },
+    {
+      "path": "D题求解/结果/q3_neighborhood_check.json",
+      "bytes": 1485,
+      "sha256": "cdca0ca4dfb4ce5a9be8f10fb20cc364b58eb78ca06b73dd9ce47844948422b4"
+    },
+    {
+      "path": "D题求解/结果/q3_neighborhood_search.json",
+      "bytes": 47416,
+      "sha256": "b3169147dbc84c1ddf4519805a92ea32156bfe2456a43c5ea14f492fd9499090"
+    },
+    {
+      "path": "D题求解/结果/q3_perturb_5s_q3_margin_candidate_30s.json",
+      "bytes": 5229,
+      "sha256": "e00ec64150255f95599900ca6bf293c54ee2bf07830008fd874eda3bf3e05b63"
+    },
+    {
+      "path": "D题求解/结果/q3_seed_direct_diagnostic.json",
+      "bytes": 923475,
+      "sha256": "5e1d7ea4b5c2462bfc42e6d1e8107d92e7ab2e42f54c051e287888a846e1231b"
+    },
+    {
+      "path": "D题求解/结果/q3_seed_timeline_diagnostic.json",
+      "bytes": 314627,
+      "sha256": "a872bb171bf028048678dc82f269cb152755a4fca5bdc0e9db8ce6730b787fb1"
+    },
+    {
+      "path": "D题求解/结果/q3_solution.json",
+      "bytes": 30810,
+      "sha256": "fb379d7ebad479f3a41921f857676d50e82d4a51c874295d6242c8ae8fc3e860"
+    },
+    {
+      "path": "D题求解/结果/q3_solution_fast_baseline.json",
+      "bytes": 30800,
+      "sha256": "36d8dfeb60fdf27352415add823f0ab6430635fed48b586dce46580d2596ac3e"
+    },
+    {
+      "path": "D题求解/结果/q3_solution_serial_baseline.json",
+      "bytes": 30807,
+      "sha256": "e3f81cb5216ba3c871521002ee63a017332140efaaf730585558233a3b743959"
+    },
+    {
+      "path": "D题求解/结果/q3_timeline_diagnostic.json",
+      "bytes": 317746,
+      "sha256": "5b464793a09d42e906131135df06f1052e927f0e72733e6ad45a2f294a0c5f73"
+    },
+    {
+      "path": "D题求解/结果/q3_transport_seed.json",
+      "bytes": 17970,
+      "sha256": "e14e24394487c9d95798c0e3466358058c3cdb3e391cd27ac2d6930e8f751c68"
+    },
+    {
+      "path": "D题求解/结果/q4_check.json",
+      "bytes": 6444,
+      "sha256": "5cf6aa5ee6083877f227a15f98e8b4f22fd8d53c7f7c0c91656449ee45c1ecf0"
+    },
+    {
+      "path": "D题求解/结果/q4_check_fast_baseline.json",
+      "bytes": 6143,
+      "sha256": "e8cd0d3ce959bc5b93aa24b4347a152125fc037a2c304dd3b7a36de7652253fc"
+    },
+    {
+      "path": "D题求解/结果/q4_margin_candidate_check.json",
+      "bytes": 6143,
+      "sha256": "e8cd0d3ce959bc5b93aa24b4347a152125fc037a2c304dd3b7a36de7652253fc"
+    },
+    {
+      "path": "D题求解/结果/q4_margin_candidate_results.json",
+      "bytes": 25234,
+      "sha256": "e4d657c8a831fe77396abed9fdc4d29a8bd4d94eec70a073aee712001de12dbb"
+    },
+    {
+      "path": "D题求解/结果/q4_results.json",
+      "bytes": 25743,
+      "sha256": "241dbe89f59b0c578437abf1d49d996623219c554fdecffe6cd64b56f2377429"
+    },
+    {
+      "path": "D题求解/结果/q4_results_fast_baseline.json",
+      "bytes": 25229,
+      "sha256": "6f61ed2b77695a47d76353ccf8ca1ef03af2693b9a75ce8184660cf0c924f8d1"
+    },
+    {
+      "path": "D题求解/结果/q4_results_pre_freeze_fix.json",
+      "bytes": 25234,
+      "sha256": "e4d657c8a831fe77396abed9fdc4d29a8bd4d94eec70a073aee712001de12dbb"
+    },
+    {
+      "path": "D题求解/结果/reproduction_check.json",
+      "bytes": 16583,
+      "sha256": "0630513759f98fa6250e4d6c39d81c0f94254923c57124f533cbd7fae0cdafd5"
+    },
+    {
+      "path": "D题求解/结果/runtime_versions.json",
+      "bytes": 665,
+      "sha256": "b85ffb88ff0f9ddd70bc2b9b8189985ae71742cbfef41997481f94d519752b74"
+    },
+    {
+      "path": "D题求解/结果/slim_manifest_sha256.json",
+      "bytes": 46386,
+      "sha256": "e326ae88fd1c1b8da71b7c4551cecc79a233a98fc83dc190186e4991ad6784e6"
+    },
+    {
+      "path": "D题求解/结果/slim_package_check.json",
+      "bytes": 1972,
+      "sha256": "dd37e1d6d0a28ae1e899df329d933621133fb988ba13f30f176d2c823c9d6d1b"
+    },
+    {
+      "path": "D题求解/结果/template_check.json",
+      "bytes": 1007,
+      "sha256": "8722c33aa4ace4a4e4ee75d19ab38273f878f8beb7b4f532f823dea933c68c51"
+    },
+    {
+      "path": "D题求解/结果/template_conversion_check.json",
+      "bytes": 1225,
+      "sha256": "7cff26d462c56ac17717399f3ef77cd19c28f9ae1a0708bf8191f7ef863bff34"
+    },
+    {
+      "path": "D题求解/结果/template_data.json",
+      "bytes": 56053,
+      "sha256": "205bed30ed609097a01a5fe2c59a2bfe389b244f7b69b1481be24cb2e98c7b1e"
+    },
+    {
+      "path": "D题求解/结果/template_data_fast_baseline.json",
+      "bytes": 50944,
+      "sha256": "ddc78d78d573afc0a84702b7f4c7ce93a08558c51d86c91a0fbbf87e7b760787"
+    },
+    {
+      "path": "D题独立验收/fresh_audit.py",
+      "bytes": 37796,
+      "sha256": "627a0dfb5e30c65a504e995a9d7bf19b65334acde5dc1d756a022c812e53371b"
+    },
+    {
+      "path": "D题独立验收/independent_audit.log",
+      "bytes": 11874,
+      "sha256": "692a13d455fe931c772af9b64da2f26b2cb099daff50aa23696306f87d6e557a"
+    },
+    {
+      "path": "D题独立验收/independent_audit.py",
+      "bytes": 36431,
+      "sha256": "da327e0f793d66fb7476915f244957209a4c9d79932b2cb5427a5372d9d62c5d"
+    },
+    {
+      "path": "D题独立验收/reproduce.ps1",
+      "bytes": 679,
+      "sha256": "707b08b67f51c44887486b8f2cc23c53c3b4d6358ff64fa3d3aab2a646fdd335"
+    },
+    {
+      "path": "D题独立验收/supplemental_checks.log",
+      "bytes": 1859,
+      "sha256": "e6de1d69850fb6589d902730ce3b2e1a78a2712fe5daf49b7559af975cc5149a"
+    },
+    {
+      "path": "D题独立验收/supplemental_checks.py",
+      "bytes": 8685,
+      "sha256": "43a2b8a5f03cd9e69f5ee83655d8a97e87b3cc6f78411e1216430855ddfd7089"
+    },
+    {
+      "path": "D题独立验收/write_report.py",
+      "bytes": 17733,
+      "sha256": "b0a71dc359f07e6974e5f0a6cff1752de283c22217ae95388e751f64d4b98d68"
+    },
+    {
+      "path": "D题独立验收/严格验收报告.md",
+      "bytes": 15109,
+      "sha256": "b50fc21d8969ac6773ba207773cf1f8e1dfbf81b44e6a8ec2d083e2a81c9c301"
+    },
+    {
+      "path": "D题独立验收/证据/continuous_coverage_leaves.csv",
+      "bytes": 187033,
+      "sha256": "8224968aea463a1645eaf9050d7ab20a9b146b718c0d6b2932524ec1febd19fd"
+    },
+    {
+      "path": "D题独立验收/证据/fresh_audit_results.json",
+      "bytes": 1210,
+      "sha256": "f557c635add9be5eb88b1b96964a988104190238a793463f04155e9f858c83c1"
+    },
+    {
+      "path": "D题独立验收/证据/frozen_input_sha256.json",
+      "bytes": 2479,
+      "sha256": "53f2fdb5edf9b9e8ea019860167391d5ed9e4bddd8226e820fa461fa3320fbd2"
+    },
+    {
+      "path": "D题独立验收/证据/frozen_relays_continuous_coverage_leaves.csv",
+      "bytes": 187136,
+      "sha256": "ddb2b53bf2c0a96f19f31da63999cc81777351223c5f6a5f3ffcb6649c135eb2"
+    },
+    {
+      "path": "D题独立验收/证据/frozen_relays_independent_continuous_coverage.json",
+      "bytes": 502,
+      "sha256": "0ef408f56c633a0fe37797fb645dbfefcae06718167be993d543577f23568d40"
+    },
+    {
+      "path": "D题独立验收/证据/geometry_self_tests.json",
+      "bytes": 111,
+      "sha256": "bca58a0c0e86150808b213c2a870a09c2bbbb9ceccdc60a9fa30995e38245465"
+    },
+    {
+      "path": "D题独立验收/证据/high_precision_table_counterexamples.json",
+      "bytes": 9734,
+      "sha256": "a7bd63985235392b575693d92d5eeee4cba18e532f1bb6bafd807b2962407f77"
+    },
+    {
+      "path": "D题独立验收/证据/independent_continuous_coverage.json",
+      "bytes": 502,
+      "sha256": "27af610088f1a0fcacf2e95b6411fdd8f01fb18b1f5b7e0dafaf8786db34df76"
+    },
+    {
+      "path": "D题独立验收/证据/independent_dense_scan.json",
+      "bytes": 185,
+      "sha256": "35ce2739c1575243b9050997b91daa5d16edbf8aada6ccbc81fa50e5cb89ae8f"
+    },
+    {
+      "path": "D题独立验收/证据/independent_q1_check.json",
+      "bytes": 3689,
+      "sha256": "23e7c61c2fb33cf494fde58491f5f13eb870ffa692e680b076a91e652120f696"
+    },
+    {
+      "path": "D题独立验收/证据/independent_q4_check.json",
+      "bytes": 2561,
+      "sha256": "006b53ee1301865f59a5768f3f97fc8e4b56734af587d745252e2429c49b06da"
+    },
+    {
+      "path": "D题独立验收/证据/independent_table_check.json",
+      "bytes": 252755,
+      "sha256": "3469a06e03f8617bd6b45480690a2d6bd3b59f53beb377fd93a3e6f02a6337ef"
+    },
+    {
+      "path": "D题独立验收/证据/independent_transport_and_energy.json",
+      "bytes": 2897,
+      "sha256": "ed0413b16802e01ee25cb3ebb9f4a1e6fd9273121f1c6ff3a2224aeaaac774f4"
+    },
+    {
+      "path": "D题独立验收/证据/negative_tests.json",
+      "bytes": 1349,
+      "sha256": "3157f085d01f57082ba507b51d556638acfb3562db9d2b36784399737e27275b"
+    },
+    {
+      "path": "D题独立验收/证据/recomputed_boxes.csv",
+      "bytes": 10444,
+      "sha256": "634cee975bb4e199fc2fac1d155805e2e8cc0b1e596c94fea26fac0580e5b96c"
+    },
+    {
+      "path": "D题独立验收/证据/recomputed_legs.csv",
+      "bytes": 16090,
+      "sha256": "1eaef9e3c4e38b8bbe2863cf9c4781d7d021a8a4f4335d3c23cc627c10ade0e7"
+    },
+    {
+      "path": "D题独立验收/证据/resource_occupancy.csv",
+      "bytes": 6092,
+      "sha256": "58ff55eb360647f3ccdf8cf63320a828c6d1cf4844b02734661f9c967bbd3597"
+    },
+    {
+      "path": "D题独立验收/证据/strict_audit_summary.json",
+      "bytes": 12081,
+      "sha256": "368fbc859d1ff982b62bacf88f8a45273ac7451050e62e872b6cb588e06e547a"
+    },
+    {
+      "path": "D题独立验收/证据/table_boundary_point_discrepancies.json",
+      "bytes": 20467,
+      "sha256": "21404321ccd0925dbcf4cc4f4e82a0858a9722780522b8465ec2170ca5813911"
+    },
+    {
+      "path": "D题独立验收/证据/原题全文提取.txt",
+      "bytes": 18917,
+      "sha256": "d844e76a13661e6ba0b93a934cb456edca92633882441276dd9d77140f50cc82"
+    },
+    {
+      "path": "D题独立验收/证据/最终文件清单_sha256.json",
+      "bytes": 3099,
+      "sha256": "47f6a12f1a4b22a34273398c3c6a3db6e7598726592f53cd51e3c3c3bbb71fcb"
+    },
+    {
+      "path": "D题独立验收/证据/最终验收结论.json",
+      "bytes": 4226,
+      "sha256": "4e58067372d58cf88dbace84dedb7eb8a5fba0ae6a8592dee3bd87330e60f261"
+    }
+  ]
+}

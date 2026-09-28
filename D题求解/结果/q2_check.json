@@ -1,0 +1,40 @@
+{
+  "status": "passed",
+  "checks": {
+    "baseline": {
+      "issues": [],
+      "metrics": {
+        "sorties": 31,
+        "energy_kwh": 89.14854,
+        "makespan_s": 13089.392508,
+        "weighted_lateness_s": 1375343.601768,
+        "medical_late": 0,
+        "first_late": 0
+      }
+    },
+    "merged": {
+      "issues": [],
+      "metrics": {
+        "sorties": 26,
+        "energy_kwh": 82.64002,
+        "makespan_s": 12779.743277,
+        "weighted_lateness_s": 1342941.476198,
+        "medical_late": 0,
+        "first_late": 0
+      }
+    },
+    "selected": {
+      "issues": [],
+      "metrics": {
+        "sorties": 26,
+        "energy_kwh": 73.20763745,
+        "makespan_s": 12595.021415,
+        "weighted_lateness_s": 157921.35491000002,
+        "medical_late": 0,
+        "first_late": 0
+      }
+    }
+  },
+  "injected_delivery_error_detected": true,
+  "source_sha256": "5aead5efa0476f0e5eb970b4a9137ee8d8ea583a15f3539ad1cef487fbaa73db"
+}

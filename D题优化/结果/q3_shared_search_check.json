@@ -1,0 +1,19 @@
+{
+  "issues": [],
+  "metrics": {
+    "sample_interval_max_s": 3,
+    "los_step_max_pixels": "exact",
+    "samples": 12512,
+    "direct_blind_samples": 5055,
+    "relay_covered_samples": 5055,
+    "min_available_margin_db": 0.0006,
+    "transport_missions": 24,
+    "relay_sorties": 3,
+    "makespan_s": 6512.187235355526,
+    "transport_energy_kwh": 72.89098329333918,
+    "relay_energy_kwh": 3.366003809807704,
+    "weighted_lateness_s": 0.0
+  },
+  "tested": 55568,
+  "transport_feasible": 5338
+}

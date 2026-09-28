@@ -1,0 +1,18 @@
+{
+  "status": "passed_sampled_verification",
+  "metrics": {
+    "sample_interval_max_s": 5,
+    "los_step_max_pixels": 0.4,
+    "samples": 8017,
+    "direct_blind_samples": 3163,
+    "relay_covered_samples": 3163,
+    "min_available_margin_db": 0.0013,
+    "transport_missions": 26,
+    "relay_sorties": 15,
+    "makespan_s": 23965.643849,
+    "transport_energy_kwh": 82.640020414,
+    "relay_energy_kwh": 9.17237729,
+    "weighted_lateness_s": 2374535.080488
+  },
+  "issues": []
+}

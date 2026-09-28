@@ -1,0 +1,206 @@
+{
+  "method": "每个约1秒时间段对三维距离取分量保守上界；若逐格扫掠证明无遮挡则不加遮挡损耗，否则按全程遮挡损耗计；静态回传逐格精确判别",
+  "required_margin_db": 1.0,
+  "backup_rule": "直连低于目标裕量时检查已在位中继；名义通信状态仍按题面直连优先记录",
+  "counts": {
+    "intervals": 38757,
+    "certified": 38692,
+    "refinement_checks": 79,
+    "point_counterexamples": 64,
+    "uncertified_leaves": 64,
+    "refined_certified_leaves": 8
+  },
+  "initial_uncertain_intervals": 65,
+  "certified_all_intervals": false,
+  "uncertain_examples": [
+    [
+      "Q3-002",
+      "cruise",
+      1514.170085956,
+      "point_counterexample"
+    ],
+    [
+      "Q3-002",
+      "cruise",
+      1515.151467102,
+      "point_counterexample"
+    ],
+    [
+      "Q3-002",
+      "cruise",
+      1516.150857483,
+      "point_counterexample"
+    ],
+    [
+      "Q3-002",
+      "cruise",
+      1517.150247864,
+      "point_counterexample"
+    ],
+    [
+      "Q3-002",
+      "cruise",
+      1518.149638245,
+      "point_counterexample"
+    ],
+    [
+      "Q3-002",
+      "cruise",
+      1519.149028625,
+      "point_counterexample"
+    ],
+    [
+      "Q3-002",
+      "cruise",
+      1520.148419006,
+      "point_counterexample"
+    ],
+    [
+      "Q3-002",
+      "cruise",
+      1521.147809387,
+      "point_counterexample"
+    ],
+    [
+      "Q3-002",
+      "cruise",
+      1522.147199768,
+      "point_counterexample"
+    ],
+    [
+      "Q3-002",
+      "cruise",
+      1523.146590149,
+      "point_counterexample"
+    ],
+    [
+      "Q3-002",
+      "cruise",
+      1524.14598053,
+      "point_counterexample"
+    ],
+    [
+      "Q3-002",
+      "cruise",
+      1525.145370911,
+      "point_counterexample"
+    ],
+    [
+      "Q3-002",
+      "cruise",
+      1526.144761292,
+      "point_counterexample"
+    ],
+    [
+      "Q3-002",
+      "cruise",
+      1527.144151672,
+      "point_counterexample"
+    ],
+    [
+      "Q3-002",
+      "cruise",
+      1528.143542053,
+      "point_counterexample"
+    ],
+    [
+      "Q3-002",
+      "cruise",
+      1528.893084839,
+      "point_counterexample"
+    ],
+    [
+      "Q3-003",
+      "cruise",
+      1513.823692584,
+      "point_counterexample"
+    ],
+    [
+      "Q3-003",
+      "cruise",
+      1514.458579737,
+      "point_counterexample"
+    ],
+    [
+      "Q3-003",
+      "cruise",
+      1515.457768876,
+      "point_counterexample"
+    ],
+    [
+      "Q3-003",
+      "cruise",
+      1516.456958014,
+      "point_counterexample"
+    ],
+    [
+      "Q3-003",
+      "cruise",
+      1517.456147153,
+      "point_counterexample"
+    ],
+    [
+      "Q3-003",
+      "cruise",
+      1518.455336292,
+      "point_counterexample"
+    ],
+    [
+      "Q3-003",
+      "cruise",
+      1519.454525431,
+      "point_counterexample"
+    ],
+    [
+      "Q3-003",
+      "cruise",
+      1520.453714569,
+      "point_counterexample"
+    ],
+    [
+      "Q3-003",
+      "cruise",
+      1521.452903708,
+      "point_counterexample"
+    ],
+    [
+      "Q3-003",
+      "cruise",
+      1522.452092847,
+      "point_counterexample"
+    ],
+    [
+      "Q3-003",
+      "cruise",
+      1523.451281986,
+      "point_counterexample"
+    ],
+    [
+      "Q3-003",
+      "cruise",
+      1524.450471124,
+      "point_counterexample"
+    ],
+    [
+      "Q3-003",
+      "cruise",
+      1525.449660263,
+      "point_counterexample"
+    ],
+    [
+      "Q3-003",
+      "cruise",
+      1526.448849402,
+      "point_counterexample"
+    ]
+  ],
+  "min_certified_margin_db": 1.0012705055569313,
+  "limiting_interval": {
+    "mission": "Q3-002",
+    "phase": "cruise",
+    "start_s": 1529.1429324342719,
+    "end_s": 1529.6426276247153,
+    "path": "direct",
+    "margin_db": 1.0012705055569313
+  }
+}

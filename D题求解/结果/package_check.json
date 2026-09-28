@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "issues": [],
+  "files": 331,
+  "archive": "交付包\\D题解题材料_排版核对稿_20260926.zip",
+  "bytes": 53428798,
+  "archive_sha256": "e5e91aa6769fa5f25df4789190e50d9cbfd21a797b4fc0943147112767b1ed8c",
+  "manifest_sha256": "4c0af7b595be54f496143dbb7a9168619e63876709bb317c603985ae51aa3ae3",
+  "scope": "ZIP CRC and every packaged file hash verified; numerical, paper text and typeset readback checks run before packaging; team approval and AI metadata incomplete",
+  "submission_ready": false,
+  "required_current_artifacts": 11
+}

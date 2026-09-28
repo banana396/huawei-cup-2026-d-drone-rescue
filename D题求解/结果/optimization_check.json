@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "issues": [],
+  "q1_lower_bound": 18,
+  "q1_lower_bound_by_zone": {
+    "S001": 2,
+    "S002": 2,
+    "S003": 2,
+    "S004": 1,
+    "S005": 1,
+    "S006": 1,
+    "S007": 1,
+    "S008": 1,
+    "S009": 1,
+    "S010": 1,
+    "S011": 1,
+    "S012": 1,
+    "S013": 1,
+    "S014": 1,
+    "S015": 1
+  },
+  "q2_candidates": 495,
+  "q2_front": 9,
+  "q3_compared_solutions": 9,
+  "q3_semantic_hash": "940aec80b51159343945ec08123835e9b4e64dd305141e34f8ae1432ad4da3d7",
+  "scope": "Finite candidate optimization and stated objective priorities; no global optimality claim for Q2/Q3",
+  "source_sha256": {
+    "q1_results_v2.json": "36fc9fa84c88d99168fde28a7f08532bb42a367a1f12fba82381855589e98715",
+    "q2_results.json": "5aead5efa0476f0e5eb970b4a9137ee8d8ea583a15f3539ad1cef487fbaa73db",
+    "q3_solution.json": "fb379d7ebad479f3a41921f857676d50e82d4a51c874295d6242c8ae8fc3e860",
+    "q3_candidate_comparison.json": "51d52fb1f06bf45fe47b48c5bb32025c22c11c396a393b23bceeedbc9738c99c"
+  }
+}

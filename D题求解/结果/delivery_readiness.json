@@ -1,0 +1,21 @@
+{
+  "artifact_stage": "numerical_solution_and_typeset_review_draft",
+  "submission_ready": false,
+  "typesetting_verified": true,
+  "human_disclosure_complete": false,
+  "scope": "Includes current numerical results, 17-page visually reviewed DOCX/PDF draft, neighborhood tradeoff and reproducibility evidence. AI metadata and team approval are incomplete.",
+  "remaining": [
+    "Verify actual AI tool model/version and release date",
+    "Team understanding, revision and approval",
+    "Re-render and re-review after disclosure or team edits",
+    "Confirm team-specific filename and submit manually"
+  ],
+  "attachment_rules": {
+    "max_bytes_conservative": 50000000,
+    "paper_filename": "D<team_id>.pdf",
+    "manual_attachment_filename": "D<team_id>.rar",
+    "format_note": "Manual prose specifies RAR, but its example upload screenshot allows ZIP/RAR. Confirm current official requirement; never rename ZIP to RAR.",
+    "final_pdf_md5_frozen": false
+  },
+  "expected_failure": "q3_joint_candidate_001 nominal communication passes; extra 1 dB test fails and is retained as tradeoff evidence"
+}

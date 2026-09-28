@@ -1,0 +1,98 @@
+{
+  "method": "每个约1秒时间段对三维距离取分量保守上界；若逐格扫掠证明无遮挡则不加遮挡损耗，否则按全程遮挡损耗计；静态回传逐格精确判别",
+  "required_margin_db": 1.0,
+  "backup_rule": "直连低于目标裕量时检查已在位中继；名义通信状态仍按题面直连优先记录",
+  "counts": {
+    "intervals": 38756,
+    "certified": 38743,
+    "refinement_checks": 23,
+    "point_counterexamples": 12,
+    "uncertified_leaves": 12,
+    "refined_certified_leaves": 6
+  },
+  "initial_uncertain_intervals": 13,
+  "certified_all_intervals": false,
+  "uncertain_examples": [
+    [
+      "Q3-002",
+      "cruise",
+      1524.16703786,
+      "point_counterexample"
+    ],
+    [
+      "Q3-002",
+      "cruise",
+      1525.145370911,
+      "point_counterexample"
+    ],
+    [
+      "Q3-002",
+      "cruise",
+      1526.144761292,
+      "point_counterexample"
+    ],
+    [
+      "Q3-002",
+      "cruise",
+      1527.144151672,
+      "point_counterexample"
+    ],
+    [
+      "Q3-002",
+      "cruise",
+      1528.143542053,
+      "point_counterexample"
+    ],
+    [
+      "Q3-002",
+      "cruise",
+      1528.893084839,
+      "point_counterexample"
+    ],
+    [
+      "Q3-003",
+      "cruise",
+      1523.819638277,
+      "point_counterexample"
+    ],
+    [
+      "Q3-003",
+      "cruise",
+      1524.450471124,
+      "point_counterexample"
+    ],
+    [
+      "Q3-003",
+      "cruise",
+      1525.449660263,
+      "point_counterexample"
+    ],
+    [
+      "Q3-003",
+      "cruise",
+      1526.448849402,
+      "point_counterexample"
+    ],
+    [
+      "Q3-003",
+      "cruise",
+      1527.44803854,
+      "point_counterexample"
+    ],
+    [
+      "Q3-003",
+      "cruise",
+      1528.197430395,
+      "point_counterexample"
+    ]
+  ],
+  "min_certified_margin_db": 1.0012705055569313,
+  "limiting_interval": {
+    "mission": "Q3-002",
+    "phase": "cruise",
+    "start_s": 1529.1429324342719,
+    "end_s": 1529.6426276247153,
+    "path": "direct",
+    "margin_db": 1.0012705055569313
+  }
+}

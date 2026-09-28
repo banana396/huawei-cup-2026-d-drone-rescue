@@ -1,0 +1,377 @@
+{
+  "status": "built_not_visually_verified",
+  "source_sha256": "2ed265d03449af2e694a61f4acd4b7287ae069daae98e13f4e7cc2eb55f759a6",
+  "reference_sha256": "9fb69956f2d2724ed75c44d5a565f3f747143f93fb62df6fe497d8b2a59fe405",
+  "docx_sha256": "b1dfbc379eba31b1a0349aa83e6aa0df43b21163089bff1441a1fc1e7651ae5d",
+  "output": "C:\\Users\\zhiyu\\Desktop\\新建文件夹\\D题求解\\交付材料\\D题论文_排版核对稿.docx",
+  "tables": 8,
+  "figures": [
+    "figures/02_safe_payload.png",
+    "figures/03_q2_tradeoff.png",
+    "figures/04_q2_resources.png",
+    "figures/01_terrain_routes.png",
+    "figures/05_q3_resources.png",
+    "figures/06_communication.png",
+    "figures/07_q4_resources.png"
+  ],
+  "equations": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "math": [
+    {
+      "source": "q",
+      "display": false,
+      "text": "q"
+    },
+    {
+      "source": "M_k",
+      "display": false,
+      "text": "Mk"
+    },
+    {
+      "source": "L_k(q)",
+      "display": false,
+      "text": "Lk(q)"
+    },
+    {
+      "source": "d_{ij}",
+      "display": false,
+      "text": "dij"
+    },
+    {
+      "source": "B_k",
+      "display": false,
+      "text": "Bk"
+    },
+    {
+      "source": "E_p",
+      "display": false,
+      "text": "Ep"
+    },
+    {
+      "source": "a_b",
+      "display": false,
+      "text": "ab"
+    },
+    {
+      "source": "d_b",
+      "display": false,
+      "text": "db"
+    },
+    {
+      "source": "w_b",
+      "display": false,
+      "text": "wb"
+    },
+    {
+      "source": "E_p\\le(1-\\rho_k)B_k",
+      "display": false,
+      "text": "Ep≤(1-ρk)Bk"
+    },
+    {
+      "source": "k",
+      "display": false,
+      "text": "k"
+    },
+    {
+      "source": "g_0=9.80665\\,\\mathrm{m/s^2}",
+      "display": false,
+      "text": "g0=9.80665 m/s2"
+    },
+    {
+      "source": "B_k",
+      "display": false,
+      "text": "Bk"
+    },
+    {
+      "source": "M_k",
+      "display": false,
+      "text": "Mk"
+    },
+    {
+      "source": "m_{0k}",
+      "display": false,
+      "text": "m0k"
+    },
+    {
+      "source": "\\eta_k",
+      "display": false,
+      "text": "ηk"
+    },
+    {
+      "source": "L_k(q)=L_{k0}-(L_{k0}-L_{kF})(q/M_k)^{3/2}.\\qquad (1)",
+      "display": true,
+      "text": "Lk(q)=Lk0-(Lk0-LkF)(q/Mk)3/2.    (1)"
+    },
+    {
+      "source": "B_k/L_k(q)",
+      "display": false,
+      "text": "Bk/Lk(q)"
+    },
+    {
+      "source": "E^{h}_{ij,k}=B_k d_{ij}/L_k(q)",
+      "display": false,
+      "text": "Eij,kh=Bkdij/Lk(q)"
+    },
+    {
+      "source": "(m_{0k}+q)g_0h^{\\uparrow}_{ij}",
+      "display": false,
+      "text": "(m0k+q)g0hij↑"
+    },
+    {
+      "source": "\\eta_k",
+      "display": false,
+      "text": "ηk"
+    },
+    {
+      "source": "1\\,\\mathrm{kWh}=3.6\\times10^6\\,\\mathrm{J}",
+      "display": false,
+      "text": "1 kWh=3.6×106 J"
+    },
+    {
+      "source": "E_{ij,k}(q)=\\frac{B_kd_{ij}}{L_k(q)}+\n\\frac{(m_{0k}+q)g_0h^{\\uparrow}_{ij}}{3.6\\times10^6\\eta_k}.\\qquad (2)",
+      "display": true,
+      "text": "Eij,k(q)=BkdijLk(q)+(m0k+q)g0hij↑3.6×106ηk.    (2)"
+    },
+    {
+      "source": "\\tau_{ij,k}=\\frac{h^{\\uparrow}_{ij}}{v^{\\uparrow}_k}\n+\\frac{d_{ij}}{v^c_k}+\\frac{h^{\\downarrow}_{ij}}{v^{\\downarrow}_k},\\qquad\n\\sum_{(i,j)\\in p}E_{ij,k}(q_{p,ij})\\le(1-\\rho_k)B_k.\\qquad (3)",
+      "display": true,
+      "text": "τij,k=hij↑vk↑+dijvkc+hij↓vk↓,    ∑(i,j)∈pEij,k(qp,ij)≤(1-ρk)Bk.    (3)"
+    },
+    {
+      "source": "s",
+      "display": false,
+      "text": "s"
+    },
+    {
+      "source": "T_f",
+      "display": false,
+      "text": "Tf"
+    },
+    {
+      "source": "c(s)=T_f\\begin{cases}\n0.65(0.90-s)/0.90+0.35,&0\\le s<0.90,\\\\\n0.35(1-s)/0.10,&0.90\\le s\\le1.\n\\end{cases}\\qquad (4)",
+      "display": true,
+      "text": "c(s)=Tf0.65(0.90-s)/0.90+0.35,0≤s<0.90,0.35(1-s)/0.10,0.90≤s≤1.    (4)"
+    },
+    {
+      "source": "k",
+      "display": false,
+      "text": "k"
+    },
+    {
+      "source": "i",
+      "display": false,
+      "text": "i"
+    },
+    {
+      "source": "0\\le q\\le M_k",
+      "display": false,
+      "text": "0≤q≤Mk"
+    },
+    {
+      "source": "q",
+      "display": false,
+      "text": "q"
+    },
+    {
+      "source": "M_k",
+      "display": false,
+      "text": "Mk"
+    },
+    {
+      "source": "\\mathcal B_i",
+      "display": false,
+      "text": "Bi"
+    },
+    {
+      "source": "i",
+      "display": false,
+      "text": "i"
+    },
+    {
+      "source": "\\mathcal C_i",
+      "display": false,
+      "text": "Ci"
+    },
+    {
+      "source": "c",
+      "display": false,
+      "text": "c"
+    },
+    {
+      "source": "B_c",
+      "display": false,
+      "text": "Bc"
+    },
+    {
+      "source": "e_c",
+      "display": false,
+      "text": "ec"
+    },
+    {
+      "source": "\\tau_c",
+      "display": false,
+      "text": "τc"
+    },
+    {
+      "source": "x_c\\in\\{0,1\\}",
+      "display": false,
+      "text": "xc∈{0,1}"
+    },
+    {
+      "source": "\\sum_{c\\in\\mathcal C_i:b\\in B_c}x_c=1\\quad(b\\in\\mathcal B_i),\\qquad\n\\min_{\\mathrm{lex}}\\left(\\sum_cx_c,\\sum_ce_cx_c,\\sum_c\\tau_cx_c\\right).\\qquad (5)",
+      "display": true,
+      "text": "∑c∈Ci:b∈Bcxc=1  (b∈Bi),    minlex(∑cxc,∑cecxc,∑cτcxc).    (5)"
+    },
+    {
+      "source": "S",
+      "display": false,
+      "text": "S"
+    },
+    {
+      "source": "b",
+      "display": false,
+      "text": "b"
+    },
+    {
+      "source": "a_b",
+      "display": false,
+      "text": "ab"
+    },
+    {
+      "source": "d_b",
+      "display": false,
+      "text": "db"
+    },
+    {
+      "source": "w_b",
+      "display": false,
+      "text": "wb"
+    },
+    {
+      "source": "a_b\\le d_b",
+      "display": false,
+      "text": "ab≤db"
+    },
+    {
+      "source": "W",
+      "display": false,
+      "text": "W"
+    },
+    {
+      "source": "W=\\sum_{b\\in\\mathcal B_{\\mathrm{nonmedical}}}w_b\\max(0,a_b-d_b),\\qquad\nT_2=\\max_p t_p^{\\mathrm{return}},\\qquad\n\\min_{\\mathrm{lex}}(W,T_2,E_2,N_2).\\qquad (6)",
+      "display": true,
+      "text": "W=∑b∈Bnonmedicalwbmax(0,ab-db),    T2=maxptpreturn,    minlex(W,T2,E2,N2).    (6)"
+    },
+    {
+      "source": "W",
+      "display": false,
+      "text": "W"
+    },
+    {
+      "source": "D_p(t)",
+      "display": false,
+      "text": "Dp(t)"
+    },
+    {
+      "source": "p",
+      "display": false,
+      "text": "p"
+    },
+    {
+      "source": "t",
+      "display": false,
+      "text": "t"
+    },
+    {
+      "source": "A_{pr}(t)",
+      "display": false,
+      "text": "Apr(t)"
+    },
+    {
+      "source": "B_r(t)",
+      "display": false,
+      "text": "Br(t)"
+    },
+    {
+      "source": "H_r(t)",
+      "display": false,
+      "text": "Hr(t)"
+    },
+    {
+      "source": "D_p(t)\\ \\lor\\ \\bigvee_r\\bigl[H_r(t)\\land A_{pr}(t)\\land B_r(t)\\bigr]=1.\\qquad (7)",
+      "display": true,
+      "text": "Dp(t) ∨ ⋁r[Hr(t)∧Apr(t)∧Br(t)]=1.    (7)"
+    },
+    {
+      "source": "D_p(t)=1",
+      "display": false,
+      "text": "Dp(t)=1"
+    },
+    {
+      "source": "c",
+      "display": false,
+      "text": "c"
+    },
+    {
+      "source": "g",
+      "display": false,
+      "text": "g"
+    },
+    {
+      "source": "z_{cg}",
+      "display": false,
+      "text": "zcg"
+    },
+    {
+      "source": "g",
+      "display": false,
+      "text": "g"
+    },
+    {
+      "source": "k",
+      "display": false,
+      "text": "k"
+    },
+    {
+      "source": "[s_j,e_j)",
+      "display": false,
+      "text": "[sj,ej)"
+    },
+    {
+      "source": "n_{gk}=\\max_t\\sum_{j\\in\\mathcal J_{gk}}\\mathbf1\\{s_j\\le t<e_j\\},\\qquad\n\\Delta_k=\\max\\left(0,\\sum_gn_{gk}-I_k\\right).\\qquad (8)",
+      "display": true,
+      "text": "ngk=maxt∑j∈Jgk1{sj≤t<ej},    Δk=max(0,∑gngk-Ik).    (8)"
+    },
+    {
+      "source": "u_g",
+      "display": false,
+      "text": "ug"
+    },
+    {
+      "source": "\\beta=\\frac{\\max_gu_g-\\min_gu_g}{\\sum_gu_g},\\quad \\beta\\le0.20,\\qquad\n\\min_{\\mathrm{lex}}\\left(\\sum_k\\Delta_k,\\sum_{g,k}n_{gk},\\beta\\right).\\qquad (9)",
+      "display": true,
+      "text": "β=maxgug-mingug∑gug,  β≤0.20,    minlex(∑kΔk,∑g,kngk,β).    (9)"
+    }
+  ],
+  "preserve_only_parts": [
+    "word/footnotes.xml",
+    "word/endnotes.xml",
+    "word/media/image1.png",
+    "word/media/image2.png",
+    "word/media/image3.jpeg",
+    "word/media/image4.png",
+    "word/theme/theme1.xml",
+    "word/webSettings.xml",
+    "word/fontTable.xml"
+  ],
+  "submission_ready": false
+}

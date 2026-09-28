@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "issues": [],
+  "reserve_levels": [
+    "10",
+    "15",
+    "20",
+    "25",
+    "30"
+  ],
+  "boxes_per_scenario": 80,
+  "scenario_count": 6,
+  "source_sha256": "36fc9fa84c88d99168fde28a7f08532bb42a367a1f12fba82381855589e98715"
+}

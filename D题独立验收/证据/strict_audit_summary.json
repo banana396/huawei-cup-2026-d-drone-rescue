@@ -1,0 +1,386 @@
+{
+  "status": "physical_feasibility_passed_with_table_boundary_precision_limit",
+  "Q2": {
+    "sorties": 24,
+    "model_sorties": {
+      "C": 6,
+      "A": 10,
+      "B": 8
+    },
+    "energy_kwh": 72.89098329333919,
+    "makespan_s": 6374.558827573747,
+    "minimum_SOC": 0.20950489005646666,
+    "minimum_hard_deadline_slack_s": 407.319690348259,
+    "total_lateness_s": 0,
+    "max_lateness_s": 0,
+    "coverage": 80,
+    "duplicates": 0,
+    "issues": 0
+  },
+  "Q3": {
+    "sorties": 24,
+    "model_sorties": {
+      "C": 6,
+      "A": 10,
+      "B": 8
+    },
+    "energy_kwh": 72.89098329333919,
+    "makespan_s": 6429.317140407739,
+    "minimum_SOC": 0.20950489005646666,
+    "minimum_hard_deadline_slack_s": 552.5147241790573,
+    "total_lateness_s": 0,
+    "max_lateness_s": 0,
+    "coverage": 80,
+    "duplicates": 0,
+    "issues": 0
+  },
+  "relay": {
+    "sorties": 3,
+    "energy_kwh": 3.3660038098077036,
+    "last_return_s": 6512.187235355526,
+    "minimum_SOC": 0.4148325523764299,
+    "issues": 0,
+    "rows": [
+      {
+        "id": "R-001",
+        "craft": "R01",
+        "component": "R-EC-01",
+        "position": [
+          109.2053656,
+          23.045737845454546,
+          754.0745849609375
+        ],
+        "start": 0,
+        "ready": 691.9805605295597,
+        "end": 5929.0262598995705,
+        "return": 6463.204702509209,
+        "energy": 1.8725358323954244,
+        "soc": 0.4148325523764299,
+        "recharge": 7723.92238441985,
+        "agl": 300.0,
+        "outbound_s": 481.98056052955974,
+        "inbound_s": 534.1784426096378,
+        "cruise_alt_m": 754.0745849609375
+      },
+      {
+        "id": "R-002",
+        "craft": "R02",
+        "component": "R-EC-02",
+        "position": [
+          109.2731658,
+          23.011964390909093,
+          620.8380737304688
+        ],
+        "start": 0,
+        "ready": 623.5953563127749,
+        "end": 2229.6777204957098,
+        "return": 2684.3679162860235,
+        "energy": 0.7288189596817225,
+        "soc": 0.7722440750994617,
+        "recharge": 3480.4506186567232,
+        "agl": 300.0,
+        "outbound_s": 413.5953563127749,
+        "inbound_s": 454.69019579031396,
+        "cruise_alt_m": 620.8380737304688
+      },
+      {
+        "id": "R-003",
+        "craft": "R02",
+        "component": "R-EC-03",
+        "position": [
+          109.26795039999999,
+          23.059247227272728,
+          520.2550964355469
+        ],
+        "start": 3754.6901957903137,
+        "ready": 4515.138246543308,
+        "end": 5929.0262598995705,
+        "return": 6512.187235355526,
+        "energy": 0.7646490177305568,
+        "soc": 0.7610471819592011,
+        "recharge": 7322.8258988085645,
+        "agl": 300.0,
+        "outbound_s": 550.4480507529939,
+        "inbound_s": 583.1609754559561,
+        "cruise_alt_m": 520.2550964355469
+      }
+    ]
+  },
+  "strict_excel_status": "NOT_ACCEPTED_POINT_DISCREPANCIES",
+  "physical_constraint_issues": 0,
+  "joint_makespan_s": 6512.187235355526,
+  "continuous": {
+    "status": "passed",
+    "method": "new 3D swept-triangle / closed pixel clipping and analytic distance bounds",
+    "initial_step_s": 20,
+    "counts": {
+      "intervals_evaluated": 1961,
+      "certified_leaves": 1960,
+      "worst_obstruction": 1365,
+      "swept_triangle_clear": 595
+    },
+    "minimum_certified_margin_db": 0.049792561226809084,
+    "failures": [],
+    "backhaul_margins_db": {
+      "R-001": 12.109428145601683,
+      "R-002": 3.1157166964976284,
+      "R-003": 9.302164597247184
+    }
+  },
+  "dense_scan": {
+    "time_step_max_s": 1,
+    "points": 37129,
+    "direct_unavailable_points": 14942,
+    "uncovered_points": 0,
+    "min_available_margin_db": 3.173718593529884e-05,
+    "failures": []
+  },
+  "communication_table": {
+    "records": 236,
+    "issues": 0,
+    "interval_counts": {
+      "checks": 22240,
+      "certified": 10912
+    },
+    "boundary_band_total_s": 8.280986128283985e-05,
+    "boundary_point_discrepancies": 57,
+    "strict_state_status": "NOT_ACCEPTED_POINT_DISCREPANCIES",
+    "scope": "recorded state certified outside listed <=1e-7 s bands; continuous existence separately certified without these exclusions"
+  },
+  "frozen_relay_coverage": {
+    "status": "passed",
+    "method": "new 3D swept-triangle / closed pixel clipping and analytic distance bounds",
+    "initial_step_s": 20,
+    "counts": {
+      "intervals_evaluated": 1961,
+      "certified_leaves": 1960,
+      "worst_obstruction": 1346,
+      "swept_triangle_clear": 614
+    },
+    "minimum_certified_margin_db": 0.049792561226809084,
+    "failures": [],
+    "backhaul_margins_db": {
+      "R-001": 12.109428145601683,
+      "R-002": 3.1157166964976284,
+      "R-003": 9.302164597247184
+    }
+  },
+  "Q4": {
+    "2": [
+      {
+        "group": "G1",
+        "zones": [
+          "S001",
+          "S002",
+          "S004",
+          "S005",
+          "S008",
+          "S012"
+        ],
+        "allocated": [
+          3,
+          0,
+          2,
+          4,
+          0,
+          3,
+          2,
+          2
+        ],
+        "independent_need": [
+          3,
+          0,
+          2,
+          4,
+          0,
+          3,
+          2,
+          2
+        ],
+        "relay_dependencies": [
+          "R-001",
+          "R-002",
+          "R-003"
+        ]
+      },
+      {
+        "group": "G2",
+        "zones": [
+          "S003",
+          "S006",
+          "S007",
+          "S009",
+          "S010",
+          "S011",
+          "S013",
+          "S014",
+          "S015"
+        ],
+        "allocated": [
+          3,
+          2,
+          1,
+          4,
+          4,
+          1,
+          2,
+          2
+        ],
+        "independent_need": [
+          3,
+          2,
+          1,
+          4,
+          4,
+          1,
+          2,
+          2
+        ],
+        "relay_dependencies": [
+          "R-001",
+          "R-002"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "group": "G1",
+        "zones": [
+          "S001",
+          "S002",
+          "S004",
+          "S012"
+        ],
+        "allocated": [
+          2,
+          0,
+          2,
+          2,
+          0,
+          3,
+          2,
+          2
+        ],
+        "independent_need": [
+          2,
+          0,
+          2,
+          2,
+          0,
+          3,
+          2,
+          2
+        ],
+        "relay_dependencies": [
+          "R-001",
+          "R-002",
+          "R-003"
+        ]
+      },
+      {
+        "group": "G2",
+        "zones": [
+          "S003",
+          "S005",
+          "S008"
+        ],
+        "allocated": [
+          3,
+          0,
+          2,
+          3,
+          0,
+          2,
+          1,
+          1
+        ],
+        "independent_need": [
+          3,
+          0,
+          2,
+          3,
+          0,
+          2,
+          1,
+          1
+        ],
+        "relay_dependencies": [
+          "R-001"
+        ]
+      },
+      {
+        "group": "G3",
+        "zones": [
+          "S006",
+          "S007",
+          "S009",
+          "S010",
+          "S011",
+          "S013",
+          "S014",
+          "S015"
+        ],
+        "allocated": [
+          3,
+          2,
+          0,
+          4,
+          4,
+          0,
+          2,
+          2
+        ],
+        "independent_need": [
+          3,
+          2,
+          0,
+          4,
+          4,
+          0,
+          2,
+          2
+        ],
+        "relay_dependencies": [
+          "R-001",
+          "R-002"
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "new_geometry_work": {
+    "exact_rays": 38543,
+    "ray_cells": 5537005,
+    "swept_cells": 2380328
+  },
+  "input_files_read": [
+    "C:\\Users\\zhiyu\\Desktop\\新建文件夹\\D题GitHub发布\\2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\中继无人机数据.xlsx",
+    "C:\\Users\\zhiyu\\Desktop\\新建文件夹\\D题GitHub发布\\2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\物资需求与配送时限.xlsx",
+    "C:\\Users\\zhiyu\\Desktop\\新建文件夹\\D题GitHub发布\\2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\调度中心与服务区.xlsx",
+    "C:\\Users\\zhiyu\\Desktop\\新建文件夹\\D题GitHub发布\\2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\运输无人机数据.xlsx",
+    "C:\\Users\\zhiyu\\Desktop\\新建文件夹\\D题GitHub发布\\2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\通信链路参数.xlsx",
+    "C:\\Users\\zhiyu\\Desktop\\新建文件夹\\D题GitHub发布\\2026年中国研究生数学建模竞赛赛题\\D题\\数据\\镇龙乡地理空间数据\\镇龙乡及周边地理数据\\数字高程模型数据（DEM）\\镇龙乡及周边30米DEM.tif",
+    "C:\\Users\\zhiyu\\Desktop\\新建文件夹\\D题GitHub发布\\D题优化\\outputs\\optimization-20260928\\结果提交模板_优化版.xlsx",
+    "C:\\Users\\zhiyu\\Desktop\\新建文件夹\\D题GitHub发布\\D题优化\\结果\\q3_solution.json"
+  ],
+  "frozen_hashes_unchanged": {
+    "C:\\Users\\zhiyu\\Desktop\\新建文件夹\\D题GitHub发布\\D题优化\\outputs\\optimization-20260928\\结果提交模板_优化版.xlsx": true,
+    "C:\\Users\\zhiyu\\Desktop\\新建文件夹\\D题GitHub发布\\D题优化\\结果\\q3_solution.json": true,
+    "C:\\Users\\zhiyu\\Desktop\\新建文件夹\\D题GitHub发布\\D题独立验收\\independent_audit.py": true,
+    "C:\\Users\\zhiyu\\Desktop\\新建文件夹\\D题GitHub发布\\2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\中继无人机数据.xlsx": true,
+    "C:\\Users\\zhiyu\\Desktop\\新建文件夹\\D题GitHub发布\\2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\物资需求与配送时限.xlsx": true,
+    "C:\\Users\\zhiyu\\Desktop\\新建文件夹\\D题GitHub发布\\2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\调度中心与服务区.xlsx": true,
+    "C:\\Users\\zhiyu\\Desktop\\新建文件夹\\D题GitHub发布\\2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\运输无人机数据.xlsx": true,
+    "C:\\Users\\zhiyu\\Desktop\\新建文件夹\\D题GitHub发布\\2026年中国研究生数学建模竞赛赛题\\D题\\数据\\无人机应急物资运输基础数据\\通信链路参数.xlsx": true,
+    "C:\\Users\\zhiyu\\Desktop\\新建文件夹\\D题GitHub发布\\2026年中国研究生数学建模竞赛赛题\\D题\\数据\\镇龙乡地理空间数据\\镇龙乡及周边地理数据\\数字高程模型数据（DEM）\\镇龙乡及周边30米DEM.tif": true,
+    "C:\\Users\\zhiyu\\Desktop\\新建文件夹\\D题GitHub发布\\2026年中国研究生数学建模竞赛赛题\\D题\\山区洪涝灾害下无人机运输与通信协同优化.docx": true
+  },
+  "forbidden_sources_read": [],
+  "elapsed_s": 26.8779718875885,
+  "conditions": [
+    "Original declared horizontal/climb energy formula and WGS84 local-distance approximation retained; not uniquely specified by question.",
+    "Piecewise-constant DEM heights with PixelIsPoint centres; floating-point geometric bounds with outward XY expansion and positive clearance guard.",
+    "Q3 JSON used solely for submitted transport assignments and reported fields to compare, not any derived spatial/radio judgment.",
+    "Continuity certifies all time, not just dense sample points; table mode changes have explicitly listed numerical boundary bands."
+  ]
+}
